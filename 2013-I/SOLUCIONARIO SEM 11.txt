@@ -235,17 +235,19 @@ El autor considera que la prohibición no servirá de mucho para enfrentar a la
 discriminación étnica. Las ideas en sí mismas no constituyen delito.
 =====================PREGUNTA 5======================
 5. Se desprende del texto que el Estagirita
+=====================ALTERNATIVAS======================
+A. propugnaba todas las atrocidades de su época.
+B. era extremista debido a que defendía el racismo.
+C. sentía una profunda aversión por las mujeres.
+D. asu mía que la libertad no es connatural a todos.*
+E. justificaba la sevicia a través de sus escritos.
+=====================ALTERNATIVA CORRECTA======================
+D 
+=====================RAZONAMIENTO======================
+Aristóteles brindaba argumentos en favor de la esclavitud.
 
-A) propugnaba todas las atrocidades de su época.
-B) era extremista debido a que defendía el racismo.
-C) sentía una profunda aversión por las mujeres.
-D) asu mía que la libertad no es connatural a todos.*
-E) justificaba la sevicia a través de sus escritos.
-
-CLAVE D. Aristóteles brindaba argumentos en favor de la esclavitud.
-
-TEXTO 2
-
+ID: TEXTO 2
+=====================TEXTO======================
 Para cualquiera que tiene una idea de lo que son las palabras en una cultura oral
 primaria, o en una cultura no muy distante de la oralidad primaria, no resulta sorprendente
 que el término hebreo dabar signifique "palabra" y "suceso". Malinowski ha comprobado
@@ -259,107 +261,71 @@ El hecho de que los pueblos orales comúnmente, y con toda probabilidad en todo 
 mundo, consideren que las palabras entrañan un potencial mágico está claramente vinculado, al menos de manera inconsciente, con su sentido de la palabra como, por necesidad, hablada, fonada y, por lo tanto, accionada por un poder. La gente que está
 muy habituada a la letra escrita se olvida de pensar en las palabras como primordialmente orales, como sucesos, y en consecuencia como animadas necesariamente por un poder; para ellas, las palabras antes bien tienden a asimilar se a las cosas, "allá afuera" sobre
 una superficie plana. Tales "cosas" no se asocian tan fácilmente a la magia, porque no son acciones, sino que están muertas en un sentido radical, aunque sujetas a la resurrección dinámica.
-
+=====================PREGUNTA 1======================
 1. El texto gira entorno a
-
-A) la cosmovisión de los pueblos primitivos.
-B) el resurgimiento dinámico de los vocablos.
-C) la naturaleza imperecedera del sonido.
-D) la palabra articulada como poder y acción.*
-E) la lengua como reflejo del pensamiento.
-
-
-
-
-CLAVE D. El texto centra su atención en la naturaleza de la palabra. Se pone como
+=====================ALTERNATIVAS======================
+A. la cosmovisión de los pueblos primitivos.
+B. el resurgimiento dinámico de los vocablos.
+C. la naturaleza imperecedera del sonido.
+D. la palabra articulada como poder y acción.*
+E. la lengua como reflejo del pensamiento.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El texto centra su atención en la naturaleza de la palabra. Se pone como
 ejemplo a las culturas orales primarias para entender mejor el concepto.
-
+=====================PREGUNTA 2======================
 2. La frase RESURRECCIÓN DINÁMICA alude a la
-
-A) articulación de las palabras mediante la lectura.*
-B) reintroducción de arcaísmos e n el plano escrito.
-C) difusión de neologismos en las culturas orales.
-D) revitalización de las culturas orales primarias.
-E) revaloración de algunos términos relegados.
-CLAVE A. La palabra escrita está muerta, resucita dinámicamente cuando se la
+=====================ALTERNATIVAS======================
+A. articulación de las palabras mediante la lectura.*
+B. reintroducción de arcaísmos e n el plano escrito.
+C. difusión de neologismos en las culturas orales.
+D. revitalización de las culturas orales primarias.
+E. revaloración de algunos términos relegados.
+=====================ALTERNATIVA CORRECTA======================
+A 
+=====================RAZONAMIENTO======================
+La palabra escrita está muerta, resucita dinámicamente cuando se la
 pronuncia en la lectura y cobra naturaleza sonora.
+=====================PREGUNTA 3======================
 3. Se colige del texto que para las culturas orales primarias la palabra
-
-A) no guarda relación con la magia.
-B) no puede tener presencia visual.*
-C) se limita a reflejar el pensamiento.
-D) se encuentra disociada del poder.
-E) se distingue por su naturaleza inerte.
-CLAVE B. Al ser culturas primarias solo conciben las palabras como sonido, mas no
+=====================ALTERNATIVAS======================
+A. no guarda relación con la magia.
+B. no puede tener presencia visual.*
+C. se limita a reflejar el pensamiento.
+D. se encuentra disociada del poder.
+E. se distingue por su naturaleza inerte.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Al ser culturas primarias solo conciben las palabras como sonido, mas no
 visualmente, ya que eso presupondría la presencia de escritura.
+=====================PREGUNTA 4======================
 4. Respecto del sonido, se colige que
-
-A) se encuentra al margen del tiempo.
-B) implica siempre el modo imperativo.
-C) carece por completo de dinamismo.
-D) no destaca entre las percepciones.
-E) se encuentra asociado a la acción.*
-CLAVE E. En el texto se afirma que la palabra articulada se asocia a la acción. Por otra
+=====================ALTERNATIVAS======================
+A. se encuentra al margen del tiempo.
+B. implica siempre el modo imperativo.
+C. carece por completo de dinamismo.
+D. no destaca entre las percepciones.
+E. se encuentra asociado a la acción.*
+=====================ALTERNATIVA CORRECTA======================
+E. 
+=====================RAZONAMIENTO======================
+En el texto se afirma que la palabra articulada se asocia a la acción. Por otra
 parte, el sonido no puede manifestarse sin intercesión del poder.
+=====================PREGUNTA 5======================
 5. Si un lingüista aseverara que las palabras son solo rótulos de las cosas,
+=====================ALTERNATIVAS======================
+A. no se sorprendería al conocer los significados del vocablo dabar .
+B. concordaría con la cosmovisión de las culturas orales primarias.
+C. criticaría acremente a las lenguas que poseen tradición escrita.
+D. revelaría que no concibe a la lengua como una forma de acción.*
+E. concordaría con la postura que el autor propugna en el texto.
+=====================ALTERNATIVA CORRECTA======================
+D. 
+=====================RAZONAMIENTO======================
+Al concebir las palabras como títulos escritos de las cosas, se hallaría en las antípodas de lo concebido por las culturas orales primarias.
 
-A) no se sorprendería al conocer los significados del vocablo dabar .
-B) concordaría con la cosmovisión de las culturas orales primarias.
-C) criticaría acremente a las lenguas que poseen tradición escrita.
-D) revelaría que no concibe a la lengua como una forma de acción.*
-E) concordaría con la postura que el autor propugna en el texto.
-CLAVE D. Al concebir las palabras como títulos escritos de las cosas, se hallaría en las antípodas de lo concebido por las culturas orales primarias.
-
-SERIES VERBALES
-1. Espetar, atravesar; acicatear, estimular; acibarar, turbar…
-A) loar, vilipendiar B) extirpar, implantar
-C) menguar, incrementar D) estragar, reconstruir
-
-
-
-E) conjeturar, entrever*
-
-CLAVE E. Se trata de una serie verbal sinonímica.
-2. Latoso, agradable; zafio, educado; gárrulo, lacónico…
-A) frenético, furioso B) vitando, odioso
-C) egregio, insigne D) garrulo, palurdo
-E) ladino, incauto*
-CLAVE E. Se trata de una serie formada por antónimos.
-3. Pendenciero, belicoso, pugnaz…
-A) exagerado B) provocador C) alborotador
-D) camorrista* E) doloso
-CLAVE D. Se completa con camorrista, ya que significa «que fácilmente y por causas
-leves arma camorras y pendencias.»
-4. Elija el término que no corresponde a la serie verbal.
-A) acechar B) otear C) atalayar
-D) espiar E) fisgar*
-
-CLAVE E. El campo semántico está asociado a la observación cuidadosa. “Fisgar” se encuentra en el terreno de la olfacción.
-5. Intolerante, intransigente; sobrecogedor, intimidante; atrabiliario, bilioso…
-A) solemne, informal B) abúlico, dinámico
-C) cismático, secesionista* D) mayestáti co, sobrio
-E) vejatorio, encomiás tico
-CLAVE C. La serie se encuentra formada por sinónimos.
-6. Malhadado, desventurado; latente, patente; proteo, veleidoso…
-A) tunante, taimado B) ingente, colosal
-C) prístino, original D) dechado, ejemplar
-E) astroso, aseado*
-CLAVE E. Se trata de una serie verbal mixta y presenta la siguiente secuencia:
-sinónimos, antónimos, sinónimos; por lo tanto se completará con antónimos.
-7. ¿Cuál de los siguientes vocablos no corresponde a la serie verbal?
-A) lúbrico B) libidinoso C) lascivo
-D) sicalíp tico E) disoluto*
-CLAVE E. El campo semántico corresponde específicamente a la lujuria.
-
-
-
-
-8. Sinuoso, serpenteante; corrosivo, mordaz; palmario, patente…
-
-A) insurrecto, sumiso B) arbitrario, caprichoso*
-C) displicente, atrayente D) incorruptible, venal
-E) perspicuo, abstruso
-CLAVE B. La serie verbal es sinonímica.
 
 SEMANA 11 C
 
