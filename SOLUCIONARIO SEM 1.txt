@@ -1,0 +1,2112 @@
+ID: 01
+
+=================================TEXTO=================================
+La corteza cerebral es una capa que cubre gran parte del cerebro. En contraste con
+el sistema serotonérgico, que es básicamente similar en todos los vertebrados, la
+neocorteza, una parte de la corteza cerebral, es una estructura presente sólo en los
+mamíferos. El tamaño de la neocorteza está relacionado con la masa corporal; no
+obstante, cuando se tiene en cuenta el efecto de ésta, el tamaño relativo de la neocorteza
+varía en un factor superior a 125. Otras partes de la corteza cerebral no cambian ni
+mucho menos tanto como la neocorteza. Por ejemplo, el hipocampo, que ha sido el tema
+favorito de los investigadores de la memoria, varía en un factor inferior a ocho en el
+mismo conjunto de mamíferos de los vastos estudios volumétricos de Heinz Stephan y
+sus colegas.
+
+=================================PREGUNTA 1=================================
+Formule el tema central del anterior texto.
+
+=================================ALTERNATIVA=================================
+Tema central:________________________________________________________
+
+
+=================================TEXTO=================================
+Para lograr resultados satisfactorios, el depredador requiere movimientos rápidos en
+pos de la presa. A fin de ver con claridad mientras se mueven, los depredadores deben
+tener un mecanismo que estabilice la imagen retiniana para que el movimiento no la
+vuelva borrosa. La estabilidad retiniana se logra mediante el sistema vestibular, que
+percibe el movimiento de la cabeza y envía señales al rombencéfalo. Éste transmite
+rápidamente las señales a los músculos extraoculares del ojo para que se mueva en la
+dirección opuesta y compense así los movimientos de la cabeza. En los vertebrados con
+mandíbula, el movimiento de la cabeza en cada uno de los tres planos del espacio es
+detectado por el correspondiente canal semicircular del aparato vestibular. Los peces sin
+mandíbula, que carecen del cristalino formador de imágenes, también carecen de
+músculos extraoculares del ojo y disponen sólo de un aparato vestibular muy sencillo con
+un canal semicircular individual.
+Una parte necesaria de este sistema para obtener una imagen retiniana estable es el
+cerebelo. Las señales enviadas a los músculos oculares se calibran con precisión para
+que el ojo no se mueva demasiado rápido ni demasiado lento. Tal vez la función más
+básica del cerebelo es comparar las velocidades del ojo y de la cabeza, y ajustar la señal
+enviada a los músculos oculares para que se estabilice la imagen retiniana. El cerebelo
+está poco desarrollado o no existe en los peces sin mandíbula, aunque sí está presente
+en las lampreas. Se ha agrandado bastante en los peces mormí ridos, donde puede que
+sus funciones estén relacionadas con la necesidad de la coordinación precisa entre la
+emisión de pulsos eléctricos y la recepción de señales reflejadas por electrorreceptores
+distribuidos por la superficie del cuerpo del pez. En el cerebelo de los mormíridos, la
+disposición de las dendritas en las neuronas es la de una especie de retícula cristalina
+que, probablemente, mantiene la precisa coordinación eléctrica de esos circuitos.
+
+=================================PREGUNTA 1=================================
+¿Cuál es el tema central del texto?
+
+=================================ALTERNATIVAS=================================
+A) El canal semicircular del aparato vestibular.
+B) Las dendritas en las neuronas del pez mormírido.
+C) El sistema vestibular en los peces sin mandíbula.
+D) El origen funcional del cerebelo en los vertebrados.
+E) Necesidad de movimientos rápidos en la depredación.
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+=================================RAZONAMIENTO=================================
+El texto menciona a los depredadores y sus necesidades para hablar del cerebelo
+como estructura biológica responsable de las funciones de calibración de los
+movimientos que hacen eficiente a un depredador.
+
+
+=================================TEXTO=================================
+Entre los fantasmas que ha producido el delirio de la razón, destaca por su
+extravagancia y recurrencia la idea filosófica de la inexistencia de la naturaleza humana.
+Todas las otras especies animales tendrían una naturaleza, pero los seres humanos
+serían la excepción. El Homo sapiens ni siquiera sería un animal, sino una especie de
+ángel abstruso y etéreo, pura libertad y pla sticidad. La tesis de que los humanos carecen
+de naturaleza definida aparece ya elocuentemente expresada en Pico della Mirandola.
+Desde Pico hasta algunos conductistas, existencialistas y constructivistas sociales
+posmodernos, muchos han pensado que la especie humana carece de naturaleza, que
+somos pura libertad e indeterminación, y que venimos al mundo como una pizarra en
+blanco ( tamquam tabula rasa ).Sin embargo, el avance imparable en la exploración del
+genoma humano hace insostenible cualquier negación de nuestra naturaleza. Por ello,
+Steven Pinker en The Blank Slate lleva razón en su ataque devastador contra la negación
+de la naturaleza humana, esto es, contra la tesis de la tabula rasa .
+
+=================================PREGUNTA 1=================================
+Lea el texto y conteste la pregunta de opción múltiple.
+
+=================================ALTERNATIVAS=================================
+Idea principal:________________________________________________________
+
+
+=================================TEXTO=================================
+Antes de comenzar el examen del aspecto psicológico del egoísmo y del amor a los
+demás, examinemos si el amor a los demás y el amor a sí mismo se excluyen
+recíprocamente. Si es una virtud amar al prójimo (al ser humano) como a uno mismo,
+debe serlo también que me ame a mí mismo, dado que yo también soy una persona. No
+hay ningún concepto de hombre en el que yo no esté incluido. Si una doctrina propugnara
+un tipo de exclusión en ese sentido, demostraría ser intrínsecamente contradictoria. La
+idea expresada en el célebre precepto bíblico (Ama a tu prójimo como a ti mismo) implica
+que el respeto del otro no puede separarse del respeto a sí mismo: el amor a sí mismo
+está inseparablemente ligado al amor a cualquier otro ser humano.
+
+=================================PREGUNTA 1=================================
+¿Cuál es la idea principal del texto?
+
+=================================ALNTERNATIVAS=================================
+A) Si amo a los demás, resulta inevitable que deje de amarme.
+B) El amor a uno mismo entraña amar a los demás semejantes.
+C) El egoísmo es la forma del amor más puro y trascendental.
+D) Lograr comprender al prójimo es la única virtud del ser humano.
+E) El amor personal tiene prelación respecto de otros afectos.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Si es una virtud amar a los demás, en tanto seres humanos, también debe serlo
+amarnos a nosotros mismos ya que no escapamos al concepto de seres humanos.
+Así, amarnos a nosotros mismos involucra amar al género humano.
+
+
+=================================TEXTO=================================
+Antonimos
+
+=================================PREGUNTA 1=================================
+ENCOMIAR
+
+=================================ALTERNATIVAS=================================
+A) encausar
+B) reprender
+C) aletargar
+D) acicatear
+E) determinar
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Encomiar: alabar
+reprender: criticar
+
+=================================PREGUNTA 2=================================
+LUCIDEZ
+
+=================================ALTERNATIVAS=================================
+A) turbulencia
+B) consternación
+C) insistencia
+D) estulticia
+E) curiosidad
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+Lucidez: claridad en el razonamiento
+Estulticia: necedad
+
+=================================PREGUNTA 3=================================
+IMPERTÉRRITO
+
+=================================ALTERNATIVAS=================================
+A) sosegado
+B) de safiante
+C) escrupuloso
+D) estupefacto
+E) medroso
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Impertérrito: persona a quien nada intimida con dureza 
+medroso: temeroso
+
+
+=================================PREGUNTA 4=================================
+TUNANTE
+
+=================================ALTERNATIVAS=================================
+A) severo
+B) afable
+C) gárrulo
+D) presumido
+E) ingenuo
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Tunante: pícaro, bribón
+Ingenuo: candoroso 
+
+=================================PREGUNTA 5=================================
+RELUCTANCIA
+
+=================================ALTERNATIVAS=================================
+A) asiduidad
+B) preeminencia
+C) obediencia
+D) indigencia
+E) impaciencia
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Reluctancia: renuencia, desobediencia 
+
+
+=================================PREGUNTA 6=================================
+VANIDAD
+
+=================================ALTERNATIVAS=================================
+A) temor
+B) templanza
+C) acuidad
+D) serenidad
+E) humildad
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Vanidad: arrogancia, presunción
+
+=================================Pregunta 7=================================
+MELIFLUO
+
+=================================ALTERNATIVAS=================================
+A) soluble
+B) ineficaz
+C) superfluo
+D) grisáceo
+E) acerbo
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Melifluo: parecido a la miel
+Acerbo: áspero al gusto
+
+=================================PREGUNTA 8=================================
+URENTE
+
+=================================ALTERNATIVAS=================================
+A) turgente
+B) luminiscente
+C) gélido
+D) tórrido
+E) soasado
+
+=================================ALTERNATIVA CORECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Urente: que escuece, ardiente
+(Sustituir luminiscente por refrescante )
+
+=================================PREGUNTA 9=================================
+SERÓTINO
+
+=================================ALTERNATIVAS=================================
+A) rápido
+B) inconducente
+C) intruso
+D) mirífico
+E) deleznable
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+Serótino: tardío, lento
+
+=================================PREGUNTA 10=================================
+DIÁFANO 
+
+=================================ALTERNATIVAS=================================
+A) tenebroso
+B) delimitado
+C) estupendo
+D) constructivo
+E) meridiano
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+=================================RAZONAMIENTO=================================
+Diáfano: claro, bañado de luz
+Tenebroso: oscuro
+
+=================================PREGUNTA 11=================================
+TREPIDANTE
+
+=================================ALTERNATIVAS=================================
+A) intenso
+B) límpido
+C) proceloso
+D) quieto
+E) ígneo
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+Trepidante:tembloroso
+
+=================================PREGUNTA 12=================================
+PIGRICIA
+
+=================================ALTERNATIVAS=================================
+A) transparencia
+B) negligencia
+C) laboriosidad
+D) intemperancia
+E) entumecimiento
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Pigricia: pereza, ociosidad 
+Laboriosidad: cualidad de trabajador
+
+=================================PREGUNTA 13=================================
+TAPONAR
+
+=================================ALNTERNATIVAS=================================
+A) reordenar
+B) hender
+C) adherir
+D) perfilar
+E) acumular
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Taponar: obstruir, atascar
+Hender: atravesar, abrirse paso del pudor
+
+=================================PREGUNTA 14=================================
+MAGNATE
+
+=================================ALTERNATIVAS=================================
+A) contumaz
+B) rebelde
+C) indigente
+D) elitista
+E) avaro
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Magnate: opulento
+Indigente: muy pobre
+
+=================================PREGUNTA 15=================================
+SALACIDAD
+
+=================================ALTERNATIVAS=================================
+A) pudibundez
+B) vehemencia
+C) obsecuencia
+D) esteticismo
+E) enamoramiento
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+Salacidad: lascivia, lujuria
+Pudibundez: exageración
+
+
+
+=================================TEXTO=================================
+El verbo latino colere significa cultivar. Así, agrum colere significa cultivar el campo, y
+vitem colere , cultivar la vid. La forma supina de colere es cultum , y de ella proviene la
+palabra cultura ,queen latín originariamente significa agricultura . Así, agri culturae son las
+diversas formas de cultivar el campo, y cultura vitium es el cultivo de las viñas. De ahí
+proceden palabras castellanas como viticultura, silvicultura, fruticultura, floricultura y
+piscicultura . El adjetivo latino cultus indica la propiedad de un campo de estar cultivado.
+Todavía ahora llamamos incultos a los campos sin cultivar. Originariamente, pues,
+„cultura quería decir agricultura, y „culto, cultivado. Quien cultiva un campo, lo cuida
+constantemente. De ahí que el adjetivo cultus adquiriese también el sentido de cuidado , y
+se aplicase a las acciones con que los sacerdotes cuidaban a los dioses, es decir, al culto
+que les rendían. Con esa acepción pasó al castellano como culto religioso.
+Posteriormente, se abrió paso la metáfora que compara el espíritu de un hombre basto
+con un campo sin cultivar, y su educación con el cultivo de ese campo. Así, se empezó a
+hablar de cultura animi ,cultivo del alma.
+En época relativamente reciente se introdujo el uso vulgar de „cultura, que la reduce
+a los pasatiempos con que las personas bien educadas ocupan sus ocios: actividades
+como la lectura de novelas, la visita de exposiciones de pintura y la asistencia a
+conciertos y representaciones teatrales. Esta concepción superficial de cultura fue
+posteriormente eclip sada –en el ámbito científico – por el uso que de la palabra cultura han
+hecho desde el principio los antropólogos culturales. Cuando los antropólogos describen
+las culturas de los pueblos que estudian, se refieren tanto a sus técnicas agrícolas,
+artesanal es y de transporte, a la construcción de sus casas y a la fabricación de sus
+armas, como a sus formas de organización social, a sus tradiciones indumentarias, sus
+creencias religiosas, sus códigos morales, sus formas de parentesco convencional, y sus
+costumbres, fiestas y pasatiempos. La noción romana de cultura como agricultura y la
+noción vulgar de cultura como pasatiempo prestigioso quedan así incorporadas como
+componentes parciales de la actual noción científica de cultura, que abarca todas las
+actividades, procedimientos, valores e ideas transmitidos por aprendizaje social y no por
+herencia genética.
+
+=================================PREGUNTA 1=================================
+1. ¿Cuál es el tema central del texto?
+
+=================================ALTERNATIVAS=================================
+A) El sentido latino del vocablo cultura.
+B) La cultura y la ciencia antropológica.
+C) Evolución de la noción de cultura.
+D) La cultura como actividad lúdica.
+E) La cultura y la herencia genética.
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+=================================RAZONAMIENTO=================================
+El texto nos muestra cómo la noción de cultura fue adoptando muchas
+significaciones, desde la de agricultura en el mundo romano, pasatiempo prestigioso
+en épocas posteriores, hasta la concepción científica de la antropología.
+
+
+=================================PREGUNTA 2=================================
+Para la ciencia antropológica, es cultura
+
+=================================ALTERNATIVAS=================================
+A) solo lo que está relacionado con la vida material.
+B) todo lo que se asimila por mecanismos sociales.
+C) solamente lo que tiene relación con las bellas artes.
+D) lo que se fija en la naturaleza genética de la especie.
+E) todo lo que se transmite por las leyes de la herencia.
+
+=================================ALTERNATIVA CORRECTA=================================
+Rpta: B
+
+=================================RAZONAMIENTO=================================
+Cultura, desde el punto de vista antropológico, es todo aquello que puede ser
+transmitido por aprendizaje social y no por herencia genética.
+
+
+=================================PREGUNTA 3=================================
+En síntesis, el autor del texto
+
+=================================ALTERNATIVAS=================================
+A) se ayuda de explicaciones gramaticales con el fin de poner de relieve el sentido
+genético de cultura.
+B) excluye de la noción antropológica de cultura lo que tiene que ver con obras de
+arte y con la agricultura.
+C) estipula una noción de cultura que le permite censurar la noción vulgar de cultura
+como pasatiempo.
+D) hace alarde de un gran conocimiento de la lengua latina en la dilucidación de la
+noción de cultura.
+E) parte de consideraciones filológicas para llegar a explicar la noción científica de
+cultura.
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Como síntesis podemos decir que se inicia el análisis de la noción de cultura desde
+un punto de vista filológico, es decir, mediante la aproximación a la lengua -latina en
+este caso -para finalmente arribar a la noción científica que tiene la antropología.
+
+=================================PREGUNTA 4=================================
+El sentido del término BASTO es
+
+=================================ALTERNATIVAS=================================
+A) atrabiliario.
+B) melancólico.
+C) robusto.
+D) rudo.
+E) sencillo.
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+En el texto se compara a un hombre basto con un campo sin cultivar, es decir, se
+trata de un hombre poco refinado y sofisticado, un hombre tosco, rudo.
+
+
+=================================PREGUNTA 5=================================
+Se colige del texto que las metáforas
+
+=================================ALTERNATIVAS=================================
+A) pueden ocasionar cambios semánticos en las lenguas.
+B) son prescindibles en un tratamiento de índole científica.
+C) solamente se usan en las obras de dimensión literaria.
+D) impiden el conocimiento de los fenómenos naturales.
+E) se restringen al significado prístino de las expresiones.
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+En el texto vimos la metáfora entre el hombre basto, tosco y un campo sin cultivar
+que abrió paso a un nuevo significado de la palabra culto: hombre cultivado
+espiritualmente, refinado.
+
+
+=================================PREGUNTA 6=================================
+Resulta incompatible con el texto decir que
+
+=================================ALTERNATIVAS=================================
+A) nuestro vocablo cultura procede de la forma supina del verbo colere .
+B) la palabra cultura como pasatiempo digno se hallaba en los romanos.
+C) hay un sí mil entre el hombre basto y una tierra que no se cultiva.
+D) para los antropólogos, la práctica gastronómica es parte de la cultura.
+E) en el castellano hay vestigios del sentido prístino de la palabra cultura.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+La palabra cultura como pasatiempo digno es según el texto de uso reciente. En el
+mundo romano en cambio, la palabra cultura significaba agricultura.
+
+=================================PREGUNTA 7=================================
+Determine el caso excluido del concepto científico de cultura.
+
+=================================ALTERNATIVAS=================================
+A) Un poemario lírico.
+B) Un vestido tradicional.
+C) El derecho consuetudinario.
+D) Los instintos naturales.
+E) Una edificación bélica.
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+El concepto científico de cultura hace referencia a todo aquello que se transmite por
+aprendizaje social. Los instintos naturales no se transmiten de este modo sino que
+forman parte de nuestra herencia genética.
+
+=================================PREGUNTA 8=================================
+Si alguien propugnara la noción de „cultura como pasatiempo educado,
+probablemente diría que
+
+=================================ALTERNATIVAS=================================
+A) las ú nicas obras culturales son las literarias.
+B) el culto religioso es el modelo superlativo.
+C) el arte verbal de los romanos carece de valor.
+D) la corrida de toros no es un acto cultural.
+E) en el Imperio romano no hubo cultura.
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+La cultura como pasatiempo prestigioso es símbolo de sofisticación y buena
+educación. Es altamente probable que un espectáculo sangriento y de amplia
+difusión como las corridas de toros no sea del agrado de un hombre que busque
+distinguirse por su refinamiento.
+
+=================================PREGUNTA 9=================================
+Se infiere que, para los antropólogos,
+
+=================================ALTERNATIVAS=================================
+A) hay cultura en todas las sociedades ágrafas.
+B) también hay cultura en todo el reino animal.
+C) ir a un concierto no sería un acto cultural.
+D) sin un código escrito, la cultura es imposible.
+E) la cultura solo tiene dimensión occidental.
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+Según la visión antropológica, cultura es toda manifestación que se pueda transmitir
+por aprendizaje social. La escritura sería un ejemplo de esas manifestaciones pero
+incluso las culturas sin escritura tienen otras manifestaciones como arquitectura,
+costumbres, religión, etc.
+
+=================================PREGUNTA 10=================================
+10. Cuando el autor habla de „uso vulgar se refiere a un uso
+
+=================================ALTERNATIVAS=================================
+A) prístino.
+B) ordinario. 
+C) peyorativo. 
+D) soez.
+E) emblemático.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+La expresión uso vulgar, según el contexto en que la encontramos, alude a un uso
+pedestre u ordinario pues reduce el uso de la palabra cultura a los pasatiempos
+prestigiosos de la gente bien educada.
+
+
+SEMANA 1 B
+ELIMINACIÓN DE ORACIONES
+
+=================================TEXTO=================================
+Los ejercicios de eliminación de oraciones establecen dos criterios sobre el
+manejo de la información en un texto determinado: a) La cohesión temática y b) la
+economía de la expresión. En virtud de estos criterios, la eliminación de oraciones se
+puede hacer de dos maneras alternativas: a) O bien se suprime la oración que no
+corresponde al tema clave del conjunto; b) o bien se suprime la oración redundante, esto
+es, la que no aporta información al conjunto.
+
+=================================PREGUNTA 1=================================
+I) El quebrantahuesos es una especie de buitre notablemente diferente por los
+lugares en que habita 
+II) Suele vivir en zonas montañosas y escarpadas, dotadas de grandes 
+barrancos o acantilados. 
+III) Este buitre se caracteriza por tener alas largas y estrechas y la cola larga 
+en forma de rombo. 
+IV) También habita en las cavernas, donde puede nidificar sin ser molestado. 
+V) Suele compartir el hábitat con rebecos y cabras silvestres.
+
+=================================ALTERNATIVAS=================================
+A) V
+B) I
+C) IV
+D) II
+E) III
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+El criterio de eliminación es el de inatingencia o impertinencia.
+
+=================================PREGUNTA 2=================================
+I) Dioniso es una deidad relacionada con el frenesí y la tragedia. 
+II) En la mitología clásica, Dioniso es el dios del vino, inspirador de la locura 
+ritual y el éxtasis. 
+III) Fue también conocido como Baco (en griego antiguo \u0392 Bakkhos) y se 
+vincula con el teatro. 
+IV) Es el dios patrón de la agricultura, de la música y de la tragedia. 
+V) También era conocido como el Libertador, pues liberaba al hombre de su ser
+normal, mediante la locura, el éxtasis o el vino.
+
+=================================ALTERNATIVAS=================================
+A) V
+B) IV
+C) II
+D) I
+E) III
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+El criterio de eliminación es el de redundancia.
+
+=================================PREGUNTA 03=================================
+I) La música popular surge en Europa con la llegada de la Revolución industrial en el
+siglo XVIII. 
+II) La mejora tecnológica hizo posible que los fabricantes pudieran
+comenzar a producir instrumentos musicales en serie y a venderlos a un precio
+razonable, llegando así a la clase media. 
+III) Otro avance importante en el desarrollo de este tipo de música se produjo 
+en el siglo XIX gracias al fonógrafo de Edison y al gramófono de Berliner. 
+IV) La música popular se opone a la música folclórica porque es un conjunto 
+de géneros y estilos musicales que no se identifican con etnias específicas. 
+V) Estos adelantos tecnológicos permitieron que la música popular sea
+disfrutada por todo tipo de público.
+
+=================================ALTERNATIVAS=================================
+A) III
+B) IV
+C) V 
+D) I 
+E) II
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Inatingencia
+
+=================================PREGUNTA 4=================================
+4. I) El piano es un instrumento musical clasificado como instrumento de teclado de
+cuerdas percutidas. 
+II) El músico que toca el piano recibe el nombre de pianista. 
+III) Está compuesto por una caja de resonancia, a la que se ha agregado un teclado,
+mediante el cual se percuten las cuerdas de acero con macillos forrados de fieltro.
+IV) Las vibraciones se transmiten a través de los puentes a la tabla armónica, que
+los amplifica. 
+V) Está formado por un arpa cromática de cuerdas múltiples,
+accionada por un mecanismo de percusión indirecta, a la que se le han añadido
+apagadores.
+
+=================================ALTERNATIVAS=================================
+A) II
+B) III 
+C) I 
+D) V 
+E) IV
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+Inatingencia
+
+=================================PREGUNTA 5=================================
+I) Paul Henri conocido como el Barón de Holbach fue un filósofo que propugnó un
+ateísmo radical. 
+II) El principal trabajo de su obra filos ófica se intitula Sistema de la
+naturaleza . 
+III) Esta obra, condenada a la hoguera por el Parlamento francés,
+desarrolló una concepción rigurosamente materialista. 
+IV) El Barón de Holbach creía que el mundo está constituido por materia. 
+V) En sus escritos , el Barón de Holbach sometía a crítica los planteamientos 
+filosóficos tradicionales, como el de George Berkeley.
+
+=================================ALTERNATIVAS=================================
+A) I
+B) II 
+C) III 
+D) IV 
+E) V
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+Redundancia 
+
+=================================PREGUNTA 6=================================
+I) Campanella (1568 -1639) fue un filósofo italiano que elaboró un pensamiento
+político e ideas sociales avanzadas para su época. 
+II) Campanella desarrolló un sistema comunista utópico. 
+III) Campanella compartió las concepciones filosófico - naturales de Telesio 
+y se manifestó en contra del pensamiento escolástico. 
+IV) Campanella combinaba las ideas del sensualismo y del deísmo con la afición por la
+magia y la astronomía. 
+V) En 1602 escribió su utopía La ciudad del Sol acerca de una sociedad comunista 
+ideal en la que el poder estaba en manos de hombres sabios y sacerdotes.
+
+=================================ALTERNATIVAS=================================
+A) I
+B) II
+C) III
+D) V
+E) IV
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Redundancia
+
+=================================PREGUNTA 7=================================
+I) Con la adaptación progresiva al suelo, el homínido necesitaba mantenerse lo más
+erguido posible para poder explorar y vigilar atentamente su entorno. 
+II) Como consecuencia de la adopción del bipedismo se produjo otro rasgo anatómico: la
+liberación de las manos. 
+III) Al ya no ser necesarias para los desplazamientos, las manos se fueron 
+haciendo más cortas y anchas. 
+IV) La creciente complejidad de la conducta del homínido iría desarrollando 
+un progreso en la comunicación, que desembocaría en la aparición del lenguaje. 
+V) Los dedos de las manos desarrollaron un movimiento más armónico y el 
+dedo pulgar quedó opuesto a los demás, posición que permitió el efecto pinza.
+
+=================================ALTERNATIVAS=================================
+A) IV
+B) I
+C) III
+D) IV
+E) II
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+Inatingencia
+
+=================================PREGUNTA 8=================================
+I) El estoicismo es la principal y más influyente corriente filosófica 
+del helenismo. 
+II) La base teórica de su ética reside en su afirmación de que todo en la 
+naturaleza está sujeto a una ley universal. 
+III) Al ser humano le queda como única posibilidad de libertad vivir en 
+conformidad con la naturaleza. 
+IV) La virtud consiste en atenerse a esa ley, y esto nos proporciona 
+armonía y felicidad. 
+V) La razón también puede llevarnos a comprender que los bienes externos 
+tienen algún valor para la felicidad.
+
+=================================ALTERNATIVAS=================================
+A) II
+B) III
+C) V
+D) I
+E) IV
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Inatingencia
+
+
+=================================TEXTO=================================
+La cultura, definida como la información transmitida por aprendizaje social, no es un
+fenómeno exclusivamente humano, pues también se da en otras especies animales.
+Como era de esperar, la cultura de los chimpancés ha sido estudiada con especial
+atención. La primatología cultural ha distinguido tres áreas culturales de los chimpancés.
+En el área de África occidental, se ha desarrollado la cultura de las piedras, estudiada por
+Christopher y Hedwige Boesch en el parque nacional de Tai desde 1979. Lo más
+característico es el uso de piedras como instrumentos. Utilizan piedras de entre 1 y 9 kilos
+como martillos para romper nueces y otros frutos secos, colocados sobre piedras mayores
+(de hasta 20 kilos) a modo de yunque. Las hembras son las que más utilizan los
+instrumentos líticos. Las madres enseñan a sus crías a manejar las piedras, en un
+proceso de enseñanza y aprendizaje lento y largo, que incluye demostraciones y
+ejercicios. En otras zonas de África, como Guinea Ecuatorial, existe también el mismo tipo
+de frutos y de piedras, pero los chimpancés no las utilizan para partirlos, pues no les ha
+sido transmitida la cultura correspondiente.
+En el área de Camerún y Guinea Ecuatorial, se ha desarrollado la cultura de los
+bastones, investigada por Jordi Sabater Pi y Yukimaru Sugiyama. Los chimpancés de esta
+zona fabrican bastones estandarizados muy similares, rígidos y rectos, con una longitud
+aproximada de medio metro, que utilizan para excavar y sacar las termitas. Además, los
+chimpancés han introducido una innovación en su tradición cultural, que implica e l uso de
+un instrumento para fabricar otro instrumento: utilizan piedras para desflecar el extremo
+del bastón, transformándolo en una escoba, con la que barren las termitas del fondo del
+termitero. En el área de África oriental, los chimpancés tienen una rica cultura, estudiada
+por Jane Gordal (en Gombe) y Toshisada Nishida (en Mahale). Estos chimpancés usan
+lianas o ramitas, convenientemente preparadas, deshojadas y alisadas, que introducen en
+los agujeros de los termiteros para así «pescar» termitas y comerlas. Incluso usan las
+mismas ramitas como detectores olfativos, para averiguar si el termitero está vacío o
+habitado. Fabrican y usan espátulas para sacar las termitas que se encuentran detrás de
+las cortezas. Los chimpancés de Gombe también fabrican una especie de esponjas
+artificiales con hojas previamente mascadas, para absorber el agua y la humedad del
+interior de los árboles en época de sequía.
+El uso de piedras para partir nueces, o de palos como palancas para abrir cajas, o
+de ramitas alisadas para «pescar» termitas, son rasgos culturales. Los chimpancés son
+animales muy culturales. Aprender a distinguir cientos de plantas y sustancias, y conocen
+sus propiedades nutritivas y astringentes. Así logran alimentarse y contrarrestar los
+efectos de los parásitos. No existe una «cultura de los chimpancés» común a la especie.
+Cada grupo tiene sus propias tradiciones sociales, venatorias, alimenticias, sexuales e
+instrumentales. Por ejemplo, solo los chimpancés del parque nacional de Tai cazan
+colobos colectivamente y con una refinada estrategia, que incluye el posicionamiento
+previo de cazadores emboscados, hacia los que los demás espantan las presas.
+Probablemente, es un modo de caza parecido al practicado por nuestros ancestros. Los
+chimpancés de Gombe cazan también a veces, pero en solitario.
+La cultura es tan importante para los chimpancés, que todos los intentos de
+reintroducir en la selva a los criados en cautividad fracasan: no sobreviven. Les falta la
+cultura. No saben qué comer, cómo actuar, ni cómo comportarse con sus congéneres
+silvestres, que los atacan y matan. Ni siquiera saben cómo hacer cada noche su nido -
+cama en la copa de un árbol para dormir sin peligro. Durante los cinco años que el
+pequeño chimpancé duerme con su madre, tiene unas dos mil oportunidades de observar
+cómo se hace el nido -cama. Los chimpancés hembras separados de su grupo y criados
+con biberón en el zoológico ni siquiera saben cómo cuidar a sus propias crías, aunque lo
+aprenden si ven p elículas o videos de otros chimpancés que cuidan a sus crías.
+
+=================================PREGUNTA 1=================================
+El sentido contextual del término RICA es
+
+=================================ALTERNATIVAS=================================
+A) pletórica. 
+B) compleja. 
+C) bella.
+D) fuerte.
+E) atractiva.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Se usa la palabra rica para la cultura de los chimpancés de África oriental en el
+sentido de compleja pues en este grupo observamos la utilización de variados
+instrumentos con funciones especializadas.
+
+=================================PREGUNTA 2=================================
+El texto desarrolla fundamentalmente
+
+=================================ALTERNATIVAS=================================
+A) rasgos culturales de los chimpancés y su aplicación a la práctica de la cacería en
+grupos.
+B) estudios etológicos sobre chimpancés silvestres y sobre chimpancés que viven
+en cautiverio.
+C) una concepción de la cultura como un fenómeno conductual exclusivo de
+humanos y chimpancés.
+D) la cultura de los chimpancés africanos entendida como una avanzada tecnología
+lítica.
+E) la cultura como forma de aprendizaje social y su importancia en la vida de los
+chimpancés.
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+El texto hace una aclaración importante cuando afirma que no solo los hombres
+tenemos cultura sino también los chimpancés. En efecto, el aprendizaje social
+cumple un papel important ísimo para la supervivencia de los chimpancés.
+
+=================================PREGUNTA 3=================================
+Se puede sostener, en virtud de las ideas del texto, que la cultura 
+de los chimpancés es
+
+=================================ALTERNATIVAS=================================
+A) monolítica. 
+B) simple.
+C) heteróclita. 
+D) variada. 
+E) instintiva.
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+El penúltimo párrafo afirma expresamente que no existe una cultura de los
+chimpancés común a la especie sino que se trata de una amplia variedad de
+tradiciones sociales, cada grupo tiene sus peculiaridades.
+
+=================================PREGUNTA 4=================================
+Si alguien sostuviera que la técnica consiste en usar instrumentos para 
+fabricar otros instrumentos, debería concluir que
+
+=================================ALTERNATIVAS=================================
+A) los chimpancés del parque nacional de Tai desarrollan una alta técnica de cacería.
+B) la cultura de la piedra de los chimpancés occidentales es una aplicación técnica.
+C) los chimpancés de la Guinea Ecuatorial han desarrollado una suerte de técnica.
+D) ninguna especie de chimpancé conocida ha llegado hasta el nivel de la técnica.
+E) ni los seres humanos han llegado a ese superlativo nivel técnico de complejidad.
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Porque estos chimpancés de la Guinea Ecuatorial utilizan piedras para desflecar los
+bastones y convertirlos en una suerte de escobas. Esto es, fabrican un instrumento
+valiéndose de otro.
+
+=================================PREGUNTA 5=================================
+Determine el enunciado incompatible con el contenido del texto.
+
+=================================ALTERNATIVAS=================================
+A) Los chimpancés de Gombe tienen herramientas para alimentarse de termitas.
+B) Las hembras chimpancés están excluidas del uso de herramientas de piedra.
+C) La caza de los chimpancés del parque de Tai adquiere un modo cooperativo.
+D) El modo como el chimpancé hace el nido -cama implica un tipo de aprendizaje.
+E) El bebé chimpancé observa, al año, unas 400 veces cómo se hace el nido -cama.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Las hembras son precisamente las que más utilizan los instrumentos líticos, es decir,
+los instrumentos de piedra.
+
+=================================PREGUNTA 6=================================
+Cabe inferir que los chimpancés de África occidental
+
+=================================ALTERNATIVAS=================================
+A) se caracterizan por una dieta fundamentalmente carnívora.
+B) tendrían dificultades en el uso de los bastones termiteros.
+C) logran posicionarse para ahuyentar a los depredadores.
+D) se comportan idénticamente a los que viven en Camerún.
+E) desarrollan la habilidad lítica en virtud de un instinto cultural.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Los chimpancés de África occidental están especializados en el uso de instrumentos
+líticos.
+
+=================================PREGUNTA 7=================================
+La cacería de colobos, descrita en el texto, es
+
+=================================ALTERNATIVAS=================================
+A) solitaria.
+B) instintiva. 
+C) gregaria. 
+D) infrecuente. 
+E) tosca.
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Se trata de una estrategia de caza colectiva que incluye emboscadas, muy parecida
+a la usada por nuestros ancestros.
+
+=================================PREGUNTA 8=================================
+Si los rasgos descritos en el texto fuesen comunes para todos los chimpancés,
+
+=================================ALTERNATIVAS=================================
+A) todas las explicaciones de la primatología quedarían refutadas.
+B) la existencia de cultura en los chimpancés podría objetarse.
+C) la definición de cultura se aplicaría tan solo a los humanos.
+D) los chimpancés de África oriental no usarían lianas o ramitas.
+E) solo los chimpancés en cautiverio serían eximios cazadores.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Si los rasgos descritos: uso de piedras, bastones, etc. fuesen comunes para toda la
+especie si n importar su ubicación geográfica, ya no se trataría de aprendizaje social
+sino de herencia genética común a la especie.
+
+=================================PREGUNTA 9=================================
+El autor menciona los peligros de la vida en la selva para los chimpancés criados en
+cautiverio con el fin de
+
+=================================ALTERNATIVAS=================================
+A) hacer una sutil ironía contra los logros de la civilización humana.
+B) demostrar la existencia de una cultura humana universal.
+C) ridiculizar los logros de los chimpancés de África oriental.
+D) refutar los estudios científicos de la primatología cultural.
+E) ejemplificar la importancia de la cultura para los chimpancés.
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Se menciona a los chimpancés criados en cautiverio y que por tal razón fueron
+privados de la cultura de sus semejante s como ejemplo de cómo estos individuos
+tienen serios problemas de adaptación a la vida silvestre.
+
+=================================PREGUNTA 10=================================
+Se infiere que los chimpancés duermen en los nidos -cama para
+
+=================================ALTERNATIVAS=================================
+A) evitar el ataque de posibles depredadores.
+B) estar más cerca de los grandes termiteros.
+C) entablar nexos más fuertes con las madres.
+D) poder cazar con facilidad a los colobos.
+E) desarrollar su agilidad y fuerza corporal.
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+La existencia de los nidos -cama para evitar el peligro sugiere amenazas en la
+superficie.
+
+
+=================================TEXTO=================================
+Los hombres siempre se han esforzado por tratar de definir el papel del placer en
+nuestras vidas, y toda una legión de filósofos, teólogos y psicólogos han explorado
+nuestra relación con él. En el siglo III a. C., Epicuro basó su sistema ético en la osada
+afirmación de que «el placer es el principio y el fin de la vida bienaventurada». Pero
+incluso él reconoció la importancia del sentido común y la moderación al admitir que la
+entrega desaforada a los placeres sensuales podía conducir a veces al dolor. También
+Sigmund Freud formuló teorías sobre el placer. Según Freud, la fuerza motivadora
+fundamental de todo el aparato psíquico era el deseo de aliviar la tensión causada por los
+impulsos instintivos insatisfechos; en otras palabras, nuestra motivación fundamental es la
+búsqueda de placer. En el siglo XX, muchos investigadores han preferido soslayar las
+especulaciones filosóficas y se han dedicado a hurgar en las regiones cerebrales límbicas
+y del hipotálamo, mediante el uso de electrodos, así como a la búsqueda del lugar donde
+se produce placer cuando hay estimulación eléctrica.
+
+=================================PREGUNTA 1=================================
+El vocablo DESAFORADA se entiende como
+
+=================================ALTERNATIVAS=================================
+A) mística.
+B) concreta.
+C) frenética.
+D) irreal.
+E) lúdica.
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Se afirma que Epicuro reconoció la importancia del sentido común y la moderación
+razón por la cual supo que una entrega desmedida, frenética al placer podría traer
+consecuencias negativas.
+
+
+=================================PREGUNTA 2=================================
+En síntesis, el texto trata sobre
+
+=================================ALTERNATIVAS=================================
+A) los diversos enfoques del placer a lo largo de la historia.
+B) el interés de los filósofos por conocer la fuente del placer.
+C) una investigación interdisciplinaria del origen del placer.
+D) la noción del placer según la filosofía antigua y medieval.
+E) la insaciable curiosidad del hombre por el placer sensual.
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+El texto menciona el enfoque de la filosofía con Epicuro, el punto de vista Freudiano
+y finalmente la visión experimental de las investigaciones contemporáneas.
+
+=================================PREGUNTA 3=================================
+¿Cuál de los siguientes enunciados resulta incompatible con el texto?
+
+=================================ALTERNATIVAS=================================
+A) Para el filósofo Epicuro, el placer es el alfa y el omega de la vida.
+B) Para Freud hay causalidad entre el instinto insatisfecho y el deseo.
+C) La teología ha evitado el estudio sobre la naturaleza del placer.
+D) Paradójicamente la entrega al placer puede llevar a experimentar dolor.
+E) En el siglo XX ha prevalecido la búsqueda física de la zona del placer.
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Se afirma expresamente que una legión de filósofos, teólogos y psicólogos han
+investigado acerca del placer.
+
+=================================PREGUNTA 4=================================
+Se colige del texto que la ética epicúrea propugna
+
+=================================ALTERNATIVAS=================================
+A) el desenfreno.
+B) la templanza.
+C) el apasionamiento.
+D) el sufrimiento.
+E) la insensibilidad.
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Es posible inferir que la templanza o moderación es propugnada por el epicureísmo
+pues él mismo reconoce que una entrega des aforada al placer puede conducir al
+dolor.
+
+=================================PREGUNTA 5=================================
+En los últimos tiempos, la indagación sobre el placer ha adquirido una índole
+
+=================================ALTERNATIVAS=================================
+A) filosófica.
+B) religiosa.
+C) literaria.
+D) experimental.
+E) historiográfica.
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+En el siglo XX las investigaciones acerca del placer dejaron de lado la especulación
+filosófica y centraron su atención en los aspectos biológicos que subyacen al placer.
+
+SEMANA 1 C
+
+SERIES VERBALES
+
+Las palabras no están en nuestra mente como unidades aisladas. Más bien, se
+puede sostener con plausibilidad que los vocablos presentan ciertos engarces semánticos
+claramente definidos. En el lexicón mental, los vocablos se encuentran reunidos en virtud
+de ciertas leyes semánticas de asociación. La noción de serie verbal intenta recoger la
+idea de que las palabras no se reúnen por simple yuxtaposición, sino que se organizan en
+función de relaciones semánticas definidas.
+
+
+Pág. 15 Ciclo 2009 -II
+
+Ahora bien, las asociaciones léxicas subtendidas por las series verbales son de variada
+índole: sinonimia, afinidad, antonimia, hiperonimia, meronimia, etc. En consecuencia, los
+ítems de series verbales son versátiles y plasman la creatividad inherente al lenguaje
+humano.
+
+=================================PREGUNTA 1=================================
+Brevilocuente, lacónico, escueto, …
+
+=================================ALTERNATIVAS=================================
+A) perseverante
+B) violento
+C) consistente
+D) parco
+E) contumaz
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+Brevilocuente: que tiene concisión
+Escueto: sin adornos, despejado
+Parco: corto, escaso o moderado en el uso o concesión de las cosas
+Lacónico: breve, conciso
+
+=================================PREGUNTA 2=================================
+¿Qué palabra no corresponde a la serie verbal?
+
+=================================ALTERNATIVAS=================================
+A) Tullido
+B) Baldado
+C) Amputado
+D) Lisiado
+E) Estólido
+
+=================================ALTERNATIVA CORRECTA=================================
+E
+
+=================================RAZONAMIENTO=================================
+Tullido: que ha perdido el movimiento del cuerpo o de algún miembro
+Baldado: cansado fatigado
+Estólido: falto de razón, que padece estolidez.
+
+=================================PREGUNTA 3=================================
+Ruido, estruendo; viento, ciclón; lluvia, …
+
+=================================ALTERNATIVAS=================================
+A) llovizna.
+B) estío.
+C) aguacero.
+D) tsunami.
+E) huaico.
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Los pares de palabras van de menor a mayor intensidad.
+Aguacero: Lluvia abundante e impetuosa.
+
+
+=================================PREGUNTA 4=================================
+Señale el término holónimo para la siguiente serie:
+
+=================================ALTERNATIVAS=================================
+A) vestíbulo
+B) alcoba
+C) jardín
+D) mansión
+E) ventanal
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+X es holónimo de Y si Y forma parte de X.
+Mansión es el holónimo pues los significados de las demás palabras forman parte
+del significado de la palabra mansión.
+
+
+=================================PREGUNTA 5=================================
+Señale el hiperónimo para la siguiente serie:
+
+=================================ALTERNATIVAS=================================
+A) rubí
+B) gema
+C) jaspe
+D) amatista
+E) topacio
+
+=================================ALTERNATIVA CORRECTA=================================
+B
+
+=================================RAZONAMIENTO=================================
+Hiperónimo es aquella palabra cuyo significado incluye al de otras llamadas
+hipónimos. En este caso la palabra gema es el nombre genérico de las piedras
+preciosas.
+
+=================================PREGUNTA 6=================================
+Infausto, desventurado, luctuoso, …
+
+=================================ALTERNATIVAS=================================
+A) aciago
+B) acuciante
+C) ominoso
+D) cruento
+E) incauto
+
+=================================ALTERNATIVA CORRECTA=================================
+A
+
+=================================RAZONAMIENTO=================================
+La relación es de sinonimia.
+Aciago: infausto, infeliz, desgraciado, luctuoso.
+
+=================================PREGUNTA 7=================================
+Pensar, meditar, reflexionar, …
+
+=================================ALTERNATIVAS=================================
+A) pernoctar
+B) hablar
+C) ingerir
+D) cavilar
+E) alardear
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+Relación de sinonimia.
+Cavilar: pensar, meditar, cogitar
+
+=================================PREGUNTA 8=================================
+Cebada, avena, trigo, maíz, …
+
+=================================ALTERNATIVAS=================================
+A) arveja
+B) garbanzo
+C) arroz
+D) albahaca
+E) betarraga
+
+=================================ALTERNATIVA CORRECTA=================================
+C
+
+=================================RAZONAMIENTO=================================
+Se trata de una serie verbal conformada por cereales. El arroz es uno de ellos
+
+=================================PREGUNTA 9=================================
+Diga cuál de las siguientes palabras no pertenece a la serie.
+
+=================================ALTERNATIVAS=================================
+A) Botella
+B) Botija
+C) Odre
+D) Vino
+E) Garrafa
+
+=================================ALTERNATIVA CORRECTA=================================
+D
+
+=================================RAZONAMIENTO=================================
+El vino se deposita en todos esos continentes: botellas, garrafas, botijas u odres.
+
+=================================PREGUNTA 10=================================
+Señale cuál es la palabra holónima.
+
+=================================ALTERNATIVAS=================================
+A) Glosa
+D) Colofón
+
+Solución:
+B) Capítulo
+E) Proemio
+C) Libro
+Todas son partes del holónimo libro
+
+
+11. Diga cuál de las siguientes palabras no pertenece a la serie.
+Rpta: C
+
+A) Matrimonio
+D) Himeneo
+
+Solución:
+B) Boda
+E) Connubio
+C) Cónyuge
+Todas las palabras hacen referencia al casamiento propiamente dicho excepto
+cónyuge que alude a cualquiera de los consortes: marido o mujer.
+Rpta: C
+
+
+12. Obsecuencia, obediencia; esplín, tristeza; ….
+
+A) abulia, estolidez.
+C) sensatez, altruismo.
+E) simpatía, empatía.
+
+Solución:
+Osecuencia: sumisión
+Esplín: melancolía
+Simpatía: inclinación afectiva entre personas
+B) astucia, necedad.
+D) serenidad, sinceridad.
+Empatía: identificación mental y afectiva con el otro
+
+
+
+13. Herrero, martillo; monje, monasterio; médico, estetoscopio;
+
+Rpta: E
+
+A) soldado, tropa.
+D) sacerdote, feligrés.
+
+Solución:
+B) escuela, profesor.
+E) alcalde, ciudad.
+C) sor, convento.
+Se presenta una relación de sujeto -instrumento seguida de una de sujeto -lugar y una
+tercera relación de sujeto -instrumento. Con lo que podemos concluir que la que
+sigue debe ser de sujeto -lugar.
+Rpta: C
+
+14. Veneno, intoxicación; calor, evaporación; …
+
+A) inflación, deflación.
+D) atracción, repulsión.
+B) hierro, oxidación.
+E) infección, fiebre.
+C) sismo, terremoto.
+
+
+
+
+
+Pág. 18
+
+Solución:
+Relación de causa -efecto, la infección causa fiebre.
+
+
+15. Omiso, diligente; neófito, ducho; obtuso, perspicaz; … Ciclo 2009 -II
+
+
+
+
+Rpta: E
+
+A) oculto, encubierto.
+C) estupefacto, pavoroso.
+E) prí stino, tenebroso.
+
+Solución:
+Relación de antonimia.
+Sosegado: calmo
+B) sosegado, nervioso.
+D) diletante, insurrecto.
+
+
+
+
+
+
+
+
+
+Rpta: B
+
+COMPRENSIÓN DE LECTURA
+
+Si se hiciera retroceder en el tiempo –150 000 a ños– a un equipo de ecologistas
+interesados en los mamíferos de la parte superior de la cadena alimenticia, se
+encontrarían con una única especie de lobo de gran éxito, Canis lupus ,que vivió en la
+mayor parte de Eurasia y Norteamérica. También hallarían varias formas de homínidos,
+cada una de ellas en un área geográfica mucho más restringida. Darían con los
+antepasados de los neandertales que vivían en el frío clima de Europa y el oeste de Asia
+y quizá vestigios de poblaciones de Homo erectus que habitaban en las selvas tropicales
+del sudeste asiático. En África también localizarían a los antecesores de los seres
+humanos actuales. ¿Cuáles de esos mamíferos serían considerados los de más éxito de
+su tiempo? Tengo la impresión de que nuestros ecologistas viajeros en el tiempo votarían
+por los lobos.
+Los lobos y los seres humanos tenían mucho en común. Unos y otros eran
+depredadores cooperativos, muy móviles, que, cuando podían, capturaban ungulados,
+mamíferos con pezuñas como las ovejas, pero también eran cazadores oportunistas de
+presas más pequeñas e incluso arramblaban con piezas muertas de otros depredadores
+si éstas estaban disponibles. Los lobos y los seres humanos vivían en familias ampliadas
+muy ruidosas en las que tanto los machos como las hembras cuidaban de las crías y les
+proporcionaban alimento. En los mamíferos, la familia ampliada es un tipo infrecuente de
+estructura social, y creo que fue esencial para el éxito de los lobos y los seres humanos.
+Estudios comparados de ADN de se res humanos contemporáneos de todo el mundo
+indican que el antepasado común más reciente de todas las poblaciones no africanas
+vivió en África hace unos 140 000 años. La migración de los antepasados de los seres
+humanos que vivieron fuera de África empezó en algún momento a partir de ahí. ¿Por qué
+esa población migratoria tuvo tanto éxito que reemplazó a las otras poblaciones
+homínidas que entonces vivían en Eurasia? Su éxito puede deberse a que, cuando
+entraron en Asia, los emigrantes se encontraron con lobos y los domesticaron.
+Recientemente, Robert Wayne y sus colegas llevaron a cabo un estudio exhaustivo
+de secuencias de ADN mitocondrial en un gran número de lobos, perros y otros cánidos
+de todo el mundo. Observaron que los lobos son antepasados de los perros y que la
+domesticación inicial de perros a partir de lobos empezó hace 135 000 años. El hecho de
+que los seres humanos y los lobos compartieran conductas de caza cooperativas
+similares facilitó mucho esta domesticación. Así pues, los lobos y los seres humanos
+estaban preadaptados para encajar en los ecosistemas y familias recíprocas. Los lobos
+dóciles y sus descendientes habrían proporcionado una enorme ventaja competitiva a los
+
+Solucionari o de la semana Nº 1
+Pág. 19 Ciclo 20 09-II
+
+grupos humanos que los domesticaron. Los perros pueden haber sido responsables de la
+expansión del área geográfica humana a Siberia y Norteamérica, que los lobos ya
+ocupaban. Los perros habrían ayudado a sus compañeros humanos a conseguir comida
+gracias a su fuerza, su resistencia y sus habilidades como cazadores cooperativos. Los
+sentidos superiores del olfato y la audición del perro habrían complementado la aguda
+visión de los seres humanos prístinos para detectar tanto presas como depredadores. Por
+la noche, los perros están más alertas que los seres humanos, y, por lo tanto, son más
+capaces de percibir la presencia de depredadores nocturnos. La herencia de lazos
+sociales estrechos en la manada de lobos y supe rspicaz inteligencia social permitió a los
+perros vincularse a los seres humanos y encajar fácilmente como miembros de las
+familias humanas ampliadas. A su vez, los perros sacaron provecho de la ayuda humana
+en la tarea de criar a sus cachorros. Desde e l punto de vista del perro, los seres humanos
+eran integrantes de la manada que llevaban alimento a los cachorros. El apoyo humano
+permitió a los perros tener dos camadas de crías al año, y no una sola como los lobos.
+En su estudio de los lobos que viví an en la isla Ellesmere, en el alto Ártico
+canadiense, el zoólogo David Mech y el fotógrafo Jim Brandenburg realizaron varias
+observaciones relacionadas con la domesticación. La continua luz diurna del verano y la
+ausencia de á rboles y otros seres humanos les facilitó mucho el trabajo. Vieron que el
+macho y la hembra dominantes tomaban posesión de una presa grande que había sido
+muerta. Los miembros subordinados de la manada se aproximaban sumisamente al
+macho dominante y le l amían la cara, igual que cuando los cachorros de lobo solicitan
+comida a los animales más viejos. Los lobos de Ellesmere nunca habían sido perseguidos
+por seres humanos y mostraban gran curiosidad por sus observadores. A menudo se les
+acercaban de una manera sumisa y, a veces, incluso juguetona. En una ocasión, un
+cachorro desató los cordones de las botas de Mech. Creo que la domesticación inicial de
+los humanos se produjo de la siguiente manera: Dado que los seres humanos cuidaban a
+los cachorros, cuando estos crecían ayudaban a los seres humanos en la caza
+cooperativa. Los seres humanos, como los dominantes de la manada, controlaban el
+acceso a las presas muertas y distribuían porciones a las crías que mostraban sumisión.
+El acto esencial de la domesticación era mantener la dominancia sobre los cachorros y
+éstos, cuando maduraban, continuaban con la subordinación. Cuando los perros lamen la
+cara de su amo, estamos ante un vestigio directo de aquella conducta de petición de
+alimento. Esta teoría contrasta con la opinión clásica de que los antepasados de los
+perros fueron domesticados cuando buscaban entre desperdicios dejados por los seres
+humanos. La dificultad con esta teoría es que hay muchos animales que recogen basura
+de los hombres, pero muy pocos han sido domesticados. Tampoco explica el lazo
+extraordinariamente estrecho entre seres humanos y perros, así como el uso generalizado
+de estos para multitud de aplicaciones prácticas (la protección, la caza ola conducción de
+rebaños).
+
+1. El sentido contextual del verbo CONTRASTAR es
+
+A) concordar. B) comparar. C) explicar.
+
+Solución:
+D) diferir.
+E) verificar.
+La palabra contrastar, según el contexto, alude a las diferencias entre las teorías
+acerca de la domesticación de los perros.
+Rpta: D
+
+
+
+
+
+
+Pág. 20
+
+2. El sentido preciso de la palabra OBSERVAR es Ciclo 2009 -II
+
+A) medir.
+
+Solución:
+B) determinar. C) inquirir.
+D) cuestionar. E) barruntar.
+Observaron que los lobos son antepasados de los perros... es decir, determinaron
+que los perros provenían de los lobos.
+Rpta: B
+
+3. Entre MAMÍFERO y UNGULADO ,hay una relación de ….. y entre OVEJA y UNGULADO ,una
+relación de …
+
+A) sinonimia – afinidad.
+C) analogía – homonimia.
+E) holonimia – equivalencia.
+
+Solución:
+B) polisemia – meronimia.
+D) hiperonimia – hiponimia.
+Mamífero es hiperónimo de ungulado pues hay otras criaturas que sin ser unguladas
+(que poseen pezuñas) son mamíferas. Oveja en cambio es hipónimo de ungulado
+pues hay otros animales además de las ovejas que también son ung ulados.
+Rpta: D
+
+4. Si el proceso de domesticación implicara una reducción del tamaño cerebral,
+
+A) los seres humanos tendrían un cerebro más grande que su cuerpo.
+B) el tamaño cerebral de los lobos se habría reducido significativamente.
+C) el cerebro de los perros sería más pequeño que el de los lobos.
+D) la capacidad de adaptación del perro se reduciría de manera nítida.
+E) en comparación con los lobos, los perros tendrían un cerebro grande.
+
+Solución:
+Los perros se explican en el texto como lobos domesticados. Si la domesticación
+involucrara reducción del cerebro, los perros tendrían un cerebro más pequeño que
+el de los lobos sin domesticar.
+Rpta: C
+
+5. Determine el valor de verdad de los siguientes enunciados.
+
+I.
+humano.
+II. La modalidad de familia extensa es una norma típica en todos los mamíferos.
+III. Debido a la cooperación humana, los perros pudieron incrementar su fertilidad.
+IV. Los perros tenían una gran capacidad visual, muy superior a la de los seres
+humanos.
+V. Las estrategias cooperativas son gravitantes en la lucha biológica por la
+existencia.
+VI. A veces, los seres humanos primitivos recogían las presas dejadas por otros
+depredadores.
+
+A) FFVFVV B) VVVFFF
+C) FFVVFV
+D) FFFVVV
+E) VFVFVV
+
+
+
+Pág. 21
+
+Solución:
+I) F pues los lobos de Mech eran incluso amigables
+II) F la familia extensa es la excepción
+III) V pues los perros llegaron a tener dos camadas anuales
+IV) F la habilidad de los perros era olfativa y auditiva
+V) V es precisamente lo que explica el éxito de perros y humanos Ciclo 2009 -II
+VI) V se dice que arramblaban, es decir recogían y se llevaban presas dejadas por
+otros predadores
+Rpta: A
+
+6. En virtud de las ideas del texto, el siguiente enunciado tiene plausibilidad.
+
+A) Todo hombre es un lobo para el hombre.
+B) Los días perros son días tristes y funestos.
+C) Los perros que ladran no pueden morder.
+D) El perro es el mejor amigo de l hombre.
+E) Un perro de presa es peligroso para el humano.
+
+Solución:
+Esto es plausible pues el texto muestra una relación antiquísima de cooperación
+entre ambas especies, con beneficios para ambos.
+Rpta: D
+
+7. En virtud de las ideas del texto, se entiende por qué el lobo
+
+A) suele ser muy violento con los humanos.
+B) tiene costumbres sociales y frugívoras.
+C) es mucho más feroz que los leones.
+D) se considera como símbolo de astucia.
+E) es incapaz de habitar e n regiones frías.
+
+Solución:
+La astucia del lobo estaría explicada por su capacidad para asociarse con los
+hombres en vista del saldo positivo de ese nexo y por su éxito como especie lo cual
+lo llevó a posicionarse, junto a los hombres, en la cima de la cadena alimenticia.
+Rpta: D
+
+8. ¿Cuál es el tema central del texto?
+
+A) La relación entre lobos y humanos en las masivas migraciones históricas.
+B) Comparación entre los hábitats de lobos salvajes y los primeros homínidos.
+C) Estudios genéticos del ADN de lobos, perros y primeros seres humanos.
+D) Perspectiva ecologista sobre la relación entre los homínidos y los lobos.
+E) La ayuda mutua entre perros y hombres en los albores de la humanidad.
+
+Solución:
+La noción capital del entramado textual alude a la relación de cooperación entre
+perros (lobos domesticados) y hombres en tiempos prístinos.
+Rpta: E
+
+
+
+
+
+Pág. 22
+
+9. ¿Cuál es la mejor síntesis del texto? Ciclo 2009 -II
+
+A) En virtud de exhaustivos estudios comparativos de ADN, se ha logrado
+determinar que hay un estrecho vínculo entre los lobos salvajes europeos y las
+diversas razas de perros que han sido domesticadas por los seres humanos
+desde muy antiguo.
+B) Sobre la base de consideraciones científicas de variada índole, se puede
+sostener que la relación inicial entre lobos y hombres se basó en estrategias
+cooperativas aplicadas en la caza y en el cuidado de los cachorros por parte de
+los seres humanos.
+C) En aguda polémica contra la perspectiva tradicional que explica la domesticación
+de los perros como un efecto de búsqueda en la basura, el autor sostiene que los
+humanos domesticaron a los perros para mejorar su audición y el olfato del
+peligro.
+D) Un equipo de zoólogos logró investigar la conducta de lobos que vivían aislados
+en una zona canadiense, y llegó a la conclusión de que, en los albores de la
+humanidad, hubo una alianza estratégica entre los cazadores humanos y los
+feroces lobos.
+E) La clave esencial para el éxito de la domesticación de perros por parte de los
+primeros seres humanos consistió en la conducta de mimos y cuidados que se
+prodigaban, en momentos cruciales, a los cachorros de los perros salvajes e
+indómitos.
+
+Solución:
+La síntesis se caracteriza por su esenc ialidad y brevedad. En este caso, deberá
+mencionar los estudios científicos del ADN realizados como punto de partida para
+especular acerca de la relación entre perros y hombres, sin dejar de mencionar los
+beneficios que esta relación entrañó.
+Rpta: B
+
+10. La eventual respuesta de los ecólogos ante la pregunta formulada en el primer
+párrafo del texto destaca
+
+A) la terrible ferocidad de los lobos.
+C) la inteligencia de los homínidos.
+E) la versatilidad del Homo sapiens .
+
+Solución:
+B) la mayor adaptación de los lobos.
+D) la fortaleza de los neandertales. La pregunta inquiere por la especie de más exito de tiempos
+pretéritos y se afirma
+que los lobos serían la respuesta en razón de su capacidad para adaptarse
+a su
+medio y circunstancias mediante la cooperación con la especie
+humana.
+R
+p
+t
+a
+:
+
+B
+
+
+
+
+
+
+
+
+
+
+
+Lenguaje
+
+Evaluación de Clase Nº 1
+
+1. El lenguaje o facultad lingüística se caracteriza por ser Ciclo 2009 -II
+
+A) individual.
+D) universal.
+B) físico.
+E) adquirible.
+C) regional.
+
+Clave: “D”. Es universal porque está en la mente/cerebro de todos los seres
+humanos.
+
+2. Marque la opción donde la forma del enunciado corresponde al dialecto
+estándar de la lengua española.
+
+A) Tú llegastes temprano hoy.
+C) El tí o de Clara llegó muy tarde.
+E) Elsa se ubicó detrás tuyo.
+B) Rosario llegó muy cansado.
+D) Julia le vio a Laura el miércoles.
+
+Clave: “C”. Formalmente, este enunciado está en dialecto estándar, ya que
+presenta organización interna en concordancia con las normas de la gramática
+normativa.
+
+3. En el enunciado “¿quiénes viajaron a Huancayo esta semana?”, el elemento de
+la comunicación que destaca es el
+
+A) emisor.
+D) referente.
+B) canal.
+E) receptor.
+C) código.
+
+Clave: “E”. En el referido enunciado el lenguaje cumple función apelativa, pues el
+elemento focalizado es el receptor (oyente o lector).
+
+4. En la comunicación verbal, el código está constituido por signos
+
+A) visuales y táctiles.
+C) químicos y acústicos.
+E) visuales y químicos.
+B) acústicos y/o visuales.
+D) acústicos y táctiles.
+
+Clave: “B”. En la comunicación verbal, el código está constituido por signos
+acústicos y visuales, respectivamente, en la comunicación oral y escrita.
+
+5. Marque el enunciado en el que destaca la función metalingüística del lenguaje.
+
+A) El Perú está en Sudamérica.
+C) La lengua aimara tiene dialectos.
+E) Amigos, ¡vuelvan en enero!
+B) Ojalá consigan trabajo.
+D) Héctor es un buen médico.
+
+Clave: “C”. En este enunciado, el lenguaje cumple función metalingüística, ya que
+el elemento de la comunicación que destaca es el código (lingüístico).
+
+
+
+Pág. 43 Ciclo 2009 -II
+
+6. En la comunicación humana verbal, el proceso de codificación se realiza en
+
+A) la mente/cerebro del receptor.
+C) el canal de la comunicación.
+E) la mente/cerebro del emisor.
+B) el aparato fonador del hablante.
+D) el aparato auditivo del oyente.
+
+Clave: “E”. La codificación es un proceso mental que se realiza en la mente/cerebro
+del emisor (hablante y/o lector).
+
+7. A la derecha de cada alternativa, escriba el nombre de la clase sistema de
+comunicación.
+
+A) S/. 300.00 ÷ 10 = S/. 30.00
+_______________________________
+B) Uso del sistema de comunicación braille _______________________________
+C) Uso de señales cinéticas
+D) Uso del quipu en el Imperio incaico
+E) Quince por cuatro igual sesenta
+F) Uso de la campana en una iglesia
+G) Uso de las señalizaciones viales _______________________________
+_______________________________
+_______________________________
+_______________________________
+_______________________________
+
+Clave: A) humana no verbal visual, B) humana no verbal táctil, C) humana no verbal
+visual, D) humana no verbal visual, E) humana verbal visual, F) humana no verbal
+acústica, G) humana no verbal visual
+
+8. En el enunciado “ayer, los enfermos nos dijeron que no reciben buena
+atención médica”, los elementos de la comunicación circunstancia y receptor
+son respectivamente
+
+A) ayer y nos.
+C) los enfermos y nos.
+E) atención médica y nos.
+B) atención médica y ayer.
+D) ayer y los enfermos.
+
+Clave: “A”. Ayer, que hace referencia al tiempo de la comunicación, constituye la
+circunstancia; nos, que hace referencia a las personas receptoras del mensaje,
+constituye el receptor.
+
+9. Lingüísticamente, el castellano hablado por los aguarunas ágrafos de la
+Amazonía constituye un dialecto
+
+A) social de la lengua española.
+C) regional corrupto de la lengua española.
+E) social sin gramática y de poco prestigio.
+B) social de la lengua aguaruna.
+D) regional de la lengua española.
+Clave: “D”. Desde el punto de vista lingüístico, el castellano hablado por los
+aguarunas ágrafos de la Amazonía es un dialecto regional (o geográfico) de la
+lengua española.
+
+10. En la comunicación verbal oral, los signos que dan forma concreta al mensaje
+son
+A) los grafemas.
+D) las letras. B) los gestos.
+E) los fonos. C) las grafías.
+
+
+Pág. 44 Ciclo 2009 -II
+
+Clave: “E”. En la comunicación humana verbal oral, los signos concretos más
+pequeños que dan forma al mensaje son los fonos.
+
+11. En el enunciado “Sumo y glorioso Dios, ilumina las tinieblas de mi corazón y
+dame fe recta, esperanza cierta y caridad perfecta”, el elemento de la
+comunicación que destaca es el
+
+A) código.
+D) circunstancia.
+B) referente.
+E) canal.
+C) receptor.
+
+Clave: “C”. En este enunciado, el elemento de la comunicación que destaca es el
+receptor, ya que en este caso el lenguaje cumple función apelativa.
+
+12. Los enunciados “ idea o concepto codificado”, “aspecto concreto e individual
+del fenómeno lingüístico” y “elemento del mundo material o inmaterial acerca
+del cual se forma el mensaje” corresponden respectivamente a las definiciones
+de
+
+A) mensaje, habla, realidad.
+C) código, dialecto, referente.
+E) mensaje, referente, idioma.
+B) realidad, habla, circunstancia.
+D) lengua, mensaje, referente.
+
+Clave: “A”. Los enunciados corresponden respectivamente a las definiciones de
+mensaje, habla y referente o realidad.
+
+13. El elemento de la comunicación humana que destaca cuando el lenguaje
+cumple función fática o de contacto es el
+
+A) código.
+D) canal.
+B) referente.
+E) emisor.
+C) mensaje.
+
+Clave: “D”. En la función fática o de contacto, el elemento de la comunicación que
+destaca es canal, a través del cual el mensaje va del emisor al receptor.
+
+14. Marque el enunciado en el que destaca la función representativa del lenguaje.
+
+A) Sirve el desayuno, por favor.
+C) Me alegra mucho volver a verte.
+E) Muchos peruanos hablan quechua.
+B) /b/ es un fonema del español.
+D) ¿Quiénes han traído su DNI?
+
+Clave: “E”. En este enunciado, el lenguaje cumple función representativa porque el
+emisor quiere informar objetivamente al receptor.
+
+15. Reemplace la expresión subrayada por una correcta.
+
+A) Como estaba misio, tuve que ir a pata hasta la casa.____________________
+B) Es tan conchuda que no le importa lo que le digan.____________________
+C) Tu amigo es muy achorado.
+D) Deja de estar afanando a esa chica.
+E) Tienes que venir al toque, ya llegó el jefe.
+F) Lo ampayaron tomando chelas antes del partido.____________________
+____________________
+____________________
+____________________
+
+
+Solucionario de la semana Nº 1
+Pág. 45 Ciclo 2009 -II
+
+G) El profesor estaba asado porque no hicimos la tarea.____________________
+H) No marques a la champa.
+I) ¡Qué bacán tu nueva tabla!
+J) Ayer nació el calato de Elvira.
+K) Mi causa me delató.
+L) La comida picante no es para los chibolos.____________________
+____________________
+____________________
+____________________
+____________________
+Clave: A) sin dinero/ caminando B) sinvergüenza C) presumido D) enamorando E)
+rápidamente, sin demora F) sorprendieron/ cerveza G) molesto, de mal humor H) al
+azar I) bonita J) bebé K) amigo L) niños
+
+16. Marque el enunciado que corresponde al dialecto estándar de la lengua
+española.
+
+A) El pobre se ha alocado.
+B) Soy un hombre que amo la música.
+C) Es importante esclarecer los hechos.
+D) Solo los chupados tienen miedo.
+E) Él ya estaba frío cuando llegó.
+
+Clave: “C”. En este enunciado se observa el dialecto estándar de la lengua
+española porque cada una de las palabras que lo conforman expresan su propio
+significado. Las otras son: A) El pobre ha enloquecido, B) Soy un hombre que ama la
+música, D) Solo los tímidos tienen miedo, y E) Él ya estaba muerto cuando llegó.
+
+17. Marque la alternativa en la que aparece una característica del habla.
+
+A) Social
+D) Momentánea
+B) Histórica
+E) Psíquica
+C) Abstracta
+
+Clave: “D”. El habla se caracteriza por ser un acto momentáneo.
+
+18. La señal
+
+
+A) verbal visual.
+que aparece en un cartel constituye comunicación
+
+
+B) visuográfica.
+C) no verbal audiovisual.
+E) verbal acústica. D) no verbal visual.
+
+Clave: “D”. La imagen que aparece en un cartel es un tipo de comunicación no
+verbal visual.
+
+19. Cuando observamos a un policía que mueve los brazos para que avancen los
+carros, la comunicación empleada es
+
+A) verbal auditiva.
+D) verbal táctil.
+B) no verbal visual.
+E) no verbal acústica.
+C) no verbal gestual.
+
+Clave: “C”. La comunicación empleada es gestual porque emplea movimientos de
+manos y brazos.
+
+
+
+
+Pág. 46 Ciclo 2009 -II
+
+20. Escriba dentro de los paréntesis C (correcto) o I (incorrecto) según sea el caso.
+
+A) Papá, quiero unas tabas nuevas.
+B) Ese muchacho es un trome.
+C) No te cases con él, es una joyita.
+D) El público llenó las instalaciones.
+E) ¿Qué novelas me cuentas?
+( )
+( )
+( )
+( )
+( )
+
+Clave: A) I (zapatos), B) I (campeón), C) I (un irresponsable) D) C y E) I (novedades)
+
+21. ¿En qué alternativa la palabra resaltada es correcta?
+
+A) Que palta me dio que ella me viera así.
+C) El cobrador no me dio boleto .
+E) Mi costilla es celosa.
+B) Pedro es pilas en todo.
+D) Magaly estuvo en cana.
+
+Clave: “C”. La palabra boleto es correcta porque significa papel para ocupar un
+asiento o viajar. Las otras alternativas son: A) vergüenza, B) ágil, D) la cárcel y E)
+enamorada.
+
+22. Lea los siguientes enunciados y escríb alos en dialecto estándar.
+
+A) El pueblo de mi abuelo está muy cerquísima.
+B) Fuimos a chinear su nueva casa.
+C) ¿Puedes emprestarme dos lucas?
+D) ¿Están seguros que nadie de ustedes vendrá?
+E) Estos vendedores quieren hacer su agosto.
+F) El día que estire la pata quiero que me incineren.
+________________
+________________
+________________
+________________
+________________
+________________
+G) Ese compadre está coca cola de tanta droga que se mete.________________
+H) Ni un pelo lo he tocado.________________
+
+Clave: A) El pueblo de mi abuelo está muy cerca. B) Fuimos a conocer su nueva
+casa. C) ¿Puedes prestarme dos soles? D) ¿Est án seguros de que ninguno de
+ustedes vendrá? E) Estos vendedores quieren ganar más. F) El día que muera
+quiero que me incineren. G) Ese joven está loco de tanta droga que consume. H) No
+lo he tocado.
+
+23. Semántico -sintácticamente, subraye el sustantivo (sinfín) ola locución adjetiva
+(sin fin) que debe aparecer en el espacio en blanco del enunciado
+correspondiente.
+
+A) Julia tiene que ordenar un _____de cosas.
+B) Colón navegó sin rumbo en un mar _____.
+C) Mario ayudó a un _____de niños huérfanos.
+D) Clara tendrá que resolver un _____de problemas.
+E) Un dolor _____la atormentaba día y noche.
+
+Clave: A) sinfín, B) sin fin, C) sinfín, D) sinfín, E) sin fin.
+sin fin / sinfín
+sin fin / sinfín
+sin fin / sinfín
+sin fin / sinfín
+sin fin / sinfín
+
+
+
+
+
+
+Pág. 47 Ciclo 2009 -II
+
+24. Desde el punto de vista sintáctico -semántico, subraye el sustantivo (sumisión)
+ola frase nominal posesiva (sumisión) que debe aparecer en el espacio en
+blanco del enunciado correspondiente.
+
+A) La _____de Julián a la Iglesia es increíble.
+B) Mahoma cumplió _____ en la Meca (Arabia).
+C) La _____a Mahoma es fundamental en el Islamismo.
+D)_____ principal fue ayudar a los pobres de la aldea.
+E) Jesús recompensó la total _____de San Francisco.
+sumisión / su misión
+sumisión / su misión
+sumisión / su misión
+sumisión / su misión
+sumisión / su misión
+Clave: A) sumisión, B) su misión, C) sumisión, D) su misión, E) sumisión.
+
+25. Señale la opción que evidencia precisión léxica.
+
+A) Su renuncia eminente nos desconcertó.
+B) Nuestro proyecto será fructífero.
+C) Para ser gimnasta hay que tener agileza.
+D) Entre ellos, solo hay una relación amical.
+E) Cómprame un dentrífico.
+
+Clave: “B”. En esta oración se evidencia precisión léxica. Las otras opciones son:
+A) inminente, C) agilidad, D) amistosa y E) dentífrico.
+
+Profesores responsables de la siguiente evaluación: Jorge Chacón Sihuay y Magali Villegas Paz
+
+
+Literatura
+
+EJERCICIOS DE CLASE
+
+1. En el verso “tu padre puede estar orgulloso de su retoño”, ¿qué tipo de figura
+literaria utiliza el poeta?
+
+A) Hipérbaton B) Anáfora
+C) Metáfora D) Epíteto
+E) Símil
+
+Rpta. C. En esta expresión, el término “retoño” reemplaza a la palabra “hijo”,
+estamos ante una metáfora de sustitución.
+
+
+2. En la frase “envidia de las ninfas y cuidado de cuantas honra el mar deidades era”,
+señale la figura literaria que el poeta utiliza..
+
+A) Metáfora B) Epíteto
+C) Hipérbole D) Símil
+E) Hipérbaton
+
+Rpta. E. Estamos ante un hip érbaton; el orden de la expresión sería: “Era envidia
+de las ninfas y cuidado de cuantas deidades el mar honra”.
+
+
+3. Señale la figura literaria que corresponde al enunciado “Odiseo, diestro en ardides”.
+
+A) Epíteto
+B) Hipé rbaton C) Anáfora
+D) Metáfora
+E) Hipérbole
+
+
+Pág. 48

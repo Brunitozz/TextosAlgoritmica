@@ -1,0 +1,24 @@
+ID: <Id del texto>
+=====================TEXTO======================
+<Texto>
+=====================PREGUNTA 1======================
+<Pregunta>
+=====================ALTERNATIVAS======================
+A.
+B.
+C . ..
+=====================ALTERNATIVA CORRECTA======================
+<respuesta>
+=====================RAZONAMIENTO======================
+<razonamiento>
+=====================PREGUNTA 2======================
+<Pregunta>
+=====================ALTERNATIVAS======================
+A.
+B.
+C . ..
+=====================ALTERNATIVA CORRECTA======================
+<respuesta>
+=====================RAZONAMIENTO======================
+<razonamiento>
+... <hasta completar todas las preguntas>
