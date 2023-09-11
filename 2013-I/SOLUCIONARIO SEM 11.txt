@@ -327,10 +327,9 @@ D.
 Al concebir las palabras como títulos escritos de las cosas, se hallaría en las antípodas de lo concebido por las culturas orales primarias.
 
 
-SEMANA 11 C
-
+ID: SEMANA 11 C 
 TEXTO 1
-
+=====================TEXTO======================
 Existe una enfermedad metabólica muy rara, denominada trimetilaminuria (TMAU)
 cuya característica principales que los enfermos despiden un fuerte olor a pescado. Esta enfermedad ha sido también descrita como síndrome de olor a pescado. La trimetilaminuria se puede heredar como un rasgo genético autosómico dominante. El gen que regula la expresión de la proteína que causa esta enfermedad está localizado en el brazo largo del cromosoma 1. También puede ser una enfermedad adquirida de forma
 secundaria al tratamiento con grandes dosis de L- carnitina.
@@ -343,70 +342,96 @@ volátil que despide un fuerte olor repugnante a pescado descompuesto.
 La restricción en la dieta de alimentos como pescado, hígado, huevos y otros
 alimentos que son fuentes de colina, como nueces y cereales, disminuyen el olor a pescado de forma importante. El desconocimiento de esta alteración puede conducir a que en forma equivocada el paciente sea referido para psicoterapia ya que los que padecen de este síndrome pueden tener importantes alteraciones psíquicas y de
 conducta social como consecuencia del mal olor que despiden.
+=====================PREGUNTA 1======================
 1. En el texto, el sentido contextual de REFERIDO es
-A) encaminado.* B) desvirtuado. C) diferido.
-D) persuadido. E) descarriado.
-Los médicos centran más su atención e n la conducta del paciente y no en el desorden
+=====================ALTERNATIVAS======================
+A. encaminado.* 
+B. desvirtuado. 
+C. diferido.
+D. persuadido. 
+E. descarriado.
+=====================ALTERNATIVA CORRECTA======================
+A 
+=====================RAZONAMIENTO======================
+Los médicos centran más su atención en la conducta del paciente y no en el desorden
 metabólico que padecen; por esta razón, los enrumban hacia los pscioterapeutas.
+=====================PREGUNTA 2======================
 2. En el texto, la expresión EN CONDICIONES NORMALES alude un estado de
-A) bienestar. B) salud.* C) tranquilidad.
-D) lozan ía. E) robustez.
+=====================ALTERNATIVAS======================
+A. bienestar. 
+B. salud.* 
+C. tranquilidad.
+D. lozan ía. 
+E. robustez.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
 La TMA se produce en el intestino de modo natural cuando el organismo funciona
 normalmente, o sea, cuando los individuos están saludables.
-
-
-
-
+=====================PREGUNTA 3======================
 3. El texto gira entorno a
-
-A) la enfermedad congénita llamada trimetilaminuria.
-B) las nefastas consecuencias de la trimetilaminuria.
-C) la trimetilaminuria o síndrome de olor a pescado.*
-D) el origen o causa del síndrome de olor a pescado.
-E) los alimentos que producen el mal olor a pescado.
+=====================ALTERNATIVAS======================
+A. la enfermedad congénita llamada trimetilaminuria.
+B. las nefastas consecuencias de la trimetilaminuria.
+C. la trimetilaminuria o síndrome de olor a pescado.*
+D. el origen o causa del síndrome de olor a pescado.
+E. los alimentos que producen el mal olor a pescado.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
 El texto tiene como tema central la alteración metabólica llamada trimetilaminura (TMA)
 que se caracteriza por que el individuo que lo padece despide un fuerte olor a pescado descompuesto. Por esto último, la TMAU se denomina también síndrome de olor a pescado.
+=====================PREGUNTA 4======================
 4. Es incompatible con el texto sostener que los individuos con trimetilaminuria
-
-A) merecen tratamiento psicológico.
-B) han nacido así o lo ha contraído.
-C) presentan una conducta anormal.
-D) abundan dentro en una sociedad.*
-E) se han aplicado mucha L- carnitina.
+=====================ALTERNATIVAS======================
+A. merecen tratamiento psicológico.
+B. han nacido así o lo ha contraído.
+C. presentan una conducta anormal.
+D. abundan dentro en una sociedad.*
+E. se han aplicado mucha L- carnitina.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
 La TMA es una enfermedad metabólica rara en una sociedad, así que quienes la padecen no han de abundar en el seno de una colectividad.
-
+=====================PREGUNTA 5======================
 5. Se infiere del texto que la enzima trimetilamina oxidasa
-
-A) es muy volátil en el exterior.
-B) está vinculada con la nuez.
-C) es altamente nauseabunda.
-D) es producida en el intestino.
-E) neutraliza el olor a pescado.*
+=====================ALTERNATIVAS======================
+A. es muy volátil en el exterior.
+B. está vinculada con la nuez.
+C. es altamente nauseabunda.
+D. es producida en el intestino.
+E. neutraliza el olor a pescado.*
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
 En el hígado, la trimetilamina oxidasa actúa sobre la trimetilamina. El producto es óxido de trimetilamina que carece de olor y se elimina por la orina.
+=====================PREGUNTA 6======================
 6. Se desprende del texto que los médicos que desconocen la TMAU
-
-A) concluyen que los enfermos hieden por falta de cuidado.*
-B) se caracterizan por ser unos galenos demasiado ignaros.
-C) son culpables de la conducta perturbada de los enfermos.
-D) no quieren tratarlos porque no toleran el m al olor a pescado.
-E) desaprobaron en la universidad el curso de etiopatogenia.
+=====================ALTERNATIVAS======================
+A. concluyen que los enfermos hieden por falta de cuidado.*
+B. se caracterizan por ser unos galenos demasiado ignaros.
+C. son culpables de la conducta perturbada de los enfermos.
+D. no quieren tratarlos porque no toleran el m al olor a pescado.
+E. desaprobaron en la universidad el curso de etiopatogenia.
+=====================ALTERNATIVA CORRECTA======================
+A 
+=====================RAZONAMIENTO======================
 Si el médico envía al enfermo con TMAU hacia el psiquiatra es porque evidencian que el paciente tiene conductas
-7. Si la especie humana nunca hubiera producido trimetilamina oxidasa, entonces es
-probable que la sociedad humana
-
-A) esté signada por los efluvios a pescado podrido.*
-B) no sea posible porque habría mucho rechazo.
-
-
-
-C) esté formada solo por desequilibrados mentales.
-D) considere que el olor a pescado es repugnante.
-E) se abstenga de comer alimentos ricos en colina.
-
+=====================PREGUNTA 7======================
+7. Si la especie humana nunca hubiera producido trimetilamina oxidasa, entonces es probable que la sociedad humana
+=====================ALTERNATIVAS======================
+A. esté signada por los efluvios a pescado podrido.*
+B. no sea posible porque habría mucho rechazo.
+C. esté formada solo por desequilibrados mentales.
+D. considere que el olor a pescado es repugnante.
+E. se abstenga de comer alimentos ricos en colina.
+=====================ALTERNATIVA CORRECTA======================
+A 
+=====================RAZONAMIENTO======================
 Si la especie humana nunca hubiera producido trimetilamina oxidasa, el olor a pescado podrido en la sociedad sería común. Así, la sociedad humana se caracterizaría por el olor a pescado podrido.
 
-TEXTO 2
-
+ID: TEXTO 2
+=====================TEXTO======================
 A una orden del guía, Michael Mushaha, la caravana de elefantes se detuvo.
 Empezaba el calor sofocante del mediodía, cuando las bestias de la vasta reserva natural descansaban. La vida se detenía por unas horas, la tierra africana se convertía en un infierno de lava ardiente y hasta las hienas y los buitres buscaban sombra. Alexander
 Cold y Nadia Santos montaban un elefante macho caprichoso de nombre Kobi. El animal le había tomado cariño a Nadia, porque en esos días ella había hecho el esfuerzo de aprender los fundamentos de la lengua de los elefantes y de comunicarse con él. Durante los largos paseos le contaba de su país, Brasil, una tierra lejana donde no había criaturas tan grandes como él, salvo unas antiguas bestias fabulosas ocultas en el impenetrable
@@ -420,57 +445,81 @@ Nadia no tenía prisa en descender, prefirió esperar a que Kobi la ayudara a ll
 tierra firme con dignidad. Pisó la rodilla que él le ofreció, se apoyó en su trompa y llegó al suelo con liviandad de bailarina. El elefante no tenía esas consideraciones con nadie más, ni siquiera con Michael Mushaha, por quien sentía respeto, pero no afecto. Era una bestia con principios claros. Una cosa era pasear turistas sobre su lomo, un trabajo como cualquier otro, por el cual era remunerado con excelente comida y baños de barro, y otra
 muy diferente era hacer trucos de circo por un puñado de maní. Le gustaba el maní, no podía negarlo, pero más placer le daba atormentar a personas como Alexander. ¿Por qué le caía mal? No estaba seguro, era una cuestión de piel. Le molestaba que estuviera siempre cerca de Nadia. Había trece animales en la manada, pero él tenía que montar con la chica; era muy poco delicado de su parte entrometerse de ese modo entre Nadia y él. ¿No se daba cuenta de que ellos necesitaban privacidad para conversar? Un buen
 trompazo y algo de viento fétido de vez en cuando era lo menos que ese tipo merecía. Kobi lanzó un largo soplido cuando Nadia pisó tierra firme y le agradeció plantándole un beso en la trompa. Esa muchacha tenía buenos modales, jamás lo humillaba ofreciéndole maní.
-
-
-
-
+=====================PREGUNTA 1======================
 1. En el texto, la expresión PERO ÉL TENÍA QUE MONTAR CON LA CHICA sugiere que el elefante sentía
-A) inquina. *B) intransigencia. C) deferencia.
-D) indiferencia. E) concupiscencia.
+=====================ALTERNATIVAS======================
+A. inquina. *
+B. intransigencia. 
+C. deferencia.
+D. indiferencia. 
+E. concupiscencia.
+=====================ALTERNATIVA CORRECTA======================
 Kobi, el elefante, necesitaba tiempo a solas con Nadia, quería conversar con ella, le molestaba que Alexander estuviera siempre cerca de Nadia, ya que se entrometía entre ella y él. Estas son expresiones producto de la cólera o tirria.
+=====================PREGUNTA 2======================
 2. El texto tiene la principal intención de
-
-A) narrar un suceso hilarante de Kobi contra Alexander.
-B) mostrar a diversos personajes durante una excursión.
-C) presentar a un elefante con principios y sentimientos.*
-D) relatar una excursión por una reserva natural urente.
-E) exponer el sentimiento de odio y amor de un elefante.
+=====================ALTERNATIVAS======================
+A. narrar un suceso hilarante de Kobi contra Alexander.
+B. mostrar a diversos personajes durante una excursión.
+C. presentar a un elefante con principios y sentimientos.*
+D. relatar una excursión por una reserva natural urente.
+E. exponer el sentimiento de odio y amor de un elefante.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
 El texto tiene como personaje principal a un elefante, Kobi, que prefiere trabajar paseando turistas porque así degusta exquisitas comidas y tiene agradables baños de barro; pero no gusta de ejecutar piruetas por un puñado de maní. Además, aquel animales capaz de sentir amor y odio y respeto.
+=====================PREGUNTA 3======================
 3. Es incompatible sostener que para Kobi
-
-A) los cariños son muestra de ser educados.
-B) hay personas que merecen malos tratos.
-C) algunas personas deben ser obedecidas.
-D) resulta fundamental estar incomunicado.*
-E) existen sentimientos de difícil explicación.
+=====================ALTERNATIVAS======================
+A. los cariños son muestra de ser educados.
+B. hay personas que merecen malos tratos.
+C. algunas personas deben ser obedecidas.
+D. resulta fundamental estar incomunicado.*
+E. existen sentimientos de difícil explicación.
+=====================ALTERNATIVA CORRECTA======================
+D 
+=====================RAZONAMIENTO======================
 Kobi se encariño con Nadia justamente porque esta hizo el esfuerzo de aprender la lengua de los elefantes, además, porque ella se comunicaba con él.
+=====================PREGUNTA 4======================
 4. Es incompatible con el texto sostener que los elefantes
-
-A) son seres disciplinados. B) son seres impasibles.*
-C) planean futuros actos. D) forman parte de recuas.
-E) actúan selectivamente.
+=====================ALTERNATIVAS======================
+A. son seres disciplinados. 
+B. son seres impasibles.*
+C. planean futuros actos. 
+D. forman parte de recuas.
+E. actúan selectivamente.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
 El elefante Kobi sentía desprecio por Alexander a quien le gastaba bromas porque detestaba que este último esté mucho tiempo cerca de Nadia.
+=====================PREGUNTA 5======================
 5. Se infiere del texto que Kobi asoció el maní con
-A) la ofensa.* B) el disenso. C) la carestía.
-D) el cariño. E) la violencia.
+=====================ALTERNATIVAS======================
+A) la ofensa.* 
+B) el disenso. 
+C) la carestía.
+D) el cariño. 
+E) la violencia.
+=====================ALTERNATIVA CORRECTA======================
+A 
+=====================RAZONAMIENTO======================
 Al final de la lectura, se expresa en el texto que Nadia no humillaba a Kobi ofreciéndole
 maní, de ahí que podamos colegir que el elefante asoció al maní con la ofensa.
-
-
-
-
+=====================PREGUNTA 6======================
 6. Si Alexander hubiera aprendido el idioma de Kobi, entonces tal vez
-
-A) hubiera tenido que esconderse del calor de todas maneras.
-B) no hubiera sido víctima del grotesco regüeldo del elefante.*
-C) habría aprendido a tiempo el modo de dominar los elefantes.
-D) en ningún momento y lugar hubiera tenido que montar a Kobi.
-E) él también hubiera tenido un mono africano sobre su hombro.
+=====================ALTERNATIVAS======================
+A. hubiera tenido que esconderse del calor de todas maneras.
+B. no hubiera sido víctima del grotesco regüeldo del elefante.*
+C. habría aprendido a tiempo el modo de dominar los elefantes.
+D. en ningún momento y lugar hubiera tenido que montar a Kobi.
+E. él también hubiera tenido un mono africano sobre su hombro.
+=====================ALTERNATIVA CORRECTA======================
+B 
+=====================RAZONAMIENTO======================
 Kobi sentía cariño por Nadia porque esta aprendió el idioma elefantesco voluntariamente.
 Así, ambos mantenían comunicación que desembocó en cariño. No fue el caso de Alexander. Si hipotéticamente este último hubiera aprendido el idioma elefantuno, tal vez él y Kobi hubieran interactuado más. Así, no necesariamente habría tenido que enfrentar bromas extravagantes ni eructos ventrales.
 
-TEXTO 3
-
+ID: TEXTO 3
+=====================TEXTO======================
 España, y Europa en general, vivía la Edad Media terminal teniendo por cierta una
 delirante geografía. Se creía que al norte sol o existía el viejo Mundo (Europa, Asia y
 África) y al sur un gran continente desconocido, llamado Catígara, que servía de
@@ -492,112 +541,91 @@ de Cíbola, en el reino de Gog y Magog, en países misteriosos y muy ricos allá
 Muchas veces la historia se trocó en leyenda y esta regresó al mito. Los españoles
 del siglo XV podían creer o no creer, pero era más proclives a creer que a dudar. Era desconfiados y receptivos, crédulos y subcríticos. Querían hallar algo nuevo, grande y
 ganancioso, aunque no siempre fuera agradable. Por eso, el descubrimiento de América,
-
-
-
 en 1492, les abrió un espectro de posibilidades. América podía ofrecer mucho y, de
 hecho, ofrecía cosas extrañas. Los españoles estaban pobres. Todos querían mejorar. La aventura consistía en superar el miedo, pasar a las indias de Colón y allá “servir a Dios y hacerse rico”.
-
+=====================PREGUNTA 1======================
 1. En el texto, el término HOLLADOS refiere a
-
-A) zonas totalmente desconocidas y muy temidas.
-B) las geografías que deberían ser conquistadas.
-C) zonas que aún no recibían pisadas españolas.*
-D) geografías inhóspitas que se debían esquivar.
-E) los panteones españoles en tierras europeas.
+=====================ALTERNATIVAS======================
+A. zonas totalmente desconocidas y muy temidas.
+B. las geografías que deberían ser conquistadas.
+C. zonas que aún no recibían pisadas españolas.*
+D. geografías inhóspitas que se debían esquivar.
+E. los panteones españoles en tierras europeas.
+=====================ALTERNATIVA CORRECTA======================
+C 
+=====================RAZONAMIENTO======================
 El término HOLLADOS tiene una connotación exploratoria, la cual refiere a aquellas
 geografías ignotas que aún no recibían la pisada de los españoles.
+=====================PREGUNTA 2======================
 2. En el texto, el calificativo de CRÉDULOS Y SUBCRÍTICOS se relaciona con la
-A) ignorancia.* B) protervia. C) sevicia.
-D) bellaquería. E) lascivia.
+=====================ALTERNATIVAS======================
+A. ignorancia.* 
+B. protervia. 
+C. sevicia.
+D. bellaquería. 
+E. lascivia.
+=====================ALTERNATIVA CORRECTA======================
+A 
+=====================RAZONAMIENTO======================
+Porque asi lo quiso nuestro señor 🙏
+=====================PREGUNTA 3======================
 3. ¿Cuál es el tema central del texto?
-
-A) Los miedos de los españoles del Medioevo B) El acervo teratológico del español medieval
-C) La cartografía medieval de los españoles
-D) El imaginario de los españoles medievales *
-E) Las ambiciones españolas del Medioevo
-
+=====================ALTERNATIVAS======================
+A. Los miedos de los españoles del Medioevo 
+B. El acervo teratológico del español medieval
+C. La cartografía medieval de los españoles
+D. El imaginario de los españoles medievales *
+E. Las ambiciones españolas del Medioevo
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
 El texto expone sobre la idealización del mundo y el conocimiento geográfico delirante del mundo y sus habitantes. Con todo, se formó un acervo de creencias sin evidencias que solamente se encontraba en la imaginación de los españoles.
+=====================PREGUNTA 4======================
 4. Es incompatible con el texto sostener que las creencias medievales españolas
-
-A) contaban con sustento bibliográfico.
-B) eran producto del idealismo español.
-C) fue producto de ignorar el mundo real.
-D) incluían seres completamente insólitos.
-E) propiciaron r esolución en el accionar.*
+=====================ALTERNATIVAS======================
+A. contaban con sustento bibliográfico.
+B. eran producto del idealismo español.
+C. fue producto de ignorar el mundo real.
+D. incluían seres completamente insólitos.
+E. propiciaron r esolución en el accionar.*
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
 Los españoles, con un imaginario portentoso, sentían miedo de explorar los territorios aún desconocidos por ellos.
+=====================PREGUNTA 5======================
 5. Un razonamiento que se deduce de la psicología del español medieval es que
-
-A) la alegría en el Creador produce solo opulencia.
-B) el hombre tiene miedo de ir hacia lo desconocido.*
-C) hay que hacer el bien sin mirar a quién va al lado.
-
-
-
-D) la razón siempre crea peligros serios al hombre.
-E) tenemos que ser emprendedores constantemente.
-
+=====================ALTERNATIVAS======================
+A. la alegría en el Creador produce solo opulencia.
+B. el hombre tiene miedo de ir hacia lo desconocido.*
+C. hay que hacer el bien sin mirar a quién va al lado.
+D. la razón siempre crea peligros serios al hombre.
+E. tenemos que ser emprendedores constantemente.
+=====================ALTERNATIVA CORRECTA======================
+B 
+=====================RAZONAMIENTO======================
 El español del Medioevo sentía miedo de explorar los territorios descubiertos por Colón. De ahí que podamos deducir que el ser humano siente pánico de ir hacia lo que no conoce aún porque lo idealiza y lo distorsiona.
-6. A partir de la expresión CAMINABAN COMO MOSCAS podemos in ferir que los
-españoles medievales
-
-A) obviaron el movimiento tectónico del planeta.
-B) no concebían el verdadero camino al África.
-C) tuvieron muchos problemas de navegación.
-D) asimilaron creencias provenientes de Oriente.
-E) desconocían la fuerza de gravedad terrestre.*
-
+=====================PREGUNTA 6======================
+6. A partir de la expresión CAMINABAN COMO MOSCAS podemos in ferir que los españoles medievales
+=====================ALTERNATIVAS======================
+A. obviaron el movimiento tectónico del planeta.
+B. no concebían el verdadero camino al África.
+C. tuvieron muchos problemas de navegación.
+D. asimilaron creencias provenientes de Oriente.
+E. desconocían la fuerza de gravedad terrestre.*
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
 A la letra: « los pueblos que habitaban el hemisferio austral y que caminaban como moscas por la parte inferior de una naranja […]», o sea, pegados como moscas a la naranja: ningún atisbo de la fuerza de atracción terrestre.
-
+=====================PREGUNTA 7======================
 7. Si los españoles hubieran tenido que viajar al continente llamado Catígara para obtener riquezas, posiblemente
-
-A) habrían tenido que cambiar su cosmovisión del mundo.
-B) el equilibrio del mundo se hubiera roto por su presencia.
-C) hubieran sentido mucho miedo de caer en el universo.*
-D) el modelo copernicano se hubiera mantenido incólume.
-E) habrían evidenciado la existencia de la gran Catígara.
-
+=====================ALTERNATIVAS======================
+A. habrían tenido que cambiar su cosmovisión del mundo.
+B. el equilibrio del mundo se hubiera roto por su presencia.
+C. hubieran sentido mucho miedo de caer en el universo.*
+D. el modelo copernicano se hubiera mantenido incólume.
+E. habrían evidenciado la existencia de la gran Catígara.
+=====================ALTERNATIVA CORRECTA======================
+C 
+=====================RAZONAMIENTO======================
 El mundo era redondo para los españoles. Consecuentemente, ellos habitaban la parte superior del mismo, mientras que Catígara quedaba en la parte inferior.
 Consecuentemente, los habitantes de este gran continente caminaban adheridos a la superficie cual moscas. Los españoles no se consideraban “moscas”, entonces, es posible que les haya despertado el miedo de caer en el universo.
-
-ELIMINACIÓN DE ORACIONES
-
-1. I) La fotosíntesis es el proceso en el que, en un vegetal, la energía luminosa se
-transforma en energía química estable. II) La fotosíntesis es la capacidad del vegetal de convertir material inorgánico en materia or gánica gracias a la energía que aporta
-la luz. III) En la fotosíntesis, los vegetales producen adenosín trifosfato (ATP) que queda almacenado como energía química. IV) Las algas, vegetales de medios acuáticos, realizan fotosíntesis transformando materia inorgánica en materia orgánica a partir de la energía de la luz. V) Los vegetales terrestres tienen la capacidad de sintetizar materia orgánica partiendo de la energía de la luz y de la materia inorgánica.
-
-A) I B) II* C) III D) IV E) V
-
-SOL. Se elimina II por redundante. II redunda con IV y V.
-
-2. I) El derecho consuetudinario está basado en la tradición, típicamente propia de las sociedades premodernas. II) De alguna forma, el derecho consuetudinario está relacionado con el derecho natural porque ambos se basan en las costumbres. III) El
-derecho natural postula la existencia de derechos del hombre fundados en la
-
-
-
-naturaleza humana, anteriores y superiores al ordenamiento jurídico positivo. IV) Las
-normas jurídicas que se desprenden de hechos que se han producido
-repetidamente, en el tiempo y en un espacio concreto, forman el derecho consuetudinario. V) Dos criterios son imprescindibles para calificar a una actividad como costumbre y, seguidamente, tenga efectos jurídicos consuetudinarios: uso repetido y generalizado, y conciencia de obligatoriedad.
-
-A) I B) II C) III* D) IV E) V
-SOL. Se elimina el enunciado III por inatingente. El tema es el derecho consuetudinario.
-
-3. I) Una costumbre es un hábito que ha sido adquirido por la práctica frecuente de un acto. II) Las costumbres de una nación o de una persona son el conjunto de
-inclinaciones y de usos que forman su carácter. III) Las costumbres sirven como elementos diferenciadores cuando se comparan dos culturas distintas. IV) La costumbre se expresa en el modo particular de hablar y de expresarse de una comunidad. V) Las danzas, las fiestas, la comida, el dialecto, las artesanías, las vestimentas, etc., forman parte de las costumbres de una comunidad.
-
-A) I B) II C) III D) IV* E) V
-SOL. Se elimina IV porque redunda con V.
-4. I) La zoofobia consiste en el miedo, pánico o terror que sienten las personas hacia los animales. II) La selaconfobia consiste en el pánico que sienten los seres humanos hacia los tiburones. III) Las personas que temen a los ratones padecen de
-surifobia. IV) Muchas personas han dado muestra de sentir terror hacia las gallinas, es decir, están enfermos de alektorofobia. V) En el mundo, un amplio grupo de personas siente un miedo persistente e injustificado hacia los gatos, este padecimiento se conoce como ailurofobia.
-
-A) I* B) II C) III D) IV E) V
-SOL. Se elimina I por inatingencia. El tema es fobias animales específicas.
-
-5. I) Chivateros se definió como un sitio arqueológico en el que hombres del período lítico trabajaban la piedra para producir puntas de lanza, hachas, raspadores, etc. II) Más que un taller, Chivateros, que se ubica en la desembocadura del río Chillón, era una cantera donde grupos cazadores -recolectores se dedicaban a la talla y canteo
-de los cerros aledaños. III) Chi vateros proveía de material lítico a los pobladores de
-la pampa de Piedras Gordas y las Lomas de Carabayllo, quienes tenían como dieta principal diversas carnes y frutos del mar. IV) Los pobladores de la pampa de Piedras Gordas pescaban y cazaban eficazmente venados veloces y zorros con lanzas cuyas puntas estaban hechas de piedra traída de la cantera de Chivateros V) En el periodo lítico, los habitantes de las Lomas de Carabayllo eran grandes cazadores y pescadores que utilizaban, entre otros objetos, hac has fabricadas con
-piedra traída de Chivateros.
-
-A) I B) II C) III* D) IV E) V
-SOL. Se elimina III por redundancia con IV y V.
-
