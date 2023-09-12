@@ -1,31 +1,5 @@
-Habilidad Verbal
 
-SEMANA 12 A
-
-EL TEXTO NARRATIVO
-
-La narración es uno de los modos de expresión que más utilizamos en nuestra vida
-cotidiana. Empleamos el modo narrativo siempre que deseamos dar a conocer un suceso,
-sea este real o ficticio.
-En los textos narrativos se hace la representación verbal de un conjunto de hechos
-ligados entre sí en relación con un suceso unificador. Lo que se representa verbalmente
-son las relaciones existentes entre los personajes o agentes del suceso real o ficticio.
-
-Por lo general, los textos narrativos giran entorno a uno o varios personajes, los
-cuales intervienen directamente en el hecho que articula un proceso de transformación.
-Este proceso supone normalmente el paso de una situación anterior a otra posterior. Por
-ello el esquema básico de estos textos es el de inicio, nudo y desenlace.
-Los textos narrativos, al narrar hechos, se inscriben en una dimensión temporal que
-enmarca los acontecimientos. Estos hechos también se dan en un espacio en el que R
-
-
-tienen lugar. Por ello la dimensión espacio- temporal en los textos de este tipo es
-fundamental.
-
-ACTIVIDAD
-Responda las preguntas r eferidas al siguiente texto.
-
-TEXTO A
+ID: TEXTO A
 En la selva vivía una vez un Mono que quiso ser escritor satírico.
 Estudió mucho, pero pronto se dio cuenta de que para ser escritor satírico le faltaba
 conocer a la gente y se aplicó a visitar a todos y a ir a los cocteles y a observarlos por el
@@ -63,56 +37,72 @@ compartían su mesa y en él mismo.
 En ese momento renunció a ser escritor satírico y le empezó a dar por la Mística y el
 Amor y esas cosas; pero a raíz de eso, ya se sabe cómo es la gente, todos dijeron que se
 había vuelto loco y ya no lo recibieron tan bien ni con tanto gusto.
+=====================PREGUNTA 1======================
 1. El texto trata sobre
-
-A) el Mono que pretendió ser escritor satírico.
-B) las peripecias que atraviesa un novel escritor.
-C) las críticas infundadas a los vicios ajenos.
-D) cómo se volvió loco el Mono satírico.
-
-
-
-E) las vicisitudes de un mono investigador.
-
-Respuesta A. Desde el inicio, el autor afirma lo siguiente: En la selva vivía una vez un
+=====================ALTERNATIVAS======================
+A. el Mono que pretendió ser escritor satírico.
+B. las peripecias que atraviesa un novel escritor.
+C. las críticas infundadas a los vicios ajenos.
+D. cómo se volvió loco el Mono satírico.
+E. las vicisitudes de un mono investigador.
+=====================ALTERNATIVA CORRECTA======================
+A. 
+=====================RAZONAMIENTO======================
+Desde el inicio, el autor afirma lo siguiente: En la selva vivía una vez un
 Mono que quiso ser escritor satírico.
-
+=====================PREGUNTA 2======================
 2. En la expresión TANTAS DE ÉSTAS LO HABÍAN RECIBIDO , el término subrayado
 tiene el sentido de
-
-A) hilaridad. B) comilona. C) agasajo.
-D) encomio. E) reunión.
-
-Respuesta C . Como el Mono era gracioso, no había quien no se encantara con su
+=====================ALTERNATIVAS======================
+A) hilaridad. 
+B) comilona. 
+C) agasajo.
+D) encomio. 
+E) reunión.
+=====================ALTERNATIVA CORRECTA======================
+Respuesta C . 
+=====================RAZONAMIENTO======================
+Como el Mono era gracioso, no había quien no se encantara con su
 conversación y cuando llegaba era agasajado con júbilo.
+=====================PREGUNTA 3======================
 3. Resulta incompatible con el texto aseverar que
-
+=====================ALTERNATIVAS======================
 A) el personaje principal buscaba la superación intelectual.
 B) toda la fauna era susceptible de los cáusticos comentarios del Mono.
 C) el escritor satírico trabaja como fotógrafo del talante humano.
 D) el Mono era el más experto conocedor de la naturaleza humana.
 E) algunos en la selva estaban libres de las debilidades y defectos.
-
-Respuesta E: Finalmente elaboró una lista completa de las debilidades y los defectos
+=====================ALTERNATIVA CORRECTA======================
+E: 
+=====================RAZONAMIENTO======================
+Finalmente elaboró una lista completa de las debilidades y los defectos
 humanos y no encontró contra quién dirigir sus baterías, pues todos estaban en los
 amigos que compartían su mesa y en él mismo.
+=====================PREGUNTA 4======================
 4. Respecto del Mono, es posible inferir que su arrepentimiento
-
+=====================ALTERNATIVAS======================
 A) le sirvió para conseguir favores políticos.
 B) lo convirtió en un auténtico monje místico.
 C) le permitió escribir sobre tópicos más complejos.
 D) desembocó en una tragedia irónica para él.
 E) hizo que sus amistades lo aprecien aún más.
-
-Respuesta D. Al evitar la crítica, el Mono terminó con sus amistades, a pesar de no haber
-publicado nada sobre ellos .
+=====================ALTERNATIVA CORRECTA======================
+D. 
+=====================RAZONAMIENTO======================
+Al evitar la crítica, el Mono terminó con sus amistades, a pesar de no haber
+publicado nada sobre ellos.
+=====================PREGUNTA 5======================
 5. Si entre los criticados por el Mono no se hubiesen encontrado algunos de sus amigos, entonces el Mono
+=====================ALTERNATIVAS======================
 A) habría tenido un sinnúmero de detractores.
 B) habría empuñado la pluma hacia las corruptas sierpes.
 C) habría seguido con su empresa: ser un escritor satírico.
 D) confirmaría la simpatía y afabilidad de las Urracas.
 E) sería el más brillante escritor satírico de la época.
-Respuesta C. Precisamente, por lo afirmado en el enunciado de la extrapolación es que el
+=====================ALTERNATIVA CORRECTA======================
+Respuesta C. 
+=====================RAZONAMIENTO======================
+Precisamente, por lo afirmado en el enunciado de la extrapolación es que el
 Mono desiste de ser un escritor s atírico.
 
 ELIMINACIÓN DE ORACIONES

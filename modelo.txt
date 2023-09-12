@@ -21,4 +21,4 @@ C . ..
 <respuesta>
 =====================RAZONAMIENTO======================
 <razonamiento>
-... <hasta completar todas las preguntas>
+... <hasta completar todas las preguntas
