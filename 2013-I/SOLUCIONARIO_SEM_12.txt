@@ -372,9 +372,8 @@ populares. Un dictador, si es popular, es democrático. Una evidente contradicci
 
 
 
-SEMANA 12 C
-TEXTO 1
-
+ID: SEMANA 12 C TEXTO 1
+=====================TEXTO======================
 Analicemos la pregunta ¿qué es el ser ? La pregunta exige de nosotros que demos
 una definición del ser. Ahora bien, dar una definición de algo supone reducir ese algo a
 elementos de carácter más general, incluir ese algo en un concepto más general todavía que él. ¿Hay concepto más general que el concepto del ser ? ¿Puede hallarse acaso
@@ -400,84 +399,118 @@ dificultad de que no tendríamos que decir de él nada. Hegel, que hace esta mis
 nada; porque del ser no podemos predicar nada, del mismo modo que de la nada no
 podemos predicar nada. Y por otra parte, del serlo podemos predicar todo, que equivale
 exactamente a no poder predicar nada.
-
+=====================PREGUNTA 1======================
 1. En el texto, el autor argumenta entorno a
-
-A) la extensión conceptual. B) la nada (no ser) y el ser .
-C) la definición del ser . *D) los conceptos indefinibles.
-E) la cantidad de ser .
-
-Solución: A pesar que la pregunta “¿qué es el ser?” requiere de una explicación o definición, esta no se puede elaborar.
+=====================ALTERNATIVAS======================
+A. la extensión conceptual. 
+B. la nada (no ser) y el ser .
+C. la definición del ser . *
+D. los conceptos indefinibles.
+E. la cantidad de ser .
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+A pesar que la pregunta “¿qué es el ser?” requiere de una explicación o definición, esta no se puede elaborar.
+=====================PREGUNTA 2======================
 2. ¿Cuál es la tesis sos tenida por el autor?
-A) Solo podemos predicar con coherencia sobre los entes.
-B) Definir un concepto es aludir a su inclusión en otro.
-
-
-C) En última instancia, el ser y la nada se identifican.
-D) Es imposible brindar una definición conceptual del ser . *
-E) La definición del ser pasa por señalar sus características.
-
-Solución: Tanto por la inclusión como por la extensión no podemos responder a la
+=====================ALTERNATIVAS======================
+A. Solo podemos predicar con coherencia sobre los entes.
+B. Definir un concepto es aludir a su inclusión en otro.
+C. En última instancia, el ser y la nada se identifican.
+D. Es imposible brindar una definición conceptual del ser . *
+E. La definición del ser pasa por señalar sus características.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Tanto por la inclusión como por la extensión no podemos responder a la
 pregunta ¿qué es el ser?
+=====================PREGUNTA 3======================
 3. Para el autor, la identificación del ser y el no -ser
-
-A) es una aseveración infundada de un filósofo llamado Hegel.
-B) carece de sentido dado que no se prueba empíricamente.
-C) es completamente coherente con la no definición del ser . *
-D) supera el campo de la ontología, es decir, de la metafísica.
-E) solo se puede aceptar negando la existencia de lo óntico.
-
-Solución: Por eso, para definir el ser nos encontraríamos con la dificultad de que no tendríamos que decir de él nada. Hegel, que hace esta misma observación, acaba por identificar por completo el concepto de ser con el concepto de nada.
+=====================ALTERNATIVAS======================
+A. es una aseveración infundada de un filósofo llamado Hegel.
+B. carece de sentido dado que no se prueba empíricamente.
+C. es completamente coherente con la no definición del ser . *
+D. supera el campo de la ontología, es decir, de la metafísica.
+E. solo se puede aceptar negando la existencia de lo óntico.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Por eso, para definir el ser nos encontraríamos con la dificultad de que no tendríamos que decir de él nada. Hegel, que hace esta misma observación, acaba por identificar por completo el concepto de ser con el concepto de nada.
+=====================PREGUNTA 4======================
 4. Si solo pudiésemos pensar conceptos pasibles de definición,
-A) las religiones fracasarían rotundamente.
-B) la filosofía se reduciría a la metafísica.
-C) la investigación científica tendría su culmen.
-D) Hegel seguiría identificando el ser y la nada .
-E) sería imposible preguntarnos por el ser . *
+=====================ALTERNATIVAS======================
+A. las religiones fracasarían rotundamente.
+B. la filosofía se reduciría a la metafísica.
+C. la investigación científica tendría su culmen.
+D. Hegel seguiría identificando el ser y la nada .
+E. sería imposible preguntarnos por el ser . *
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+El seres un concepto no definible. Si solo se pensase lo definible, el ser quedaría fuera de cualquier reflexión y enunciación.
+=====================PREGUNTA 5======================
+5. En el texto, la palabra DESENLACE significa
+=====================ALTERNATIVAS======================
+A) término. 
+B) conclusión.* 
+C) repercusión.
+D) unión. 
+E) cúspide.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Llegar a la misma conclusión o desenlace: no se puede responder a la pregunta ¿qué es el ser?
 
-Solución: El seres un concepto no definible. Si solo se pensase lo definible, el ser quedaría fuera de cualquier reflexión y enunciación.
-5. En el texto, la palabra DESEN LACE significa
-A) término. B) conclusión.* C) repercusión.
-D) unión. E) cúspide.
-
-Solución: Llegar a la misma conclusión o desenlace: no se puede responder a la pregunta ¿qué es el ser?
-TEXTO 2
+ID: TEXTO 2
+=====================TEXTO======================
 En "Paco Yunque", César Vallejo nos presenta la historia del primer día de clases de
 un niño cuyo origen social lo somete a un trato vejatorio por parte de Humberto Grieve, hijo del patrón de su madre. Este se siente legitimado por su ubicación social para maltratar a Paco, en una versión muy peculiar del hoy llamado 'bullying'. Grieve, cuenta Vallejo, "aprovechando de que no le veía el profesor, dio un salto y le jaló de los pelos a
 Yunque, volviéndose a la carrera a su carpeta. Yunque se puso a llorar...". El infante
 pobre es reducido a la función elemental de acompañante y es condenado a frecuentar un terreno que le es ajeno y hostil. Grieve llama a Yunque con el apelativo de "mi muchacho", lo marca como una propiedad de la que puede usufructuar y abusar hasta la denigración.
 En la teoría vallejiana que subyace al relato, existe una marcada estratificación
 social que no solo le impide a Yunque rebelarse, sino que lo fuerza a aceptar los designios de una sociedad señorial y excluyente. Inclusive, el profesor, que es la autoridad llamada a controlar las conductas sin parcialidad, tolera los arrebatos de Grieve
-
-
 restándoles importancia. El infortunado Yunque solo encuentra parcial cobijo en el espíritu
 protector de otro niño, Paco Fariña. El examen representa el momento cumbre de la historia. Grieve sustrae el examen de Paco, lo presenta como suyo y recibe los lauros,
 mientras Yunque paga la condena de su propia fragilidad. La más alta nota y el apellido "Grieve" grabado en el cuadro de honor grafica la historia de estos dos seres destinados uno a la victoria y el otro a la derrota. Vallejo traza, técnicamente, un buen relato, pero
 pretende incorporar un mensaje social de tono intenso y radical hasta lindar con el maniqueísmo. El bien y el mal batallan en esta historia que, a decir de Georgette, viuda del poeta, fue escrita en 1931, aunque se publicó después. Fue construida en un tiempo en que Vallejo instrumentalizaba su narrativa para enfilarse hacia la protesta social. Así perfila algunos antivalores y radicaliza a personajes que, como suele ocurrir, expresan
 una conjunción de cualidades y defectos que matizan la bondad y la maldad humanas.
+=====================PREGUNTA 1======================
 1. En el texto, el término VEJATORIO significa
-A) humillante.* B) afable. C) expresivo. D) riguroso. E) dócil.
-Solución: A. En "Paco Yunque", César Vallejo nos presenta la historia del primer día de
+=====================ALTERNATIVAS======================
+A) humillante.* 
+B) afable. 
+C) expresivo. 
+D) riguroso. 
+E) dócil.
+=====================ALTERNATIVA CORRECTA======================
+Solución: A. 
+=====================RAZONAMIENTO======================
+En "Paco Yunque", César Vallejo nos presenta la historia del primer día de
 clases de un niño cuyo origen social lo somete a un trato vejatorio por parte de Humberto Grieve, hijo del patrón de su madre.
+=====================PREGUNTA 2======================
 2. Marque la alternativa que es incompatible con "Paco Yunque".
-
-A) Los personajes expresan cualidades y defectos que matizan la bondad y la
-maldad.
-B) Fue escrito en 1931 cuando Vallejo instrumentalizaba su narrativa para la protesta social.
-C) Narra la historia del primer día de clases de un niño pobre llamado Paco Yunque.
-D) Paco y Humberto representan la interacción de dos grupos sociales distintos: los
-pobres y los ricos.
-E) Expresa una protesta social, pero literariamente es considerado un cuento mediocre.*
-Solución: E. El texto dice que Vallejo traza técnicamente un buen relato.
+=====================ALTERNATIVAS======================
+A. Los personajes expresan cualidades y defectos que matizan la bondad y la maldad.
+B. Fue escrito en 1931 cuando Vallejo instrumentalizaba su narrativa para la protesta social.
+C. Narra la historia del primer día de clases de un niño pobre llamado Paco Yunque.
+D. Paco y Humberto representan la interacción de dos grupos sociales distintos: los pobres y los ricos.
+E. Expresa una protesta social, pero literariamente es considerado un cuento mediocre.*
+=====================ALTERNATIVA CORRECTA======================
+E. 
+=====================RAZONAMIENTO======================
+El texto dice que Vallejo traza técnicamente un buen relato.
+=====================PREGUNTA 3======================
 3. Se colige que en "Paco Yunque"
-
-A) existe una explotación mutua entre los grupos sociales.
-B) los poderosos cuentan con la colaboración de las autoridades.*
-C) se aprecia solamente la maldad y los antivalores.
-D) la justicia predomina sobre la injusticia de ciertos grupos.
-E) la estratificación social incita la rebelión de ciertos grupos.
-
-Solución: B. El profesor que es la autoridad tolera los arrebatos de Grieve.
+=====================ALTERNATIVAS======================
+A. existe una explotación mutua entre los grupos sociales.
+B. los poderosos cuentan con la colaboración de las autoridades.*
+C. se aprecia solamente la maldad y los antivalores.
+D. la justicia predomina sobre la injusticia de ciertos grupos.
+E. la estratificación social incita la rebelión de ciertos grupos.
+=====================ALTERNATIVA CORRECTA======================
+B. 
+=====================RAZONAMIENTO======================
+El profesor que es la autoridad tolera los arrebatos de Grieve.
 4. Se colige que "Paco Yunque" denuncia
 A) la injusta explotación económica.
 B) la desigualdad entre clases sociales.
