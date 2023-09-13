@@ -451,11 +451,11 @@ El seres un concepto no definible. Si solo se pensase lo definible, el ser queda
 =====================PREGUNTA 5======================
 5. En el texto, la palabra DESENLACE significa
 =====================ALTERNATIVAS======================
-A) término. 
-B) conclusión.* 
-C) repercusión.
-D) unión. 
-E) cúspide.
+A. término. 
+B. conclusión.* 
+C. repercusión.
+D. unión. 
+E. cúspide.
 =====================ALTERNATIVA CORRECTA======================
 B
 =====================RAZONAMIENTO======================
@@ -477,11 +477,11 @@ una conjunción de cualidades y defectos que matizan la bondad y la maldad human
 =====================PREGUNTA 1======================
 1. En el texto, el término VEJATORIO significa
 =====================ALTERNATIVAS======================
-A) humillante.* 
-B) afable. 
-C) expresivo. 
-D) riguroso. 
-E) dócil.
+A. humillante.* 
+B. afable. 
+C. expresivo. 
+D. riguroso. 
+E. dócil.
 =====================ALTERNATIVA CORRECTA======================
 Solución: A. 
 =====================RAZONAMIENTO======================
@@ -511,37 +511,59 @@ E. la estratificación social incita la rebelión de ciertos grupos.
 B. 
 =====================RAZONAMIENTO======================
 El profesor que es la autoridad tolera los arrebatos de Grieve.
+=====================PREGUNTA 4======================
 4. Se colige que "Paco Yunque" denuncia
-A) la injusta explotación económica.
-B) la desigualdad entre clases sociales.
-C) el maltrato de una clase social hacia otra.*
-D) el abuso de las autoridades corruptas.
-E) la constante cosificación de la gente.
-
-
-
-Solución: C. El autor pone de relieve el maltrato que se denuncia en Paco Yunque, Gri eve
+=====================ALTERNATIVAS======================
+A. la injusta explotación económica.
+B. la desigualdad entre clases sociales.
+C. el maltrato de una clase social hacia otra.*
+D. el abuso de las autoridades corruptas.
+E. la constante cosificación de la gente.
+=====================RAZONAMIENTO======================
+C. 
+=====================RAZONAMIENTO======================
+El autor pone de relieve el maltrato que se denuncia en Paco Yunque, Gri eve
 denigra a Yunque, lo golpea, roba su examen, se apropia de sus méritos, etc.
-
+=====================PREGUNTA 5======================
 5. Se colige que en "Paco Yunque", Grieve y Yunque
-A) hacen que lo literario predomine sobre el mensaje social.
-B) son personajes que se complementan armoniosamente.
-C) expresan un trato horizontal en la sociedad descrita.
-D) representan la interacción entre dos grupos sociales.*
-E) simbolizan dos grupos sociales mutuamente excluyentes.
-
-Solución: D. Grieve representa a los poderosos que denigran a los pobres representados
+=====================ALTERNATIVAS======================
+A. hacen que lo literario predomine sobre el mensaje social.
+B. son personajes que se complementan armoniosamente.
+C. expresan un trato horizontal en la sociedad descrita.
+D. representan la interacción entre dos grupos sociales.*
+E. simbolizan dos grupos sociales mutuamente excluyentes.
+=====================ALTERNATIVA CORRECTA======================
+D. 
+=====================RAZONAMIENTO======================
+Grieve representa a los poderosos que denigran a los pobres representados
 por Yunque.
+=====================PREGUNTA 6======================
 6. Se colige que Grieve vea Yunque como
-A) enemigo. B) una cosa.* C) su contrincante.
-D) antipático. E) su semejante.
-
-Solución: B. Grieve llama a Yunque “mi muchacho” lo marca como una propiedad de la que puede usufructuar y abusar hasta la denigración, no lo ve como otra persona sino como una cosa.
+=====================ALTERNATIVAS======================
+A. enemigo. 
+B. una cosa.* 
+C. su contrincante.
+D. antipático. 
+E. su semejante.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Grieve llama a Yunque “mi muchacho” lo marca como una propiedad de la que puede usufructuar y abusar hasta la denigración, no lo ve como otra persona sino como una cosa.
+=====================PREGUNTA 7======================
 7. En el texto, el término LINDAR significa
+=====================ALTERNATIVAS======================
+A. forjar. 
+B. rayar.* 
+C. aislar. 
+D. censurar. 
+E. fustigar.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Porque asi lo quiso nuestro señol
 
-A) forjar. B) rayar.* C) aislar. D) censurar. E) fustigar.
-
-TEXTO 3
+ID: TEXTO 3
+=====================TEXTO======================
 Ordinariamente, no tienes dudas sobre la existencia del piso bajo tus pies, el árbol
 fuera de la ventana o tus propios dientes. De hecho, la mayoría del tiempo incluso no
 piensas sobre los estados mentales que te hacen consciente de esas cosas: pareces
@@ -566,7 +588,6 @@ parecen – desde el interior de tu mente— para darte la respuesta.
 Pero, ¿de qué otra cosa podemos depender? Toda tu evidencia sobre cualquier
 cosa tiene que llegar a tu mente –ya sea en la forma de percepción, el testimonio de
 
-
 libros u otra gente ola memoria— y es completamente consistente, con todo de lo
 que eres consciente, que nada exista en absoluto, excepto el interior de tu mente. Es
 incluso posible que no tengas un cuerpo o un cerebro –ya que tus creencias al respecto
@@ -583,82 +604,97 @@ solipsista: en ese caso considerarías este libro como producto de tu propia men
 viniendo a la existencia en tu experiencia mientras lo lees. Obviamente, nada de lo que
 pueda decir puede probarte que realmente existo o que esta hoja existe como objeto
 físico.
-
+=====================PREGUNTA 1======================
 1. Medularmente, la postura del autor respecto al solipsismo es la de
-A) aceptar esa tesis y todas sus consecuencias.
-B) rechazar la existencia de contenidos mentales.
-C) soslayar la reflexión crítica sobre ese tema.
-D) negar la posibilidad de refutar ese argumento.*
-E) asumir que creer que existimos es inútil.
-
-Solución: Centralmente, el autor presenta el argumento del solipsismo y señala la imposibilidad de refutarlo con argumentos.
-
+=====================ALTERNATIVAS======================
+A. aceptar esa tesis y todas sus consecuencias.
+B. rechazar la existencia de contenidos mentales.
+C. soslayar la reflexión crítica sobre ese tema.
+D. negar la posibilidad de refutar ese argumento.*
+E. asumir que creer que existimos es inútil.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+Centralmente, el autor presenta el argumento del solipsismo y señala la imposibilidad de refutarlo con argumentos.
+=====================PREGUNTA 2======================
 2. El término RADICAL se refiere a una postura filosófica
-
-A) extrema.* B) ambigua. C) extendida.
-D) genuina. E) fundamentada.
-Solución: Esta conclusión más radical o extrema es el solipsismo que niega la existencia del mundo externo.
-1. El divulgar su reflexión sobre lo «real» es para el autor una muestra de
-A) pesimismo respecto del avance científico.
-B) ausencia de consideraciones filosóficas.
-C) oposición al escepticismo más radical.*
-D) candidez entorno a las paradojas lógicas.
-E) insistencia en cuestiones sin importancia.
-Solución: Si y o fuera un solipsista, probablemente no esc ribiría estas líneas, y a que no
+=====================ALTERNATIVAS======================
+A. extrema.* 
+B. ambigua. 
+C. extendida.
+D. genuina. 
+E. fundamentada.
+=====================ALTERNATIVA CORRECTA======================
+Esta conclusión más radical o extrema es el solipsismo que niega la existencia del mundo externo.
+=====================PREGUNTA 3======================
+3. El divulgar su reflexión sobre lo «real» es para el autor una muestra de
+=====================ALTERNATIVAS======================
+A. pesimismo respecto del avance científico.
+B. ausencia de consideraciones filosóficas.
+C. oposición al escepticismo más radical.*
+D. candidez entorno a las paradojas lógicas.
+E. insistencia en cuestiones sin importancia.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Si y o fuera un solipsista, probablemente no esc ribiría estas líneas, y a que no
 creería que haya alguien más para leerlas.
-2. Se infiere que cuando un científico debate en un seminario sobre la clasificación de plantas
-A) presupone la falsedad de las tesis solipsistas. *
-
-
-B) refuta todo intento de fundamentación cognitiva.
-C) anula la posibilidad de una tesis de índole realista.
-D) problematiza entorno a las bases de la ciencia.
-E) posibilita, con su mente, que el mundo subsista.
-
-Solución: La descripción como función de la ciencia requiere asumir una tesis no solipsista, pues confía en que el mundo externo existe con independencia del sujeto.
-3. Resulta incompatible con el texto afirmar que
-A) los llamados solipsistas sostienen que solo existen sus propios contenidos
-mentales.
-B) la tesis solipsista y sus consecuencias son poco populares entre los filósofos.
-C) para un solipsista cabe la posibilidad de que nada exista fuera de su propia
-mente.
-D) las evidencias de las caracter ísticas de los objetos siempre pasan por la mente.
-E) la existencia del mundo está plenamente garantizada por la investigación
-científica.*
-
-Solución: Nada de lo que se pueda decir podría seruna refutación del solipsismo.
-
-4. ¿Cuál de las siguientes afirmaciones podría ser sostenida por un solipsista?
-
-A) Podemos ser cerebros en una cubeta a quienes se les conecta a una realidad
-virtual.*
-B) Hay evidencia empírica irrefutable sobre la existencia de conciencia en animales no
-humanos.
-C) La naturaleza está gobernada por regularidades o leyes que no dependen de la
-mente humana.
-D) El mundo entero seguiría existiendo si la especie humana desapareciera de la faz
-de la Tierra.
-E) La materia no se crea ni se destruye pues solo se transforma y está conformada por
-átomos.
-
+=====================PREGUNTA 4======================
+4. Se infiere que cuando un científico debate en un seminario sobre la clasificación de plantas
+=====================ALTERNATIVAS======================
+A. presupone la falsedad de las tesis solipsistas. *
+B. refuta todo intento de fundamentación cognitiva.
+C. anula la posibilidad de una tesis de índole realista.
+D. problematiza entorno a las bases de la ciencia.
+E. posibilita, con su mente, que el mundo subsista.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+La descripción como función de la ciencia requiere asumir una tesis no solipsista, pues confía en que el mundo externo existe con independencia del sujeto.
+=====================PREGUNTA 5======================
+5. Resulta incompatible con el texto afirmar que
+A. los llamados solipsistas sostienen que solo existen sus propios contenidos mentales.
+B. la tesis solipsista y sus consecuencias son poco populares entre los filósofos.
+C. para un solipsista cabe la posibilidad de que nada exista fuera de su propiamente.
+D. las evidencias de las caracter ísticas de los objetos siempre pasan por la mente.
+E. la existencia del mundo está plenamente garantizada por la investigación científica.*
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Nada de lo que se pueda decir podría seruna refutación del solipsismo.
+=====================PREGUNTA 6======================
+6. ¿Cuál de las siguientes afirmaciones podría ser sostenida por un solipsista?
+=====================ALTERNATIVAS======================
+A. Podemos ser cerebros en una cubeta a quienes se les conecta a una realidad virtual.*
+B. Hay evidencia empírica irrefutable sobre la existencia de conciencia en animales no humanos.
+C. La naturaleza está gobernada por regularidades o leyes que no dependen de la mente humana.
+D. El mundo entero seguiría existiendo si la especie humana desapareciera de la faz de la Tierra.
+E. La materia no se crea ni se destruye pues solo se transforma y está conformada por átomos.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
 Solución: Ser cerebros en una cubeta a quienes se les hace creer que existen como humanos es una posibilidad que no sería descalificada por un solipsista.
-5. Si alguien sostuviese que la materia es solo una invención de la mente, entonces
-
-A) escribiría libros para que los demás acepten su tesis.
-B) asumiría que Dios existe y ha creado todas las cosas.
-C) sería un auténtico representante del solipsismo. *
-D) se hallaría en las antípodas de todo escepticismo.
-E) negaría la posibilidad de con ocer su propia mente.
-Solución: A fin de cuentas, un solipsista podría sostener que solo está seguro de sus contenidos mentales, de allí que la existencia de la materia pueda ser puesta en duda.
-
-6. A lo largo del texto, la imposibilidad de refutar el soli psismo radica en
-
-A) la incapacidad de pellizcarse muy fuerte uno mismo.
-B) la circularidad de la posible prueba basada en la mente.*
-
-
-C) la imposibilidad de soñar que uno está despierto.
-D) las paradojas lógicas que cautivan a los matemáticos.
-E) el desorden mental que padecen todos los filósofos.
-
-Solución: En todo el texto se menciona que de lo único de lo que podemos estar seguros es de los contenidos mentales de nuestra mente y que toda sensación del mundo externo pasa por ella misma.
+=====================PREGUNTA 7======================
+7. Si alguien sostuviese que la materia es solo una invención de la mente, entonces
+=====================ALTERNATIVAS======================
+A. escribiría libros para que los demás acepten su tesis.
+B. asumiría que Dios existe y ha creado todas las cosas.
+C. sería un auténtico representante del solipsismo. *
+D. se hallaría en las antípodas de todo escepticismo.
+E. negaría la posibilidad de con ocer su propia mente.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+A fin de cuentas, un solipsista podría sostener que solo está seguro de sus contenidos mentales, de allí que la existencia de la materia pueda ser puesta en duda.
+=====================PREGUNTA 8======================
+8. A lo largo del texto, la imposibilidad de refutar el soli psismo radica en
+=====================ALTERNATIVAS======================
+A. la incapacidad de pellizcarse muy fuerte uno mismo.
+B. la circularidad de la posible prueba basada en la mente.*
+C. la imposibilidad de soñar que uno está despierto.
+D. las paradojas lógicas que cautivan a los matemáticos.
+E. el desorden mental que padecen todos los filósofos.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+ En todo el texto se menciona que de lo único de lo que podemos estar seguros es de los contenidos mentales de nuestra mente y que toda sensación del mundo externo pasa por ella misma.
