@@ -1,24 +1,7 @@
-UNMSM -CENTRO PREUNIVERSITARI O Ciclo 2013- I
 
-Habilidad Verbal
 
-SEMANA 13 A
-
-EL TEXTO FILOSÓFICO
-El texto filosófico aborda problemas de relevancia ecuménica, como el sentido de la
-existencia, la naturaleza de la realidad, el valor de la libertad, el sentido de la historia, la
-dinámica de la ciencia, etc. Tradicionalmente, incide en temas ontológicos, axiológicos,
-gnoseológicos, éticos, epistemológicos, y en las construcciones de grandes pensadores
-(Platón, Occam, Kant, Nietzsche, otras figuras notables).
-El texto filosófico se erige con la intención deliberada de reflexionar y de
-comprometernos en una investigación profunda y radical. Las características esenciales
-del texto filosófico son la densidad conceptual, la pulcritud de sus distinciones y el talante
-crítico.
-
-EJEMPLO DE TEXTO FILOSÓFICO
-
-TEXTO 1
-
+ID:TEXTO 1
+=====================TEXTO======================
 Dasein se ha traducido al español como ser -ahí y es la marca de
 fábrica del existencialismo. En algunos textos, Dasein =existencia real. En otros, Dasein
 =existencia humana. Y aun en otros, Dasein =conciencia. La dificultad hermenéutica se
@@ -45,68 +28,71 @@ existencialismo, sobre todo si está relacionada con conceptos ontológico- sem�
 profundos como Quatschsein (ser-habla de tontos) y Unsinn (sinsentido) y las
 correspondientes preguntas profundas ¿cuál es la esencia deQuatschsein ? y ¿por qué
 Unsinn y no Sinn ? Precaución: Dasein y sus similares no deben confundirse con Daschein
-(apariencia- allí) y mucho menos con Daschwein (allí-cerdo).
-
-
-
-Semana Nº 13 SOLUCIONARIO Pág. 14
-
-UNMSM -CENTRO PREUNIVERSITARI O Ciclo 2013- I
-
+(apariencia- allí) y mucho menos con Daschwein (allí-cer
+=====================PREGUNTA 1======================
 1. El texto constituye fundamentalmente
-
+=====================ALTERNATIVAS======================
 A) un intento del autor por mostrar su conocimiento del alemán.
 B) una prueba de la riqueza semántica de la lengua alemana.
 C) un comentario muy irónico acerca de la filosofía en general.
 D) una caracterización sardónica del D asein existencialista.*
 E) una descripción imparcial de la filosofía existencialista.
-
-SOL. El texto inicia y termina aludiendo al Dasein como concepto central del
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El texto inicia y termina aludiendo al Dasein como concepto central del
 existencialismo. El tono irónico del autor se aprecia en el planteamiento absurdo de otros
 conceptos en lengua alemana.
+=====================PREGUNTA 2======================
 2. La expresión SÍNTESIS CRONOTÓPICAS alude
-
+=====================ALTERNATIVAS======================
 A) a la tendencia muy difundida de utilizar palabras polisémicas.
 B) a palabras que vinculan un referente espacial con uno temporal.*
 C) al concepto de Dasein pero interpretado como existencia real.
-D) a la relevancia de los conceptos cronológicos en lengua alemana. E) a los conceptos que muestran profundidad ontológico- semántica.
-
-SOL. Hierjetztsein (ser-ahora- aquí) y Dortniemalssein (ser-nunca- allí) por ejemplo, son
+D) a la relevancia de los conceptos cronológicos en lengua alemana. 
+E) a los conceptos que muestran profundidad ontológico- semántica.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+Hierjetztsein (ser-ahora- aquí) y Dortniemalssein (ser-nunca- allí) por ejemplo, son
 palabras acuñadas sarcásticamente por el autor para designar conceptos espacio-temporales.
-
+=====================PREGUNTA 3======================
 3. En opinión del autor, el concepto de Dasein
-
+=====================ALTERNATIVAS======================
 A) resulta crucial para cualquier emprendimiento filosófico serio.
 B) goza de amplia difusión debido a su magnífica versatilidad.
 C) es por lo menos ambiguo, cuando no simplemente absurdo.*
 D) es de gran ayuda para resolver controversias hermenéuticas.
 E) puede aplicarse en el contexto de ciencias como la física.
-
-SOL. Este concepto tiene múltiples interpretaciones y según el autor no dice nada
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Este concepto tiene múltiples interpretaciones y según el autor no dice nada
 significativo. Se trata de un concepto vacío en el contexto de la filosofía.
-
+=====================PREGUNTA 4======================
 4. Se desprende del texto que las interrogantes en las que figuran los nombres Hans y
 Gretel pretenden
-
+=====================ALTERNATIVAS======================
 A) vincular razonablemente algunos conceptos filosóficos y c ientíficos.
 B) poner en ridículo a los detractores del pensamiento existencialista.
 C) poner de relieve que la filosofía puede aplicarse al terreno cotidiano.
 D) trivializar el concepto de Dasein al aplicarlo a un contexto doméstico.*
 E) ilustrar la fecundidad de las ideas de los filósofos existencialistas.
-
-SOL. El Dasein heideggeriano es objeto de reverencia fervorosa por parte de los adeptos
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+El Dasein heideggeriano es objeto de reverencia fervorosa por parte de los adeptos
 del existencialismo. El autor hace escarnio de ello al mostrar la vacuidad del concepto y utilizarlo para la ubicación espacio- temporal de un cuerpo.
+=====================PREGUNTA 5======================
 5. Se deduce que entre los admiradores del existencialismo
-
+=====================ALTERNATIVAS======================
 A) hay una tendencia a sobrevalorar la lengua alemana como medio expresivo.*
 B) predomina una fuerte concepción animista de la naturaleza en su conjunto.
 C) es frecuente hallar personas caracterizadas por su notable vena irónica.
 D) existe proclividad hacia el pensamiento riguroso y libre de ambigüedades.
 E) es posible encontrar una gran proporción de individuos germanoparlantes.
+=====================ALTERNATIVA CORRECTA======================
 
-Semana Nº 13 SOLUCIONARIO Pág. 15
-
-UNMSM -CENTRO PREUNIVERSITARI O Ciclo 2013- I
 
 SOL. Los defensores del Dasein argüirán que en alemán se entiende mejor el concepto.
 Para ellos, expresiones hueras como “la nada nadea” son más profundas y elegantes en
