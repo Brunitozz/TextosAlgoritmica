@@ -1,0 +1,91 @@
+ID: 05
+=====================TEXTO======================
+«Tres tristes tigres tragaban trigo en un trigal». ¿Por qué son tan difíciles de
+pronunciar los trabalenguas? Científicos americanos han encontrado la respuesta al identificar el complejo proceso cerebral necesario para coordinar los diversos músculos que se requieren para emitir ciertos sonidos. Edward Chang y su equipo de la Universidad
+de California, San Francisco han descubierto la manera en que se lleva a cabo la actividad neuronal para formular los sonidos del habla (del inglés americano). Los patrones para vocalizar resultaron ser diferentes a los de las consonantes, a pesar de
+utilizar las mismas partes del tracto vocal.
+Los investigadores recolectaron la información con máxima precisión (en una escala
+de milímetros y milisegundos), al monitorear la actividad cerebral de tres epilépticos, quienes tenían ya eléctrodos implantados en la corteza cerebral como parte de un procedimiento médico rutinario, mientras articulaban una serie de sílabas. Encontraron que el cerebro coordina la articulación de acuerdo a los músculos que se necesitan
+mover. Las consonantes se dividen en tres categorías: los sonidos provenientes de la punta de la lengua (como «sa»), aquellos que se originan en la base de la lengua («ga») y los que nacen en los labios («ma»). Las vocales caen dentro de dos grupos: los que requieren redondear los labios («oo») y los que no («aa»).
+Por lo tanto, los trabalenguas son difíciles ya que el cerebro confunde los sonidos
+que se forman en la misma parte de la lengua. A pesar de ser un estudio limitado, con
+únicamente tres sujetos, los resultados podrían eventualmente ayudar a personas con
+impedimentos lingüísticos.
+=====================PREGUNTA 1======================
+1. El tema central del texto es
+=====================ALTERNATIVAS======================
+A. la diferencia articulatoria entre sonidos vocálicos y consonánticos.
+B. los sonidos que se articulan con el posdorso y la corona de la lengua.
+C. la intrincada articulación de los diferentes sonidos del habla humana.
+D. la forma en que funciona cognitivamente la producción de trabalenguas.
+E. la actividad neuronal que subyace a la articulación de los fonos al hablar.
+=====================ALTERNATIVA CORRECTA======================
+D 
+=====================RAZONAMIENTO======================
+El texto aborda la manera en que cognitivamente funciona la producción de trabalenguas. Se devela la razón por la que resulta complicado producirlas sobre la clarificación de la actividad cerebral involucrada.
+=====================PREGUNTA 2======================
+2. La palabra IMPEDIMENTO se puede reemplazar por
+=====================ALTERNATIVAS======================
+A. embarazo. 
+B. obstáculo. 
+C. dificultad.
+D. estorbo. 
+E. traba.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+La palabra IMPEDIMENTO hace alusión a las patologías del lenguaje que un individuo pudiera padecer; en el campo de la terapia de lenguaje, aludido en el texto,
+esto se conoce como DIFICULTAD.
+=====================PREGUNTA 3======================
+3. Se deduce del desarrollo textual que el habla fluida
+=====================ALTERNATIVAS======================
+A. depende del estado cerebral de las personas, ya que los epilépticos presentan serios problemas.
+B. se corresponde siempre con la adecuada y pertinente intervención de un terapista del lenguaje.
+C. está relacionada con la articulación simultánea de sonidos producidos con el ápice de la lengua.
+D. únicamente se evidencia en aquellas personas que practican frecuentemente los trabalenguas más difíciles .
+E. depende de la producción orquestada de sonidos con diferente segmento porción articulatoria lingual .
+=====================ALTERNATIVA CORRECTA======================
+E 
+=====================RAZONAMIENTO======================
+Los trabalenguas suponen un problema articulatorio por la secuencia de
+sonidos con articulaciones similares o iguales, que suelen generar confusión. El habla fluida dependerá de la distinta articulación de los sonidos producidos.
+=====================PREGUNTA 4======================
+4. Resulta incompatible, respecto del desarrollo textual, afirmar que los trabalenguas son difíciles de articular, debido a que
+=====================ALTERNATIVAS======================
+A. operan sobre la base de secuencias de sonidos iguales o similares.
+B. el cerebro activa gestos musculares que son de difícil producción.
+C. es complicado orquestar secuencias con la misma parte de la lengua.
+D. al producir sonidos con el mismo articulador el cerebro se confunde.
+E. los sonidos producidos con redondeamiento de labios son complejos.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Los trabalenguas son de difícil producción por la secuencia inmediata de
+sonidos articulados con la misma parte de la lengua. Eso no involucra a sonidos
+redondeados; por consiguiente, es incompatible afirmas que estos son la causa.
+=====================PREGUNTA 5======================
+5. Resulta incompatible con el desarrollo textual afirmar que la investigación sobre los trabalenguas
+=====================ALTERNATIVAS======================
+A. se realizó con una muestra significativa y profusa de informantes .
+B. permite conocer la relación existente entre el cerebro y el habla.
+C. posibilita el conocimiento del factor cognitivo en su producción.
+D. clarifica la forma en que el cerebro activa gestos bastante precisos.
+E. podría tener una aplicación en personas con trastornos lingüísticos.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+En el texto se señala que solo fueron tres informantes. Resulta contrario
+al desarrollo textual afirmar que la muestra fue significativa y abundante de informantes.
+=====================PREGUNTA 6======================
+6. Si la producción fluida de sonidos idénticos fuera sencilla, posiblemente,
+=====================ALTERNATIVAS======================
+A. sería imposible ayudar a las personas que padecen de alguna alteración relativa al lenguaje.
+B. los estudiosos del cerebro tendrían serias dificultades para determinar la relación cerebro- habla.
+C. los trabalenguas serían articulados de forma enrevesada solo por las personas que padecen epilepsia.
+D. tendríamos que articular fonos con el dorso de la lengua en mayor proporción que los labiales.
+E. el cerebro carecería de un marco articulatorio confuso y los trabalenguas dejaría de ser un reto.
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+Si producir secuencias de segmentos idénticos fuese sencillo, el cerebro
+no entraría en conflicto o confusión, y los trabalenguas dejarían de ser un reto articulatorio.

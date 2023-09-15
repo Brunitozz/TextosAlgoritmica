@@ -1,0 +1,82 @@
+ID: TEXTO 2
+=====================TEXTO======================
+La ciencia intenta explicar los hechos en términos de leyes, y las leyes en términos
+de principios. Los cien tíficos no se conforman con descripciones detalladas; además de
+inquirir cómo son las cosas, procuran responder al por qué: por qué ocurren los hechos como ocurren y no de otra manera. La ciencia deduce proposiciones relativas a hechos
+singulares a partir de leyes generales, y deduce las leyes a partir de enunciados nomológicos aún más generales (principios). Por ejemplo, las leyes de Kepler explicaban
+una colección de hechos observados del movimiento planetario; y Newton explicó esasleyes deduciéndolas de principios generales , explicación que permitió a otros
+astrónomos dar cuenta de las irregularidades de las órbitas de los planetas que eran
+desconocidas para Kepler.
+Solía creerse que explicar es señalar la causa, pero en la actualidad se reconoce
+que la explicación causal no es sino un tipo de explicación científica. La explicación
+científica se efectúa siempre en términos de leyes, y las leyes causales no son sino una
+subclase de las leyes científicas. Hay diversos tipos de leyes científicas y, por
+consiguiente, hay una variedad de tipos de explicación científica: morfológicas,
+cinemáticas, dinámicas, de composición, de conservación, de asociación, de tendencias globales, dialécticas, teleológicas, etc.
+La historia de la ciencia enseña que las explicaciones cien tíficas se corrigen o
+descartan sin cesar. ¿Significa esto que son todas falsas? En las ciencias fácticas, la
+verdad y el error no son del todo ajenos entre sí: hay verdades parciales y errores
+parciales; hay aproximaciones buenas y otras malas. La ciencia no obra como Penélope,
+sino que emplea la tela tejida ayer. Las explicaciones cien tíficas no son finales pero son
+perfectibles.
+=====================PREGUNTA 1======================
+1. El texto trata fundamentalmente sobre
+=====================ALTERNATIVAS======================
+A) la perfectibilidad de la explicación científica.
+B) la generalidad de los principios de Newton.
+C) las modalidades de explicación científica.
+D) el carácter provisional del saber científico.
+E) la naturaleza de la explicación científica.*
+=====================ALTERNATIVA CORRECTA======================
+E
+=====================RAZONAMIENTO======================
+En general, se hace una caracterización de los múltiples aspectos que definen a la
+explicación científica.
+=====================PREGUNTA 2======================
+2. La expresión LA CIENCIA NO OBRA COMO PENÉLOPE alude
+=====================ALTERNATIVAS======================
+A) al hecho de que el investigador científico debe evitar ser embargado por su subjetividad.
+B) al carácter utópico de cualquier investigación que busca resultados totalmente concluyentes.
+C) al heroísmo propio de quienes se dedican a la actividad científica aun en condiciones adversas.
+D) a que la investigación científica toma en cuenta las hipótesis de investigaciones precedentes.*
+E) a la esperanza que tiene el investigador científico por ver finalmente confirmadas sus hipótesis.
+=====================ALTERNATIVA CORRECTA======================
+D
+=====================RAZONAMIENTO======================
+La ciencia emplea la tela tejida ayer, es decir, se vale de las investigaciones previas para seguir produciendo conocimiento.
+=====================PREGUNTA 3======================
+3. Resulta incongruente con el texto afirmar que las explicaciones científicas
+=====================ALTERNATIVAS======================
+A) no se restringen a ser de tipo causal únicamente.
+B) pueden sufrir modificaciones a lo largo del tiempo.
+C) tienen en algunas ocasiones carácter definitivo.*
+D) requieren de una buena capacidad deductiva.
+E) suponen un marco teórico para su formulación.
+=====================ALTERNATIVA CORRECTA======================
+C
+=====================RAZONAMIENTO======================
+Las explicaciones científicas no son finales, vale decir que su carácter es siempre provisional y en consecuencia perfectible.
+=====================PREGUNTA 4======================
+4. Se desprende del texto que las explicaciones científicas
+=====================ALTERNATIVAS======================
+A) se ponen a prueba y perfeccionan en el seno de una comunidad académica.*
+B) son definitivas solamente en el caso de que utilicen modelos matemáticos.
+C) trabajan fundamentalmente con hechos y no con enunciados sobre hechos.
+D) eliminan de raíz la posibilidad de desarrollar pensamiento mágico religioso.
+E) plausibles más notables son indefectiblemente resultado de la serendipia.
+=====================ALTERNATIVA CORRECTA======================
+A
+=====================RAZONAMIENTO======================
+SOL. Kepler propuso sus leyes del movimiento y Newton las dedujo de unos principios más generales. A su vez, otros astrónomos utilizaron la mecánica de Newton para explicar ciertas irregularidades que no se comprendían con Kepler.
+=====================PREGUNTA 5======================
+5. Si Kepler hubiera deducido las leyes de Newton a partir de principios más generales,
+=====================ALTERNATIVAS======================
+A) estos no habrían sido de ninguna utilidad para los demás astrónomos de su tiempo.
+B) el poder explicativo de las leyes de Kepler sería superior al de las leyes de Newton.*
+C) el reconocimiento del genio de Newton sería mayor que el que existe en la actualidad.
+D) la astronomía perdería la capacidad explicativa de la que gozó por varias centurias .
+E) las irregularidades en el movimiento de los planetas serían en principio inexplicables.
+=====================ALTERNATIVA CORRECTA======================
+B
+=====================RAZONAMIENTO======================
+SOL. La mayor generalidad de las leyes de Newton hace que estas tengan mayor poder explicativo que las de Kepler. La pregunta formulada recrea el caso inverso.
