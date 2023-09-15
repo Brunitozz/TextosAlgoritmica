@@ -1,4 +1,4 @@
-ID: TEXTO 3
+ID: 51
 =====================TEXTO======================
 Para algunos, siguiendo a Foucault, la locura no es sino una forma de interacción
 social impregnada por la cultura del medio en que aparece. Hacer la historia de la locura
@@ -18,7 +18,7 @@ no hay victoria definitiva.
 =====================ALTERNATIVAS======================
 A) la locura como forma de interacción.
 B) los criterios que definen a la locura.
-C) la locura como alteridad de la razón.*
+C) la locura como alteridad de la razón.
 D) la evolución del clima emocional.
 E) la naturaleza efímera de la locura.
 =====================ALTERNATIVA CORRECTA======================
@@ -29,7 +29,7 @@ razón.
 =====================PREGUNTA 2======================
 2. El vocablo ACECHA sugiere que los seres humanos
 =====================ALTERNATIVAS======================
-A) somos, sin excepción, pasibles de sufrir locura.*
+A) somos, sin excepción, pasibles de sufrir locura.
 B) debemos enfrentar con entereza las adversidades .
 C) ajustamos las dosis de orden para tutelar a los locos .
 D) seremos excluidos, inexorablemente, de la sociedad.
@@ -42,7 +42,7 @@ Todos los seres humanos estamos expuestos a padecer locura.
 3. Se infiere que la ausencia de una victoria definitiva sobre la locura se debe a que esta
 =====================ALTERNATIVAS======================
 A) es el rostro grotesco de todas las épocas.
-B) constituye el complemento de la razón.*
+B) constituye el complemento de la razón.
 C) es una expresión de la interacción social.
 D) ha experimentado importantes variaciones.
 E) revela el clima emocional de la humanidad.
@@ -56,7 +56,7 @@ No se puede vencer a la locura porque es una expresión de la razón.
 A) es una inclinación ineludible a actuar de modo absurdo.
 B) guarda una relación sumamente estrecha con la razón.
 C) es concebida de manera particular por cada cultura.
-D) supone solo una interrupción temporal de las normas.*
+D) supone solo una interrupción temporal de las normas.
 E) es un modo de interacción cole ctiva,según Foucault.
 =====================ALTERNATIVA CORRECTA======================
 D 
@@ -66,7 +66,7 @@ La interrupción temporal de normas entra en la normalidad.
 5. Si el ce tro de Momo no hubiera tenido forma de cabezagrotesca, probablemente
 =====================ALTERNATIVAS======================
 A) simbolizaría la victoria definitiva sobre la locura.
-B) no sería un emblema apropiado para la locura.*
+B) no sería un emblema apropiado para la locura.
 C) representaría la tolerancia en la sociedad actual.
 D) no sería la alegoría de la evolución emocional.
 E) retrataría la prudencia de los seres humanos.

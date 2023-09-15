@@ -1,4 +1,4 @@
-ID:TEXTO 1
+ID: 45
 =====================TEXTO======================
 Dasein se ha traducido al español como ser -ahí y es la marca de
 fábrica del existencialismo. En algunos textos, Dasein =existencia real. En otros, Dasein
@@ -33,7 +33,7 @@ Unsinn y no Sinn ? Precaución: Dasein y sus similares no deben confundirse con 
 A) un intento del autor por mostrar su conocimiento del alemán.
 B) una prueba de la riqueza semántica de la lengua alemana.
 C) un comentario muy irónico acerca de la filosofía en general.
-D) una caracterización sardónica del D asein existencialista.*
+D) una caracterización sardónica del D asein existencialista.
 E) una descripción imparcial de la filosofía existencialista.
 =====================ALTERNATIVA CORRECTA======================
 D
@@ -45,7 +45,7 @@ conceptos en lengua alemana.
 2. La expresión SÍNTESIS CRONOTÓPICAS alude
 =====================ALTERNATIVAS======================
 A) a la tendencia muy difundida de utilizar palabras polisémicas.
-B) a palabras que vinculan un referente espacial con uno temporal.*
+B) a palabras que vinculan un referente espacial con uno temporal.
 C) al concepto de Dasein pero interpretado como existencia real.
 D) a la relevancia de los conceptos cronológicos en lengua alemana. 
 E) a los conceptos que muestran profundidad ontológico- semántica.
@@ -59,7 +59,7 @@ palabras acuñadas sarcásticamente por el autor para designar conceptos espacio
 =====================ALTERNATIVAS======================
 A) resulta crucial para cualquier emprendimiento filosófico serio.
 B) goza de amplia difusión debido a su magnífica versatilidad.
-C) es por lo menos ambiguo, cuando no simplemente absurdo.*
+C) es por lo menos ambiguo, cuando no simplemente absurdo.
 D) es de gran ayuda para resolver controversias hermenéuticas.
 E) puede aplicarse en el contexto de ciencias como la física.
 =====================ALTERNATIVA CORRECTA======================
@@ -74,7 +74,7 @@ Gretel pretenden
 A) vincular razonablemente algunos conceptos filosóficos y c ientíficos.
 B) poner en ridículo a los detractores del pensamiento existencialista.
 C) poner de relieve que la filosofía puede aplicarse al terreno cotidiano.
-D) trivializar el concepto de Dasein al aplicarlo a un contexto doméstico.*
+D) trivializar el concepto de Dasein al aplicarlo a un contexto doméstico.
 E) ilustrar la fecundidad de las ideas de los filósofos existencialistas.
 =====================ALTERNATIVA CORRECTA======================
 D
@@ -84,7 +84,7 @@ del existencialismo. El autor hace escarnio de ello al mostrar la vacuidad del c
 =====================PREGUNTA 5======================
 5. Se deduce que entre los admiradores del existencialismo
 =====================ALTERNATIVAS======================
-A) hay una tendencia a sobrevalorar la lengua alemana como medio expresivo.*
+A) hay una tendencia a sobrevalorar la lengua alemana como medio expresivo.
 B) predomina una fuerte concepción animista de la naturaleza en su conjunto.
 C) es frecuente hallar personas caracterizadas por su notable vena irónica.
 D) existe proclividad hacia el pensamiento riguroso y libre de ambigüedades.

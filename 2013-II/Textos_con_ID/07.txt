@@ -1,116 +1,134 @@
-ID: TEXTO 1
+ID: 07
 =====================TEXTO======================
-El cielo aparece a la vista como una cúpula más o menos plana, en la cual están
-clavados los astros. Esa cúpula, empero, da vuelta, en el curso de un día, alrededor de un
-eje, cuya posición en el cielo está determinada por la estrella polar. Mientras esta
-apariencia pasó por realidad, era superflua la traslación de la geometría de la Tierra al
-espacio cósmico, y de hecho no se verificó; pues no existen longitudes, distancias que
-pudieran medirse como unidades terrestres, y para designar las posiciones de los astros
-bastaba con indicar el ángulo aparente que la mirada del observador, dirigida hacia el
-astro, hace con el horizonte y otro plano elegido convenientemente. En este estadio del
-conocimiento, la superficie de la Tierra es la base inmóvil y eterna del todo; las palabras
-«arriba» y «abajo» tienen un sentido absoluto, y cuando la fantasía poética ola
-especulación filosófica emprenden la tarea de estimar la altura del cielo ola profundidad
-del Tártaro, no necesita explicarse la significación de estos conceptos, pues la inmediata
-vivencia de la intuición nos lo entrega, sin especulación. Aquí, la conceptuación naturalista
-se nutre de la riqueza que presentan las intuiciones subjetivas. El sistema cosmológico
-que lleva el nombre de Ptolomeo —150 después de J C.— es la fórmula científica de este
-estadio espiritual; conoce ya una multitud de hechos finamente observados sobre el
-movimiento del Sol, de la Luna, de los planetas, y sabe dominarlos teóricamente con
-notable éxito; pero se atiene a la absoluta inmovilidad de la Tierra, alrededor de la cual
-giran los astros a distancias inmensurables. Sus trayectorias son determinadas como
-círculos y epiciclos, según las leyes de la geometría terrestre, sin que pueda decirse por
-ello que el espacio cósmico se halle propiamente sometido a la geometría; pues las
-trayectorias residen, cual rieles que, afianzados en las bóvedas cristalinas, representan el
-cielo en capas sucesivas.
+Dos exposiciones paralelas rescatan los extraordinarios dibujos procedentes de los
+Leonardo da Vinci (1452 -1519), el genio universal del
+Renacimiento italiano, quien en raras ocasiones se presentaba en las cortes como un
+pintor, sino más bien como un ingeniero, arquitecto, músico, diseñador de armas u
+organizador de fiestas. La muestra Leonardo da Vinci: la mecánica del hombre se puede
+visitar hasta el 10 de noviembre de 2013 en The Queen's Gallery, en el Palacio de
+Holyroodhouse, en Edimburgo; y Leonardo da Vinci. El hombre universal hasta el 1 de
+diciembre en las Galerías de la Academia, en Venecia. Ambas retrospectivas representan
+una ocasión única para admirar los dibujos del célebre artista florentino, que son
+extremadamente frágiles, y en el caso de la muestra veneciana sólo se pueden exponer
+públicamente una vez durante una generación, ya que deben ser custodiados en la
+oscuridad más absoluta y bajo unas exigentes condiciones ambientales.
+Leonardo da Vinci: la mecánica del hombre examina los innovadores dibujos que
+realizó el artista sobre el cuerpo humano y demuestra que es uno de los más destacados
+anatomistas de la historia. La muestra reúne 30 obras que incluyen 18 hojas, entre las
+más p reciosas de Leonardo, que forman el Manuscrito an atómico A Más de 240 dibujos y
+13 000 palabras rellenan estas páginas, que fueron realizadas durante el invierno de 1510
+y 1511. Leonardo ilustró prácticamente cada hueso del cuerpo humano y los principales
+grupos musculares. Estos estudios anatómicos no fueron publicados a lo largo de su vida
+y permanecieron inéditos durante varios siglos. En sus anotaciones, presentes en la
+exposición, describe un examen post mortem de un hombre de 100 años de edad en el
+que ofrece la primera descripción exacta de una cirrosis hepática y del estrechamiento de
+las arterias. Los  exhiben junto a imágenes médicas del siglo
+XXI que revelan el carácter precursor del genio florentino en técnicas como el es cáner
+IRM ola modelización informática en 3D.
+Leonardo da Vinci. El hombre universal muestra los excepcionales folios del maestro
+florentino conservados desde el año 1822 en la colección gráfica del Gabinete de los
+Dibujos de las Galerías de la Academia, en Venecia. Un total de 25 obras gráficas que
+nunca han sido mostradas al público. La exposición cuenta también con otras 27 hojas
+procedentes de préstamos de museos italianos y extranjeros como la Biblioteca Real de
+Turín, la Galería Uffizi de Florencia, la Galería Nacional de Parma, la Royal Collection del
+Castillo de Windsor, el Museo Británico de Londres y el Museo Ashmolean de Oxford. La
+colección dedicada al estudio de las proporciones del cuerpo humano incluye el
+célebre Hombre de Vitruvio ,una representación armónica que es un símbolo de la
+perfección clásica del cuerpo y la mente. También se pueden admirar sus dibujos de 
+botánica, proyectos geométricos, retratos de hombres, figuras femeninas, batallas y
+proyectos de armas e ingenios militares.
 =====================PREGUNTA 1======================
-1. El tema central del texto es
+1. Fundamentalmente, el tema central gira entorno a
 =====================ALTERNATIVAS======================
-A) la irrelevancia de las longitudes fuera del espacio terrestre.
-B) la traslación de la Tierra en la concepción naturalista griega.
-C) la trayectoria que sigue la Tierra en relación con otros astros.
-D) la importancia de las notaciones bidimensionales en ciencia.
-E) el sistema cosmológico intuicionista planteado por Ptolomeo 
+A) dos muestras en Edimburgo y Venecia que rescatan dibujos de Da Vinci 
+B) la forma meticulosa en que Leonardo da Vinci dibujó la anatomía humana.
+C) un conjunto de dibujos inéditos que fueron hechos por Leonardo da Vinci.
+D) el carácter precursor de Leonardo da Vinci respecto de los escáneres IRM.
+E) la armonía alcanzada por Da Vinci en la representación del cuerpo humano
 =====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: E 
+SOLUCIÓN: A. 
 =====================RAZONAMIENTO======================
-En efecto, el tema central del texto es la concepción ptolemaica, basada
-en la intuición, de la inmovilidad terrestre producto de la observación directa del
-desplazamiento de los astros.
+El texto gira entorno a dos exposiciones en las que se muestra n dibujos
+de Leonardo da Vinci: una se ubica en Edimburgo, y la otra, en Venecia.
 =====================PREGUNTA 2======================
-2. La palabra ATENER connota
+2. En el texto, la palabra INGENIO adquiere el sentido de
 =====================ALTERNATIVAS======================
-A) especulación. 
-B) dependencia 
-C) complejidad.
-D) naturaleza. 
-E) exclusión.
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: B. 
-El vocablo en cuestión alude a la observación de los astros desde la
-Tierra, la cual hace posible una concepción del cosmos que se atiene a la inmovilidad de
-esta. Lo anterior supone que el sistema ptolemaico depende de este último aspecto.
-=====================PREGUNTA 3======================
-3. Determine la aseveración que desarrolla esencialmente el tema central.
-=====================ALTERNATIVAS======================
-A) En la concepción de Ptolomeo, la posición de los astros era definida a partir del
-ángulo aparente que se formaba el observador entre estos y el horizonte.
-B) Los conceptos espaciales, obtenidos a través de la vivencia inmediata, fueron la
-base de la cosmología ptolemaica y ostentaban un carácter irrecusable.
-C) El cielo para el observador es una cúpula plana sobre la que se distribuyen los
-astros, los cuales, a partir de una observación directa, parecieran desplazarse.
-D) Las distancias fuera del espacio terrestre eran asumidas como inmensurables en
-la propuesta cosmológica planteada de forma conveniente por Ptolomeo.
-E) El sistema de Ptolomeo respecto de la inmovilidad de la Tierra obedece a una
-concepción del cosmos basada en la intuición derivada de percepciones directas
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: E. 
-=====================RAZONAMIENTO======================
-La cosmología de Ptolomeo estaba basada en la observación directa que
-deviene en intuiciones subjetivas que no admiten discusión, y que consideran a la Tierra
-como un lugar estático.
-=====================PREGUNTA 4======================
-4. Es posible deducir del texto que la determinación de ángulos referenciales de medición obedece a un procedimiento
-=====================ALTERNATIVAS======================
-A) taxativ o. 
-B) arbitrario 
-C) preciso.
-D) definitivo. 
-E) irrecusable.
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: B. 
-=====================RAZONAMIENTO======================
-El autor del texto indica que el ángulo aparente formado por la mirada del
-observador, el horizonte y otro plano «elegido convenientemente». El punto de referencia,
-en consecuencia, es arbitrario.
-=====================PREGUNTA 5======================
-5. Resulta incompatible con el desarrollo textual afirmar que la trayectoria de los astros
-=====================ALTERNATIVAS======================
-A) fue determinada por Ptolomeo a través de epiciclos.
-B) se concebía antiguamente de forma subjetiva e intuitiva.
-C) tenía como base, para Ptolomeo, a la Tierra estática.
-D) se ignoró completamente en la propuesta de Ptolomeo
-E) fue definida imprecisamente por el sistema ptolemaico.
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: D 
-=====================RAZONAMIENTO======================
-Ptolomeo no ignoró el desplazamiento de los astros, solo que este se
-concebí a a partir de la asunción de que la Tierra era estática. Por ello, afirmar que la
-trayectoria de los astros fue ignorada por aquel resulta incompatible.
-=====================PREGUNTA 5======================
-6. Si Ptolomeo hubiera sido capaz de plantear unidades de medición para los astros,
-distintas a las de las unidades terrestres, probablemente
-=====================ALTERNATIVAS======================
-A) la determinación de la trayectoria de estos habría sido más precisa
-B) el estatus terrestre inmutable habría ostentado bases teóricas sólidas.
-C) el Sol y la Luna habrían desplazado en relevancia a los de más astros.
-D) las intuiciones como base para teorizar habrían alcanzado relevancia.
-E) la teoría geocéntrica habría permitido un riguroso análisis del cosmos.
+A) prodigio 
+B) talento 
+C) facultad
+D) ilusión. 
+E) artefacto 
 =====================ALTERNATIVA CORRECTA======================
 SOLUCIÓN : 
 =====================RAZONAMIENTO======================
-En la Antigüedad, la distancia de los astros y la longitud de su
-desplazamiento eran inmensurables, debido a que las unidades de medición terrestres
-eran inaplicables en un espacio fuera de la Tierra. Si se hubiese contado con unidades de
-medición diferentes a las terrestres, la trayectoria de los astros se hubiera definido
-plausiblem ente con mayor precisión.
+La palabra en cuestión hace referencia a máquinas militares imaginadas y
+representadas por Da Vinci En consecuencia, el sentido de INGENIO es MÁQUINA o
+artefacto.
+=====================PREGUNTA 3======================
+3. Se puede colegir del texto que la notable fama de Da Vinci como creador pictórico
+=====================ALTERNATIVAS======================
+A) empieza cuando todos sus dibujos se exhibieron en Italia
+B) es equiparable a su habilidad como organizador de fiestas
+C) jamás fue promovida por este prodigioso artista italiano
+D) se inicia con la exposición de sus dibujos en Edimburgo
+E) solo fue eclipsada por su fama como diseñador de armas.
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN : 
+=====================RAZONAMIENTO======================
+Da Vinci se presentaba a sí mismo como arquitecto, organizador de
+fiestas, músico, etc., pero jamás como pintor. De lo anterior es posible colegir que su fama
+mundial como creador pictórico nunca fue promovida por él mismo
+=====================PREGUNTA 4======================
+4. ¿Cuál es la idea principal del texto?
+=====================ALTERNATIVAS======================
+A) Los dibujos exhibidos en las dos muestras artísticas están en lugares que
+cuentan con condiciones ambientales rigurosas, dada la notoria fragilidad de la
+muestra
+B) Dos muestras, una en e l Palacio de Holyr oodhouse (Edimburgo) y otra en las
+Galerías de la Academia (Venecia), rescatan dibujos de Leonardo da Vinci 
+C) Leonardo da Vinci. El hombre universal presenta al público un total de 25 obras
+que nunca antes han sido mostradas y que se conservan desde 18 22.
+D) La colección en que Da Vinci se dedica a representar la armonía de la anatomía
+humana destaca por la obra Hombre de Vitruvio ,un símbolo del Renacimiento
+E) Leonardo da Vinci: la mecánica del hombre examina los innovadores dibujos del
+pintor y demuestra que es uno de los más destacados anatomistas de la historia
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN : 
+=====================RAZONAMIENTO======================
+Las dos muestras artísticas rescatan dibujos del maestro florentino
+(muchos de estos nunca antes vistos): una de ellas se ubica en Edimburgo, y la otra, en
+Venecia 
+=====================PREGUNTA 5======================
+5. Resulta incompatible con el desarrollo textual afirmar que la muestra que se realiza en Venecia
+=====================ALTERNATIVAS======================
+A) se llevará a cabo de forma sostenida y perpetua
+B) se realizará solamente hasta el 1 de diciembre.
+C) presenta esbozos de armas e ingenios militares.
+D) permite admirar dibujos de botánica y retratos.
+E) incluye dibujos prestados de museos italianos.
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN : 
+=====================RAZONAMIENTO======================
+La muestra realizada en Venecia, dada la delicadeza de los dibujos,
+tendrá un tiempo de duración limitado, pues contiene obras que «[…] sólo se pueden
+exponer públicamente una vez durante una generación».
+=====================PREGUNTA 6======================
+6. Si Leonardo da Vinci hubiese carecido de interés respecto de la anatomía humana,
+posiblemente
+=====================ALTERNATIVAS======================
+A) el valor ecuménico de su legado artístico como pintor renacentista y genio
+creativo se vería notoriamente mellado en la actualidad
+B) sus dibujos inéditos relacionados con sus proyectos geométricos, batallas y
+material de guerra permanecerían ocultos por mucho tiempo
+C) jamás se hubiera presentado ante las cortes como arquitecto y diseñador de
+artefactos de guerra, entre otros productos creativos
+D) la caracterización fidedigna de la cirrosis hepática y el estrechamiento arterial
+padecidos por un anciano jamás se habría realizado 
+E) los museos italianos carecerían de muestras abundantes para exponer en
+exhibiciones públicas que atraigan el interés turístico
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN : 
+=====================RAZONAMIENTO======================
+La obsesión de Da Vinci por la anatomía humana devino en la primera
+descripción minuciosa de una cirrosis hepática y el estrechamiento arterial. De no haber
+estado interesado por aquella, esta descripción no se hubiera llevado a cabo.

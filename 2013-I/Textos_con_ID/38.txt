@@ -1,4 +1,5 @@
-ID: TEXTO A
+ID: 38
+=====================TEXTO======================
 En la selva vivía una vez un Mono que quiso ser escritor satírico.
 Estudió mucho, pero pronto se dio cuenta de que para ser escritor satírico le faltaba
 conocer a la gente y se aplicó a visitar a todos y a ir a los cocteles y a observarlos por el

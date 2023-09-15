@@ -1,4 +1,4 @@
-ID:
+ID: 41
 =====================TEXTO======================
 Cuando José Miguel Insulza, secretario general de la OEA, criticó la cancelación del
 canal de televisión RCTV, el fallecido presidente de Venezuela, Hugo Chávez, lo calificó
@@ -28,7 +28,7 @@ venezolano solo porque se realizan elecciones es mirar la realidad con ojos miop
 =====================PREGUNTA 1======================
 1. Fundamentalmente, la intención del autor es
 =====================ALTERNATIVAS======================
-A. definir la naturaleza de un gobierno democrático*
+A. definir la naturaleza de un gobierno democrático
 B. condenar el carácter antidemocrático de Chávez.
 C. destacar el carácter democrático de América Latina.
 D. denunciar las dictaduras disfrazadas de democraci as.
@@ -42,7 +42,7 @@ El autor nos dice que para algunos es difícil saber si en Venezuela hay democra
 =====================ALTERNATIVAS======================
 A. sustentado. 
 B. admitido. 
-C. limitado.*
+C. limitado.
 D. expugnable. 
 E. inerme.
 =====================ALTERNATIVA CORRECTA======================
@@ -56,7 +56,7 @@ A. llevó a cabo elecciones en su país.
 B. limitó el derecho a libre asociación.
 C. conformó un Estado muy poderoso.
 D. se entrometió en asuntos de la prensa.
-E. fue muy impopular en Venezuela.*
+E. fue muy impopular en Venezuela.
 =====================ALTERNATIVA CORRECTA======================
 E. 
 =====================RAZONAMIENTO======================
@@ -65,7 +65,7 @@ Para algunos politólogos el chavismo representa una democracia real porque es p
 4. Se colige que la igualdad de condiciones y la libertad de expresión son necesarias en una democracia porque
 =====================ALTERNATIVAS======================
 A. limitan el poder del gobierno. 
-B. permiten elecciones libres.*
+B. permiten elecciones libres.
 C. generan la división de poderes. 
 D. son un mecanismo de control.
 E. así el pueblo puede manifestarse.
@@ -80,7 +80,7 @@ A. Chávez era un caudillo como señaló Insulza.
 B. el Estado no tiene capacidad para fortalecerse.
 C. la libertad de expresión se encuentra anulada.
 D. no existe respeto por los derechos fundamentales.
-E. no hay un gobierno de naturaleza democrática.*
+E. no hay un gobierno de naturaleza democrática.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
@@ -91,7 +91,7 @@ poder definir a cabalidad si en Venezuela se ejerce un gobierno democrático, el
 =====================ALTERNATIVAS======================
 A. honorables, pero confundidos. 
 B. adeptos a caudillos latinoamericanos.
-C. poco perspicaces para la política.* 
+C. poco perspicaces para la política. 
 D. disconformes con la política chavista.
 E. simpatizantes del fujimorismo.
 =====================RAZONAMIENTO======================
@@ -101,7 +101,7 @@ Seguir pretendiendo defender un Estado democrático en el venezolano solo porque
 =====================ALTERNATIVAS======================
 A. habría acabado con la división de poderes en su país.
 B. no habría recurrido a las elecciones presidenciales para gobernar.
-C. de ningún modo su gobierno habría sido considerado democrático.*
+C. de ningún modo su gobierno habría sido considerado democrático.
 D. no habría sido un dictador sino un caudillo político.
 E. su gobierno sería una auténtica democracia real y formal.
 =====================ALTERNATIVA CORRECTA======================

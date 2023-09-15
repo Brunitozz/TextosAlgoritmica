@@ -1,4 +1,4 @@
-ID: SEMANA 11 C 
+ID: 35
 TEXTO 1
 =====================TEXTO======================
 Existe una enfermedad metabólica muy rara, denominada trimetilaminuria (TMAU)

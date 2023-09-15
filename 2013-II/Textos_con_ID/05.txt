@@ -1,42 +1,43 @@
-ID: TEXTO 3
+ID: 05
 =====================TEXTO======================
-En la primavera del año 1990, un grupo de obreros estaba realizando las obras de la
-carretera del nuevo aeropuerto internacional de la ciudad de Xian, al sudeste de Beijing,
-cuando, a unos seis metros de profundidad, el golpe de un pico produjo un extraño
-sonido. Los obreros observaron sorprendidos que habían dado con una especie de
-bóveda subterránea. Llamados a toda prisa, los arqueólogos no tardaron en darse cuenta
-de que estaban ante un descubrimiento excepcional. En efecto, los trabajos de
-excavación sacaron a la luz un complejo de bóvedas subterráneas que se extendían por
-un área de diez kilómetros cuadrados. En su interior aparecieron, cuidadosamente
-alineadas, miles de estatuillas de extraordinaria calidad, que representaban a personas
-con rostros exquisitamente moldeados, además de caballos y todo tipo de animales
-domésticos.
-No era éste el primer descubrimiento arqueológico importante en el área de Xian. En
-1974, a pocos kilómetros de distancia, se había descubierto el impresionante ejército de
-terracota a tamaño natural de Qin Shi Huang Di, el primer emperador de China. Los
-lugareños se felicitaron ante la aparición de a quellos pequeños «hombres de barro», que,
-según creían, les traerían «hordas de turistas occidentales».
-Los arqueólogos identificaron fácilmente al propietario de aquellas fosas. Se trataba
-de Jing Di, cuarto emperador de la dinastía Han, que gobernó China entre 156 y 141 a.C.,
-cuyo túmulo funerario, identificado desde hacía años pero que aún no ha sido excavado,
-se alza a un kilómetro de las fosas. Además, a unos 500 metros al este del túmulo de Jing
-Di se encuentra el enterramiento de su esposa, la emperatriz Wang.
+Según un nuevo estudio del Journal of Agricultural Food and Chemistry , el consumo
+de zumo de sandía antes de un entrenamiento duro ayuda a reducir la frecuencia
+cardíaca de los atletas y el dolor muscular al día siguiente.
+El motivo es que la sandía es rica en un aminoácido llamado L -Citrulina, que el
+cuerpo convierte en L -Arginina, un aminoácido esencial que ayuda a relajar los vasos
+sanguíneo s y mejorar la circulación.
+Según un estudio publicado por el fisiólogo de la universidad de Florida Arturo
+Figueroa, Las mujeres posmenopáusicas experimentan una mejor salud cardiovascular
+después de tomar suplementos de extracto de sandía durante 6 semanas. Además, en
+otro estudio de 2012, publicado por Figueroa también, confi rmaba que tales suplementos
+ayudaban a aliviar la presión arterial en adultos obesos de mediana edad. 
+
+Además de los beneficios para el corazón parece ser que puede servir como viag ra
+natural también. También es cierto que para conseguir los efectos deseados es necesario
+ingerir unas grandes cantidades lo que puede causar otros efectos no deseados ya que la
+Sandía es considerada como un buen diurético.
+Se suele pensar que la Sandía tiene poco valor nutricional ya que el 80% de su
+composición es agua. Sin embargo 300ml (una cuña) de sandía es alrededor de un tercio
+de la cantidad diaria de vitaminas A y C recomendadas. Además también contiene un
+poco de Potasio.
+La sandía es una de las mejores fuentes dietéticas de licopeno, un antioxidante
+ligado tanto a la prevención y el tratamiento del cáncer de próstata, aunque los científicos
+todavía están investigando los detalles de esa conexión.
 =====================PREGUNTA 1======================
 1. ¿Cuál es la idea principal del texto?
 =====================ALTERNATIVAS======================
-A) El cuarto emperador de la dinastía Han gobernó China entre 156 y 141 a.C., Jing
-Di, fue propietario de una fosa llena de estatuillas de un ejército chino
-B) El emperador chino Jing Di hizo que e nterraran a su esposa, la emperatriz Wang,
-a unos 500 metros al este del lugar donde este fue cuidadosamente enterrado
-C) En 1990 los arqueólogos hallaron en Xian miles de figuras humanas y de
-animales , y un ejército en 1974, cerca de la tumba del emperador chino Jing Di 
-D) En el área de Xian se detectó el impresionante y numeroso ejército de Qin Shi
-Huang, primer emperador de China, a tamaño natural hecho con terracota
-E) Los lugareños de Xian consideraron oportuno el hallazgo del ejército chino de Qin
-Shi Huang, pues este traería abundantes turistas al lugar
+A) La reducción de la frecuencia cardiaca y el dolor muscular, la mejora de la
+circulación, entre otras razones, hacen favorable el consumo de sandía 
+B) La sandía puede servir para contrarrestar los efectos nocivos del cáncer a la
+próstata, aunque las pe squisas sobre esta conexión todavía continúan
+C) Una cuña de sandía contiene alrededor de un tercio de la cantidad diaria de
+vitaminas A y C que un individuo requiere, además de contener Potasio
+D) Las mujeres que padecen menopausia mejoran sensiblemente al ingerir
+diariamente complementos de extracto de sandía durante seis semanas
+E) La sandía es rica en un aminoácido llamado L -Citrulina, que el cuerpo convierte
+en L-Arginina, un aminoácido esencial que ayuda a relajar los vasos
 =====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: C 
+SOLUCIÓN: A. 
 =====================RAZONAMIENTO======================
-La idea que desarrolla esencialmente el tema central sostiene que en
-Xian se han encontrado en 1990 y 1974 estatuas de personas y animales, además de un
-ejército chino y este ha pertenecido al emperador Qin Shi Huang
+La idea principal sostiene que existen múltiples razones que hacen
+recomendable la ingesta de sandía en la dieta diaria.

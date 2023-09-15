@@ -1,4 +1,4 @@
-ID: TEXTO 2
+ID: 46
 =====================TEXTO======================
 ¿Cómo es posible haberse rendidotanto a la simpleza de los teólogos cristianos, que
 se haya llegado a decretar con ellos que la evolución del conceptode Dios, del Dios de
@@ -25,7 +25,7 @@ Nietzsche, Friedrich. El anticristo
 A) del Dios cristiano como símbolo de esperanza.
 B) de la desaparición del Dios del pueblo hebreo.
 C) del surgimiento de la metafísica en occidente.
-D) de la nefasta evolución del concepto de Dios.*
+D) de la nefasta evolución del concepto de Dios.
 E) de los metafísicos como filósofos irrelevantes.
 =====================ALTERNATIVA CORRECTA======================
 D
@@ -36,7 +36,7 @@ SOL. El concepto de Dios evoluciona desde el judaísmo, pasando por el cristiani
 =====================ALTERNATIVAS======================
 A) refulgencia. 
 B) pasmo. 
-C) desdén.*
+C) desdén.
 D) indiferencia. 
 E) pureza.
 =====================ALTERNATIVA CORRECTA======================
@@ -50,7 +50,7 @@ A) es una exhortación a convertirse al judaísmo.
 B) pretende encomiar la labor de los metafísicos.
 C) tiene como objetivo evitar el agotamiento de la fe.
 D) constituye una denuncia del avance del ateísmo. 
-E) es una crítica severa de la metafísica kantiana.*
+E) es una crítica severa de la metafísica kantiana.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
@@ -61,7 +61,7 @@ La cosa en sí es un concepto popularizado por el filósofo E. Kant. El autor de
 A) son detractores temibles de la metafísica occidental.
 B) son imprescindibles por la profundidad de sus ideas.
 C) pueden ser considerados como enemigos de la fe.
-D) son los herederos seculares de la teología cristiana.*
+D) son los herederos seculares de la teología cristiana.
 E) abjuraron de su fe hebrea debido a razones políticas.
 =====================ALTERNATIVA CORRECTA======================
 D
@@ -71,7 +71,7 @@ teólogos encubiertos que hablan de Dios en términos filosóficos y laicos.
 =====================PREGUNTA 5======================
 5. Se desprende del texto que cuando el autor señala que el reino de Dios ha llegado a ser más grande se refiere específicamente
 =====================ALTERNATIVAS======================
-A) al nacimiento de la religión cristiana en el seno del judaísmo.*
+A) al nacimiento de la religión cristiana en el seno del judaísmo.
 B) al enorme número de publicaciones sobre filosofía de la religión.
 C) a la gran influencia de la metafísica sobre la filosofía occidental.
 D) al surgimiento del mundo protestante tras el cisma de la iglesia.

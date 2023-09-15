@@ -1,4 +1,4 @@
-ID: TEXTO 2
+ID: 50
 =====================TEXTO======================
 Allá en Cartagena conocen mucho más que en España a don Blas de Lezo y
 Olabarrieta (1689- 1741), el ilustre guipuzcoano de Pasajes. Me he pasa do la vida leyendo
@@ -21,7 +21,7 @@ el senador colombiano Pablo Victoria Vilches en El día que España derrotó a I
 A) Don Blas de Lezo prefirió dedicarse a luchar cuando lo tenía todo en contra; por ello, perdió diversas partes del cuerpo, lo que ocasionó que fuera conocido como
 Medio Hombre o Patapalo.
 B) Blas de Lezo fue llamado Medio Hombre, debido a sus diversas mutilaciones; sin
-embargo, su valentía y perspicacia militar lo llevaron a imponerse a la gran flota inglesa derrotando al almirante Vernon.*
+embargo, su valentía y perspicacia militar lo llevaron a imponerse a la gran flota inglesa derrotando al almirante Vernon.
 C) Edward Vernon, almirante inglés, estaba seguro de que derrotaría a la flota
 española; por ello, mucho antes de obtener la victoria, se apresuró en comunicarle al rey de su inevitable triunfo.
 D) Don Blas de Lezo y Olabarrieta inició su vida en altamar con tan solo 12 años;
@@ -42,7 +42,7 @@ A) al particular modo de hablar del insigne don Blas de Lezo.
 B) a los diversos errores en la manera de hablar del general.
 C) a las múltiples injurias dirigidas en contra de Blas de Lezo.
 D) al denuesto de don Blas mediante algunos improperios.
-E) al uso de epítetos para caracterizar a don Blas de Lezo.*
+E) al uso de epítetos para caracterizar a don Blas de Lezo.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
@@ -55,7 +55,7 @@ A) era un almirante conocido como Patapalo.
 B) era un admirable estratega de alta mar.
 C) se batía temerariamente en los combates.
 D) soportaba con increíble entereza el dolor.
-E) fue obsecuente frente al poder virreinal.*
+E) fue obsecuente frente al poder virreinal.
 =====================ALTERNATIVA CORRECTA======================
 E. 
 =====================RAZONAMIENTO======================
@@ -65,7 +65,7 @@ desfavorables sobre el incómodo subordinado.
 4. Se puede inferir que Patrick O’Brian
 =====================ALTERNATIVAS======================
 A) escribió sobre sus diversas aventuras en alta mar.
-B) es un notable creador de novelas de aventuras.*
+B) es un notable creador de novelas de aventuras.
 C) fue un soldado recordado por su valor en combate.
 D) fue novelista sumamente distinguido en España.
 E) narraba hechos reales sucedidos en las batallas.
@@ -79,7 +79,7 @@ pasado la vida leyendo novelas de aventuras.
 =====================ALTERNATIVAS======================
 A) el almirante inglés habría actuado con más mesura.
 B) habría sido ejecutado inexorablemente por Eslava.
-C) no sería recordado con tanto aprecio en Colombia.*
+C) no sería recordado con tanto aprecio en Colombia.
 D) habría sido acusado de conspirar en contra del rey.
 E) sus amigos no le habrían conocido como Patapalo.
 =====================ALTERNATIVA CORRECTA======================

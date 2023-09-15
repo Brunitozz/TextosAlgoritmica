@@ -1,4 +1,4 @@
-ID: TEXTO 1
+ID: 49
 =====================TEXTO======================
 El fanatismo es a la superstición lo que el delirio es a la fiebre, lo que la rabia es a
 la cólera. El que tiene éxtasis, visiones, el que toma sueños por realidades y sus imaginaciones por profecías es un fanático novicio de grandes esperanzas; podrá pronto llegar a matar por el amor a Dios.
@@ -27,7 +27,7 @@ Voltaire. Cartas filosóficas y otros escritos
 1. El vocablo RAZA se puede reemplazar por
 =====================ALTERNATIVAS======================
 A) etnia. 
-B) ralea.* 
+B) ralea. 
 C) alcurnia. 
 D) estirpe. 
 E) cepa.
@@ -40,7 +40,7 @@ misma raza que Díaz, es decir, de la misma clase (fanáticos).
 2. La idea principal del texto asevera que el
 =====================ALTERNATIVAS======================
 A) fanatismo puede desencadenar diversos actos criminales en todo el mundo.
-B) carácter filosófico es el único bálsamo que puede acabar con el fanatismo.*
+B) carácter filosófico es el único bálsamo que puede acabar con el fanatismo.
 C) fanático novicio podría llegar a cometer asesinatos por su gran amor a Dios.
 D) talante fanático de los creyentes religiosos se expresa mediante la violencia.
 E) fanático que conserva la sangre fría es merecedor de la mayor abominación.
@@ -56,7 +56,7 @@ A) buscará, irremediablemente, imponer sus ideas.
 B) puede asesinar si es alcanzado por el furor.
 C) asume que su dogma es lo más trascendental.
 D) defiende con excesiva tenacidad sus ideas.
-E) suele a menudo hacer uso de su juicio crítico.*
+E) suele a menudo hacer uso de su juicio crítico.
 =====================RAZONAMIENTO======================
 E. 
 =====================RAZONAMIENTO======================
@@ -64,7 +64,7 @@ El ejemplo de Bartolomé Díaz da cuenta que los fanáticos son acríticos.
 =====================PREGUNTA 4======================
 4. Se puede inferir que en la Noche de San Bartolomé se
 =====================ALTERNATIVAS======================
-A) llevó a cabo un asesinato en masa de protestantes.*
+A) llevó a cabo un asesinato en masa de protestantes.
 B) rendía homenaje a los logros de Bartolomé Díaz.
 C) adoraba, apoteósicamente, a una divinidad pagana.
 D) derribaron las estatuas de los dioses extranjeros.
@@ -78,7 +78,7 @@ Asesinaron a los que no profesaban el catolicismo.
 =====================ALTERNATIVAS======================
 A) es un célebre caso de fanatismo de sangre fría.
 B) constituye un ejemplo del fanatismo novicio.
-C) se convirtió en asesino debido a su fanatismo.*
+C) se convirtió en asesino debido a su fanatismo.
 D) es el más digno de execración por sus actos.
 E) se dedicaba a profanar monasterios e iglesias.
 =====================ALTERNATIVA CORRECTA======================

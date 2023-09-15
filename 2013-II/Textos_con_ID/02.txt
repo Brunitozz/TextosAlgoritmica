@@ -1,4 +1,4 @@
-ID: TEXTO 1
+ID: 02
 =====================TEXTO======================
 Una coincidencia sin parangón en el sistema solar: el diámetro del Sol es 400 veces
 mayor que el de la Luna, y esta se halla 400 veces más cerca de la Tierra que el Sol, lo

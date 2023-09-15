@@ -1,4 +1,4 @@
-ID: TEXTO B
+ID: 39
 =====================TEXTO======================
 En el encéfalo hay tres zonas importantes, cada una responsable de distintos tipos
 de acción. Cerca de la médula espinal está el bulbo raquídeo, que controla las acciones

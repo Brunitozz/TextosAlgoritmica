@@ -1,122 +1,135 @@
-ID: TEXTO 1
+ID: 09
 =====================TEXTO======================
-¿Revisas tu smartphone cada cinco minutos? ¿Has sentido vibraciones fantasmas?
-¿Te llevas tu celular a la mesa e incluso hasta al baño? Si es así, seguramente
-perteneces a las millones de personas que padecen «nomofobia».
-El término surgió como abreviatura de no-mobi le-phone -phobia durante un estudio
-realizado por la empresa inglesa de investigación demoscópica You Gov, para señalar la
-ansiedad y angustia que produce el estar sin celular.
-Si bien la denominación «fobia» podría ser incorrecta, un estudio conducido por el
-psicólogo Richard Balding de la Universidad de Worcester en Reino Unido, reveló que,
-efectivamente, el uso constante de estos aparatos aumenta los niveles de estrés, lo que a
-su vez incrementa los comportamientos compulsivos como el buscar incesantemente
-nuevas alertas, mensajes y actualizaciones.
-Durante el experimento, se les aplicó un cuestionario y una prueba psicosomática de
-estrés a 100 participantes, entre ellos estudiantes universitarios y empleados de diversas
-categorías y ocupaciones. Se confirmó la existencia de un círculo vicioso: si bien las
-personas adquirían el smartphone para manejar su carga de trabajo, una vez que el
-aparato extendía virtualmente su vida social, la angustia y el estrés se disparaban.
-La inhabilidad de apagar el celular, el tenerlo siempre a la mano, el asegurarse de
-que nunca se acabe la pila y el miedo a perder la señal son algunos síntomas de quienes
-sufren altos niveles de estrés.
-En México, existen más de 190 millones de smartphones : el 72% de los usuarios no
-salen de su casa sin su celular, según un informe realizado por Google, la consultora
-IPSOS y Mobile Marketing Association.
+El respeto que siente el hombre por el conocimiento es una de sus características
+más peculiares. En latín conocimiento se dice scientia y ciencia llegó a ser el nombre de
+la clase de conocimiento más respetable. ¿Qué distingue al conocimiento de la
+superstición, la ideología ola pseudociencia? La Iglesia Católica excomulgó a los
+copernicanos, el Partido Comunista persiguió a los mendeli anos por entender que sus
+doctrinas eran pseudocientíficas. La demarcación entre ciencia y pseudociencia no es un
+mero problema de filosofía de salón; tiene una importancia social y política vital.
+Muchos filósofos han intentado solucionar el problema de la demarcación en los
+términos siguientes: un enunciado constituye conocimiento si cree en él, con suficiente
+convicción, un número suficientemente elevado de personas. Pero la historia del
+pensamiento muestra que muchas personas han sido convencidos creyentes de nociones
+absurdas. Si el vigor de la creencia fuera un distintivo del conocimiento tendríamos que
+considerar como parte de ese conocimiento a muchas historias sobre demonios, ángeles,
+diablos, cielos e infiernos. Por otra parte, los científicos son muy escépticos incluso con
+respecto a sus mejores teorías. La de Newton es la teoría más poderosa que la ciencia ha
+producido nunca, pero el mismo Newton nunca creyó que los cuerpos se atrajeran entre sí
+a distancia. Por tanto, ningún grado de convencimiento con relación a ciertas creencias
+las convierte en conocimiento. Realmente lo que caracteriza a la conducta científica es un
+cierto escepticismo incluso con relación a nuestras teorías más estimadas. La profesión
+de fe ciega en una teoría no es una virtud intelectual sino un crimen intelectual. De este
+modo un enunciado puede ser pseudocientífico aunque sea eminentemente plausible y
+aunque todo el mundo lo crea, o puede ser científicamente valioso aunque sea increíble y
+nadie crea en él. Una teoría puede tener un valor científico incluso eminente, aunque
+nadie la comprenda y, aún menos, crea en ella.
+El valor cognoscitivo de una teoría nada tiene que ver con su influencia psicológica
+sobre las mentes humanas. Creencias, convicciones, comprensiones... son estados de la
+mente humana. Pero el valor científico y objetivo de una teoría es independiente de la
+mente humana que la crea ola comprende. Su valor científico depende solamente del
+apoyo objetivo que prestan los hechos a esa conjetura
 =====================PREGUNTA 1======================
-1. ¿Cuál es el tema central del texto?
+1. El tema central que el autor expone es
 =====================ALTERNATIVAS======================
-A) La preocupante proliferación de smartphones en México
-B) La nomofobia o estrés ocasionado por el uso de celular*
-C) El estrés asociado al uso compulsivo de tecnología digital
-D) La sensación de vibraciones fantasmas en el smartphone
-E) El uso necesario de teléfonos inteligentes en la actualidad
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: B. 
-=====================RAZONAMIENTO======================
-En el texto se desarrolla el tema de la nomofobia o estrés disparado por el
-uso obsesivo del teléfono celular
-=====================PREGUNTA 2======================
-2. Determine la idea principal del texto
-=====================ALTERNATIVAS======================
-A) El 72% de individuos jamás olvida salir sin teléfono celular en México.
-B) Quienes usan smartphones buscan que este registre nuevos mensajes
-C) El nombre nomofobia surgió abreviando la frase no-mobile -phone -phobia
-D) Los jóvenes son incapaces de dejar inactivos sus teléfonos celulares.
-E) La nomofobia es el estrés ocasionado por el uso compulsivo del celular 
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: E. 
-=====================RAZONAMIENTO======================
-La nomofobia, de acuerdo con el tema central, se define como el estrés
-que ocasiones el uso excesivo del teléfono móvil
-=====================PREGUNTA 3======================
-3. En el texto, la palabra DISPARAR implica el desarrollo de un proceso
-=====================ALTERNATIVAS======================
-A) gradual 
-B) armónico 
-C) acelerado 
-D) cáustico 
-E) complejo.
+A) el sustento moral que determina la aparición de una teoría científica
+B) el valor cognoscitivo que una teoría ostenta al margen de su creador
+C) el distinción entre el conocimiento científico y el pseudocientífico 
+D) la comprensión cabal que hace de una teoría un saber aceptado
+E) los motivos que determinaron la persecución de los mendelianos
 =====================ALTERNATIVA CORRECTA======================
 SOLUCIÓN: C. 
 =====================RAZONAMIENTO======================
-El estrés se DISPARABA, esto es, crecía de forma desmedida cuando el
-smartphone se extendía al uso social El vocablo alude a un proceso que se da de forma
-acelerada.
+En el texto el autor establece una diferenciación entre ciencia y
+pseudociencia
+=====================PREGUNTA 2======================
+2. En el texto, la expresión FILOSOFÍA DE SALÓN alude a una actividad
+=====================ALTERNATIVAS======================
+A) relevante para la sociedad en la cual se desarrolla.
+B) de tipo pseudocientífico y arbitrariamente dependiente
+C) intelectual que cuenta con un estatus social elevado
+D) eminentemente objetiva que es a ceptada por todos
+E) puramente reflexiva y sin ninguna aplicación práctica 
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN: E. El autor usa la expresión para excluir la actividad filosófica que se
+encuentra al margen de las consecuencias sociales que puede tener una distinción entre
+ciencia y pseudociencia
+=====================PREGUNTA 3======================
+3. Determine la idea principal del texto.
+=====================ALTERNATIVAS======================
+A) Muchos filósofos sostienen que un enunciado constituye un conocimiento
+científico si un número elevado de individuos lo aceptan y lo comparten con
+suficiente convicción
+B) La diferencia entre ciencia y pseudociencia reside en que la primera depende del
+apoyo objetivo de los hechos mientras que la segunda está relacionada con
+estados de la mente 
+C) La aceptación y la defensa viscerales de los asertos más innovadores y sólidos
+de una t eoría científica constituyen un crimen intelectual más que una capacidad
+intelectual virtuosa.
+D) La demarcación entre ciencia y pseudociencia ha constituido un problema sin
+resolver por parte de los miembros del Partido Comunista que rechazaban la
+teoría de Gregorio Mendel
+E) Los científicos actúan con mucha cautela respecto de sus teorías mejor
+elaboradas, como lo demuestra la incredulidad de Newton respecto de la
+atracción de cuerpos a distancia
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN: B. En efecto, el autor del texto sostiene que la ciencia y pseudociencia se
+diferencian en el apoyo objetivo de la primera (al margen de la influencia psicológica que
+esta pueda tener) y el efecto que tiene en la mente humana la segunda
 =====================PREGUNTA 4======================
-4. La palabra INHABILIDAD connota
+4. Es incompatible con lo sostenido por el autor del texto a severar que la aceptación mayoritaria de un tipo particular de conocimiento
 =====================ALTERNATIVAS======================
-A) defecto 
-B) desmesura 
-C) destreza
-D) impericia 
-E) torpeza.
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: B 
-=====================RAZONAMIENTO======================
-La palabra aludida hace referencia a la incontinencia en el uso de
-celulares, la cual se manifiesta en la resistencia de los usuarios nomofóbicos a apagarlos.
-Por lo anterior, el vocablo connota desmesura.
-=====================PREGUNTA 5======================
-5. Resulta incompatible con la información textual afirmar que los individuos
-nomofóbicos
-=====================ALTERNATIVAS======================
-A) incrementan sus niveles de estrés debido al uso compulsivo de sus celulares
-B) buscan de manera incesante nuevas actualizaciones en sus teléfonos móviles.
-C) acusan cierto temor ante una posible descarga del celular y la pérdida de señal
-D) pueden sentir subjetivamente que el teléfono celular se encuentra vibrando
-E) son completamente independientes y desinteresados de la aceptación s ocial
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: E. 
-=====================RAZONAMIENTO======================
-En el texto se señala que los usuarios nomofóbicos buscan nuevos
-mensajes, actualizaciones y, además, extienden el uso del celular a su vida social. De lo
-anterior se deduce que existiría una inclinación a ser aceptado socialmente.
-=====================PREGUNTA 6======================
-6. Es incongruente con lo señalado en el texto sostener que el público usado como
-objeto del experimento
-=====================ALTERNATIVAS======================
-A) constituía una población que realizaba las mismas actividades 
-B) pasó por una prueba psicosomática y la resolución deun test
-C) estaba con formado parcialmente por estudiantes universitarios
-D) hizo posible la confirmación de que ocurría un círculo vicioso
-E) contaba, en parte, con la participación de empleados diversos.
-=====================ALTERNATIVA CORRECTA======================
-SOLUCIÓN: A. 
-=====================RAZONAMIENTO======================
-En el texto se indica que las personas que pasaron el experimento
-realizaba diversas actividades o tenían diferentes ocupaciones. Resulta incompatible
-afirmar lo contrario.
-=====================PREGUNTA 7======================
-7. Respecto de las personas que padecen nomofobia, se puede colegir que
-=====================ALTERNATIVAS======================
-A) ascienden a la alarmante e inopinada cifra de 190 millones solamente en México
-B) llegan al extremo de perder sus empleos por la elevada atención a los mensajes.
-C) toman medidas muy seguras de prevención para evitar el elevado estrés y miedo
-D) podrían evitar el incremento del estrés si usarán el celular so lo para organizarse 
-E) la vida social los lleva inexorablemente a comprar smartphones más sofisticados 
+A) es posible que evidencie un influjo de tipo psicológico
+B) abre la posibilidad de que este sea pseudocientífico
+C) se relaciona muchas veces con creencias absurdas.
+D) determina de forma irrecusable su estatus científico 
+E) es definible como parte de un conjunto de creencias
 =====================ALTERNATIVA CORRECTA======================
 SOLUCIÓN: D. 
 =====================RAZONAMIENTO======================
-Las personas que padecen nomofobia acusan un crecimiento acelerado
-de los niveles de estrés cuando el teléfono se usa con fines sociales De lo anterior se
-deduce que el estrés no se dispararía si se limitara el uso del celular como organizador.
+El enunciado en (D) debido a que, según la propuesta del autor, muchas
+creencias ampliamente aceptadas (como la existencia de ángeles y demonios) no forman
+parte del conocimiento científico.
+=====================PREGUNTA 5======================
+5. En el texto, la palabra PODEROSA adquiere el sentido de
+=====================ALTERNATIVAS======================
+A) sólida 
+B) grande 
+C) ingente 
+D) mirífica 
+E) inusitada
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN: A. 
+=====================RAZONAMIENTO======================
+En este contexto, la palabra hace alusión a una teoría asentada sobre
+bases teóricas firmes, esto es, una teoría sólida
+=====================PREGUNTA 6======================
+6. Si tanto la ciencia como la pseudociencia fueran aceptadas masivamente y
+determinarán un influjo en la mente de quienes la aceptan ,probablemente
+=====================ALTERNATIVAS======================
+A) el método científico sería insosl ayable para creer en algo
+B) Newton habría tenido más razones para dudar de su teoría
+C) el apoyo objetivo en la evidencia fáctica sería inevitable
+D) se superaría la confirmación a partir de los hechos reales.
+E) el deslinde entre una y otra sería sumamente impreciso 
+=====================RAZONAMIENTO======================
+SOLUCIÓN: E. 
+=====================RAZONAMIENTO======================
+Justamente la aceptación generalizada no hace que un conocimiento sea
+considerado científico, tampoco los efectos psicológicos que pudiera generar en quienes
+lo asumen como válido Si la ciencia se equiparara en esos términos con la
+pseudociencia, la divergencia entre una y otra se tornaría sumamente opaca.
+=====================PREGUNTA 7======================
+7. Si la creencia en los ángeles fuera aceptada por un conjunto minúsculo de personas,
+=====================ALTERNATIVAS======================
+A) tendría que ser considerada como un conocimiento cimentado de forma sólida.
+B) permitiría la inclusión de esta como un ejemplo claro de escepticismo científico.
+C) al carecer de un apoyo objetivo en los hechos, seguiría siendo pseudocientífica
+D) sería menester considerarla científica pues dejaría de ser una creencia absurda.
+E) el autor del texto la soslayaría como ejemplo de consideraciones inverosímiles.
+=====================ALTERNATIVA CORRECTA======================
+SOLUCIÓN: C. 
+=====================RAZONAMIENTO======================
+El hecho de que la creencia en los ángeles sea asumido por pocas
+personas no determina que sea parte de la ciencia, ya que el deslinde real se define a
+partir del apoyo objetivo que la ciencia realiza en los hechos.

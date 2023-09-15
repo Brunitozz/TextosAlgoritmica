@@ -1,4 +1,4 @@
-ID: TEXTO 1
+ID: 47
 =====================TEXTO======================
 En la segunda mitad del siglo XIX se había reavivado el interés por el método
 axiomático, al tiempo que entraban en crisis algunos de sus supuestos tradicionales. A esta crisis contribuyó poderosamente el desarrollo de las geometrías no euclídeas. Ya Gauss había descubierto la posibilidad de desarrollar geometrías distintas de la euclídea e
@@ -23,7 +23,7 @@ Mosterín, Jesús. Conceptos y teorías en la ciencia
 A) El método axiomático concebido como sistema infalible de conocimiento
 B) El impacto de la geometría no euclídea propuesta por el célebre Gauss
 C) Las geometrías no euclídeas como ejemplo de saber pseudocientífico 
-D) La reluctancia de Frege frente a las insólitas geometrías no euclídeas*
+D) La reluctancia de Frege frente a las insólitas geometrías no euclídeas
 E) La perspicacia de Frege para oponerse a las geometrías no euclídeas
 =====================ALTERNATIVA CORRECTA======================
 D
@@ -36,7 +36,7 @@ A) rigurosidad.
 B) contradicción. 
 C) importancia.
 D) antigüedad. 
-E) implausibilidad.*
+E) implausibilidad.
 =====================ALTERNATIVA CORRECTA======================
 E
 =====================RAZONAMIENTO======================
@@ -45,7 +45,7 @@ por la que desea guardarlas como momias junto a la astrología y la alquimia. No
 =====================PREGUNTA 3======================
 3. Es posible colegir que los axiomas
 =====================ALTERNATIVAS======================
-A) son verdaderos por postulación en el seno de un sistema axiomático.*
+A) son verdaderos por postulación en el seno de un sistema axiomático.
 B) de la geometría euclidiana permiten deducir una forma contradictoria.
 C) son prescindibles cuando se trata de formar un sistema axiomático.
 D) no necesitan ser verdaderos ni falsos dentro de un sistema axiomático.
@@ -58,7 +58,7 @@ Los axiomas no son verdaderos ni falsos en sí mismos, tampoco son verdades evid
 A) por un punto exterior a una recta solamente puede trazarse una paralela a la misma.
 B) una recta no tiene puntos que pudiéramos considerar como exteriores a la misma.
 C) es imposible representar puntos geométricos por lo que no cabe geometría alguna.
-D) por un punto exterior a una recta se pueden trazar muchas paralelas a la misma.*
+D) por un punto exterior a una recta se pueden trazar muchas paralelas a la misma.
 E) por un punto perteneciente a una recta no puede trazarse ninguna paralela a la misma.
 =====================ALTERNATIVA CORRECTA======================
 D
@@ -70,7 +70,7 @@ solamente puede trazarse una paralela a la misma. Su negación implica que por d
 =====================ALTERNATIVAS======================
 A) la geometría euclídea que viene de los griegos habría pasado al olvido rápidamente como una geometría completamente falsa.
 B) Frege habría sido el primero en introducir una g eometría con un axioma incompatible con el axioma euclidiano de las paralelas.
-C) Gauss se habría adelantado aBolyai y Lobatchevski al hacer visible su investigación sobre las geometrías no euclídeas.*
+C) Gauss se habría adelantado aBolyai y Lobatchevski al hacer visible su investigación sobre las geometrías no euclídeas.
 D) los matemáticos Bolyai y Lobatchevski se habrían convertido en defensores a ultranza de la geometría euclídea convencional.
 E) habrían criticado con suma ferocidad una eventual publicación de Gauss en la que propugne una geometría no euclídea.
 =====================ALTERNATIVA CORRECTA======================
