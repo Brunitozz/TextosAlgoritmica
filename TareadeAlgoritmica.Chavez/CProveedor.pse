@@ -19,6 +19,7 @@ Metodo Proveedor.Constructor(nombre, identificacion, numero_cel)
     Esto.identificacion <-- identificacion
     Esto.numero_cel <-- numero_cel
 fMetodo 
+
 Metodo Proveedor.ObtenerNombre -->
     retorne nombre
 fMetodo

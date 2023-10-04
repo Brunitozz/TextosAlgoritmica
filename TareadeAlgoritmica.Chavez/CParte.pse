@@ -22,4 +22,24 @@ fMetodo
 
 Metodo Parte.ObtenerClasificacion -->
     retorne clasificacion
-    
+fMetodo
+
+Metodo Parte.ObtenerNombreProducto -->
+    retorne nombreProducto
+fMetodo
+
+Metodo Parte.ObtenerIdProducto -->
+    retorne idProducto
+fMetodo
+
+Metodo Parte.ColocarClasificacion(clasificacion)
+    Esto.clasificacion <-- clasificacion
+fMetodo
+
+Metodo Parte.ColocarNombreProducto(nombreProducto)
+    Esto.nombreProducto <-- nombreProducto
+fMetodo
+
+Metodo Parte.ColocarIdProducto(idProducto)
+    Esto.idProducto <-- idProducto
+fMetodo
