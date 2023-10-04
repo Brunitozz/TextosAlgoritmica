@@ -1,0 +1,44 @@
+Clase Proveedor
+    Atributos
+        privado cadena nombre
+        privado entero identificacion
+        privado entero numero_cel
+    Metodos
+        Constructor(nombre, identificacion, numero_cel)
+        ObtenerNombre -->
+        ObtenerIdentificacion -->
+        ObtenerNumero_cel -->
+        ColocarNombre (nombre)
+        ColocarIdentificacion (identificacion)
+        ColocarNumero_cel (numero_cel)
+    fMetodos
+fClase
+
+Metodo Proveedor.Constructor(nombre, identificacion, numero_cel)
+    Esto.nombre <-- nombre
+    Esto.identificacion <-- identificacion
+    Esto.numero_cel <-- numero_cel
+fMetodo 
+Metodo Proveedor.ObtenerNombre -->
+    retorne nombre
+fMetodo
+
+Metodo Proveedor.ObtenerIdentificacion -->
+    retorne identificacion
+fMetodo
+
+Metodo Proveedor.ColocarNombre(nombre)
+    Esto.nombre <-- nombre
+fMetodo
+
+Metodo Proveedor.ColocarIdentificacion(identificacion)
+    Esto.identificacion <-- identificacion
+fMetodo
+
+Metodo Proveedor.ColocarNumero_cel(numero_cel)
+    Esto.numero_cel <-- numero_cel
+fMetodo
+
+Metodo Proveedor.ObtenerNumero_cel -->
+    retorne numero_cel
+fMetodo
