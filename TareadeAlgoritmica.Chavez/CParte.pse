@@ -1,0 +1,25 @@
+Clase Parte
+    Atributos
+        privado cadena clasificacion
+        privado cadena nombreProducto
+        privado entero idProducto
+    Metodos
+        Constructor(clasificacion, nombreProducto, idProducto)
+        ObtenerClasificacion -->
+        ObtenerNombreProducto -->
+        ObtenerIdProducto -->
+        ColocarClasificacion (clasificacion)
+        ColocarNombreProducto (nombreProducto)
+        ColocarIdProducto (idProducto)
+    fMetodos
+fClase
+
+Metodo Parte.Constructor(clasificacion, nombreProducto, idProducto)
+    Esto.clasificacion <-- clasificacion
+    Esto.nombreProducto <-- nombreProducto
+    Esto.idProducto <-- idProducto
+fMetodo
+
+Metodo Parte.ObtenerClasificacion -->
+    retorne clasificacion
+    
