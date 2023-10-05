@@ -1,0 +1,37 @@
+Clase ColeccionEnvio
+    Atributos
+        Arreglo parte
+        id
+    Metodos 
+        Constructor(parteLength) 
+        AgregarParte(nombre, idProducto)
+        EliminarParte(nombre, idProducto)
+        BuscarParte(idProducto)
+        MostrarParte(idProducto)
+        ListaParte()
+    fMetodos
+fClase
+
+Metodo ColeccionEnvio.Constructor(parteLength)
+    id <-- 0
+    parte dimension[1...parteLength] contiene Parte
+fMetodo 
+Metodo ColeccionEnvio.AgregarParte(nombre, idProducto)
+
+fMetodo
+
+Metodo ColeccionEnvio.EliminarParte(nombre, idProducto)
+
+fMetodo
+
+Metodo ColeccionEnvio.BuscarParte(idProducto)
+
+fMetodo 
+
+Metodo ColeccionEnvio.MostrarParte(idProducto)
+
+fMetodo
+
+Metodo ColeccionEnvio.ListaParte()
+
+fMetodo
