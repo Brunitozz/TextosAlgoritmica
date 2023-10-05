@@ -2,14 +2,14 @@
 //Composición se puede leer como ..."Se compone"...
 Clase Proveedor
     Atributos
-        privado cadena nombre
-        privado entero identificacion
-        privado entero numero_cel
+        nombre
+        identificacion
+        numero_cel
     Metodos
         Constructor(nombre, identificacion, numero_cel)
-        ObtenerNombre -->
-        ObtenerIdentificacion -->
-        ObtenerNumero_cel -->
+        ObtenerNombre() -->
+        ObtenerIdentificacion() -->
+        ObtenerNumero_cel() -->
         ColocarNombre (nombre)
         ColocarIdentificacion (identificacion)
         ColocarNumero_cel (numero_cel)
@@ -22,11 +22,11 @@ Metodo Proveedor.Constructor(nombre, identificacion, numero_cel)
     Esto.numero_cel <-- numero_cel
 fMetodo 
 
-Metodo Proveedor.ObtenerNombre -->
+Metodo Proveedor.ObtenerNombre() -->
     retorne nombre
 fMetodo
 
-Metodo Proveedor.ObtenerIdentificacion -->
+Metodo Proveedor.ObtenerIdentificacion() -->
     retorne identificacion
 fMetodo
 
@@ -42,6 +42,6 @@ Metodo Proveedor.ColocarNumero_cel(numero_cel)
     Esto.numero_cel <-- numero_cel
 fMetodo
 
-Metodo Proveedor.ObtenerNumero_cel -->
+Metodo Proveedor.ObtenerNumero_cel() -->
     retorne numero_cel
 fMetodo
