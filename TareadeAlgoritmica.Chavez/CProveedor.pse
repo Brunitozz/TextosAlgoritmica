@@ -3,22 +3,22 @@
 Clase Proveedor
     Atributos
         nombre
-        identificacion
+        idProveedor
         numero_cel
     Metodos
-        Constructor(nombre, identificacion, numero_cel)
+        Constructor(nombre, idProveedor, numero_cel)
         ObtenerNombre() -->
-        ObtenerIdentificacion() -->
+        ObtenerIdProveedor() -->
         ObtenerNumero_cel() -->
         ColocarNombre (nombre)
-        ColocarIdentificacion (identificacion)
+        ColocarIdProveedor (idProveedor)
         ColocarNumero_cel (numero_cel)
     fMetodos
 fClase
 
-Metodo Proveedor.Constructor(nombre, identificacion, numero_cel)
+Metodo Proveedor.Constructor(nombre, idProveedor, numero_cel)
     Esto.nombre <-- nombre
-    Esto.identificacion <-- identificacion
+    Esto.idProveedor <-- idProveedor
     Esto.numero_cel <-- numero_cel
 fMetodo 
 
@@ -26,16 +26,16 @@ Metodo Proveedor.ObtenerNombre() -->
     retorne nombre
 fMetodo
 
-Metodo Proveedor.ObtenerIdentificacion() -->
-    retorne identificacion
+Metodo Proveedor.ObtenerIdProveedor() -->
+    retorne IdProveedor
 fMetodo
 
 Metodo Proveedor.ColocarNombre(nombre)
     Esto.nombre <-- nombre
 fMetodo
 
-Metodo Proveedor.ColocarIdentificacion(identificacion)
-    Esto.identificacion <-- identificacion
+Metodo Proveedor.ColocarIdProveedor(idProveedor)
+    Esto.idProveedor <-- idProveedor
 fMetodo
 
 Metodo Proveedor.ColocarNumero_cel(numero_cel)

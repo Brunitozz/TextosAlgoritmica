@@ -1,0 +1,46 @@
+Clase Envio
+    Atributos
+        idProveedor
+        idProducto
+        cantidad
+    Metodos
+        Constructor(idProveedor, idProducto, cantidad)
+        ObtenerIdProveedor()-->
+        ObtenerIdProducto()-->
+        ObtenerCantidad()-->
+        ColocarIdProveedor(idProveedor)
+        ColocarIdProducto(idProducto)
+        ColocarCantidad(cantidad)
+    fMetodos 
+fClase
+
+Metodo Envio.Constructor(idProveedor, idProducto, cantidad)
+    Esto.idProveedor <-- idProveedor
+    Esto.idProducto <-- idProducto
+    Esto.cantidad <-- cantidad
+fMetodo
+
+Metodo Envio.ObtenerIdProducto()-->
+    retorne idProducto
+fMetodo
+
+Metodo Envio.ObtenerIdProveedor()-->
+    retorne idProveedor
+fMetodo
+
+Metodo Envio.ObtenerCantidad()-->
+    retorne cantidad
+fMetodo
+
+Metodo Envio.ColocarIdProveedor(idProveedor)
+    Esto.idProveedor <-- idProveedor
+fMetodo
+
+Metodo Envio.ColocarIdProducto(idProducto)
+    Esto.idProducto <-- idProducto
+fMetodo
+
+Metodo Envio.ColocarCantidad(cantidad)
+    Esto.cantidad <-- cantidad
+fMetodo
+
