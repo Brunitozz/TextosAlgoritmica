@@ -43,7 +43,7 @@ Metodo ColeccionEnvio.AgregarParte(idProducto, nombre)
     fSi
 fMetodo
 
-Método ColeccionEnvio.posicionParte(idProducto) ->
+Metodo ColeccionEnvio.posicionParte(idProducto) ->
     posicion <- 0
     p <- 1
     Mientras (p <= id y posicion = 0) hacer
@@ -58,7 +58,7 @@ Método ColeccionEnvio.posicionParte(idProducto) ->
         fsi
     fMientras
     retornar posicion
-fmétodo
+fmetodo
 
 Metodo ColeccionEnvio.EliminarParte(idProducto)
     posicion <- posicionParte(idProducto)
