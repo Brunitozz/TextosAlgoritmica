@@ -17,21 +17,48 @@ Metodo ColeccionEnvio.Constructor(parteLength)
     parte dimension[1...parteLength] contiene Parte
 fMetodo 
 Metodo ColeccionEnvio.AgregarParte(nombre, idProducto)
-
+    id <-- id + 1
+    parte[id].nombre <-- nombre
+    parte[id].idProducto <-- idProducto
 fMetodo
 
 Metodo ColeccionEnvio.EliminarParte(nombre, idProducto)
-
+    Para cada i en 1 hasta id
+        Si (parte[i].nombre == nombre y parte[i].idProducto == idProducto) entonces
+            // Encontramos la parte a eliminar
+            parte[i].nombre <-- ""
+            parte[i].idProducto <-- 0
+            // Puedes agregar código adicional si deseas compactar el arreglo
+        FinSi
+    FinPara
 fMetodo
 
 Metodo ColeccionEnvio.BuscarParte(idProducto)
-
+    Para cada i en 1 hasta id
+        Si (parte[i].idProducto == idProducto) entonces
+            // Encontramos la parte, puedes realizar alguna acción aquí
+        FinSi
+    FinPara
 fMetodo 
 
 Metodo ColeccionEnvio.MostrarParte(idProducto)
-
+    Para cada i en 1 hasta id
+        Si (parte[i].idProducto == idProducto) entonces
+            // Muestra la información de la parte
+            Mostrar "Nombre: ", parte[i].nombre
+            Mostrar "ID Producto: ", parte[i].idProducto
+        FinSi
+    FinPara
 fMetodo
 
 Metodo ColeccionEnvio.ListaParte()
-
+    Para cada i en 1 hasta id
+        Si (parte[i].nombre <> "") entonces
+            // Muestra la información de la parte
+            Mostrar "Nombre: ", parte[i].nombre
+            Mostrar "ID Producto: ", parte[i].idProducto
+        FinSi
+    FinPara
 fMetodo
+
+
