@@ -6,6 +6,7 @@ Clase ColeccionEnvio
         Constructor(parteLength) 
         AgregarParte(nombre, idProducto)
         EliminarParte(nombre, idProducto)
+
         BuscarParte(idProducto)
         MostrarParte(idProducto)
         ListaParte()
@@ -16,45 +17,99 @@ Metodo ColeccionEnvio.Constructor(parteLength)
     id <-- 0
     parte dimension[1...parteLength] contiene Parte
 fMetodo 
+
 Metodo ColeccionEnvio.AgregarParte(nombre, idProducto)
     id <-- id + 1
     parte[id].nombre <-- nombre
     parte[id].idProducto <-- idProducto
 fMetodo
 
+Método CColeccionParte.posicionParte(idProducto) ->
+    posicion <- 0
+    p <- 1
+    Mientras (p <= id y posicion <> 0) hacer
+        Si (idProducto = parte[p].obtenerParteId()) entonces
+            posicion <- p
+        sino
+            Si (idProducto < parte[p].obtenerParteId()) entonces
+                p <- id + 1
+            sino
+                p <- p + 1
+            fSi
+        fsi
+    fMientras
+    retornar posicion
+fmétodo
+
+Método CColeccionParte.agregarParte(idProducto, sNombre) ->
+    Si(posiciónParte(idProducto) = 0) entonces
+        Objeto temp ejemplar_de CParte
+        temp.constructor((idProducto, sNombre)
+        id <- id + 1
+        Si (id = 1) entonces
+            parte[id] <- temp
+            retornar verdadero
+        sino
+            Si (id <= parte.longitud()) entonces
+                aux <- id - 1
+                Mientras (aux > 0 y idProducto < parte[aux].obtenerParteId()) hacer
+                    parte[aux + 1] <- parte[aux]
+                    aux <- aux - 1
+                fMientras
+                parte[aux + 1] <- temp
+                retornar verdadero
+            sino
+                id <- parte.longitud()
+                retornar Falso
+            fSi
+        fSi
+    sino
+        retornar Falso
+    fsi
+fmétodo
+
 Metodo ColeccionEnvio.EliminarParte(nombre, idProducto)
-    Para cada i en 1 hasta id
-        Si (parte[i].nombre == nombre y parte[i].idProducto == idProducto) entonces
-            // Encontramos la parte a eliminar
-            parte[i].nombre <-- ""
-            parte[i].idProducto <-- 0
-            // Puedes agregar código adicional si deseas compactar el arreglo
-        FinSi
-    FinPara
+    posicion <- posiciónParte(idProducto)
+    Si(posicion <> 0) entonces
+        parte[posicion] <- nulo
+        Para p desde posicion hasta id - 1 hacer
+            parte[p] <- parte[p + 1]
+        fPara
+        parte[id] <- nulo
+        id <- id - 1
+        retornar verdadero
+    sino
+        retornar Falso
+    fsi
 fMetodo
 
 Metodo ColeccionEnvio.BuscarParte(idProducto)
-    Para cada i en 1 hasta id
-        Si (parte[i].idProducto == idProducto) entonces
-            // Encontramos la parte, puedes realizar alguna acción aquí
-        FinSi
-    FinPara
+    p <- 1
+    Mientras (p <= id) hacer
+        Si (idProducto = parte[p].obtenerParteId()) entonces
+            retornar parte[p]
+        sino
+            Si (idProducto < parte[p].obtenerParteId()) entonces
+                p <- id + 1
+            sino
+                p <- p + 1
+            fSi
+        fsi
+    fMientras
+    retornar nulo
 fMetodo 
 
 Metodo ColeccionEnvio.MostrarParte(idProducto)
-    Para cada i en 1 hasta id
-        Si (parte[i].idProducto == idProducto) entonces
-            // Muestra la información de la parte
-            Mostrar "Nombre: ", parte[i].nombre
-            Mostrar "ID Producto: ", parte[i].idProducto
-        FinSi
-    FinPara
+    Si(Posicion <= id) entonces
+        retornar parte[Posicion]
+    sino
+        retornar nulo
+    fsi
 fMetodo
 
 Metodo ColeccionEnvio.ListaParte()
     Para cada i en 1 hasta id
         Si (parte[i].nombre <> "") entonces
-            // Muestra la información de la parte
             Mostrar "Nombre: ", parte[i].nombre
             Mostrar "ID Producto: ", parte[i].idProducto
         FinSi
